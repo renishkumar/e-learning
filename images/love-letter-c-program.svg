@@ -1,0 +1,55 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="338.15mm" width="269.64mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 955.43121 1198.1585">
+ <defs>
+  <filter id="c" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-color="rgb(226,226,226)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="9.9" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="24.7396" dy="26"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="b" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-color="rgb(226,226,226)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="9.9" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="24.7" dy="26"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="a" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-color="rgb(226,226,226)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="9.9" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="24.7" dy="26"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g transform="translate(133.43 91.275)">
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#f55;fill:#fff;fill-rule:evenodd;mix-blend-mode:normal;opacity:0.942;image-rendering:auto;isolation:auto;filter:url(#c)" transform="rotate(-9.7605)" height="908.94" width="605.71" y="108.95" x="-22.937"/>
+  <path style="stroke:#e05040;stroke-width:1px;fill:none" d="m11.841 204.36 597.02-102.69"/>
+  <path d="m18.623 243.79 597.02-102.7" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <path style="stroke:#e05040;stroke-width:1px;fill:none" d="m25.404 283.21 597.03-102.7"/>
+  <path d="m32.185 322.63 597.02-102.7" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <path style="stroke:#e05040;stroke-width:1px;fill:none" d="m38.966 362.05 597.02-102.7"/>
+  <path d="m45.747 401.47 597.02-102.7" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <path style="stroke:#e05040;stroke-width:1px;fill:none" d="m52.528 440.89 597.02-102.7"/>
+  <path d="m59.309 480.31 597.02-102.7" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <path d="m66.09 519.73 597.02-102.7" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <path style="stroke:#e05040;stroke-width:1px;fill:none" d="m72.871 559.15 597.02-102.69"/>
+  <path d="m79.653 598.57 597.02-102.69" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <path style="stroke:#e05040;stroke-width:1px;fill:none" d="m86.434 638 597.03-102.7"/>
+  <path d="m93.215 677.42 597.02-102.7" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <path style="stroke:#e05040;stroke-width:1px;fill:none" d="m99.996 716.84 597.02-102.7"/>
+  <path d="m106.78 756.26 597.02-102.7" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <path style="stroke:#e05040;stroke-width:1px;fill:none" d="m113.56 795.68 597.02-102.7"/>
+  <path d="m120.34 835.1 597.02-102.7" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <path style="stroke:#e05040;stroke-width:1px;fill:none" d="m127.12 874.52 597.02-102.7"/>
+  <path d="m133.9 913.94 597.02-102.7" style="stroke:#e05040;stroke-width:1px;fill:none"/>
+  <g style="filter:url(#a)" transform="matrix(.072309 -.085358 .085358 .072309 673.65 892.11)">
+   <path d="m297.3 550.87c-78.58-81.9-186.69-132.26-254.07-225.39-39.322-56.05-48.64-129.42-35.18-195.45 21.996-69.269 89.555-126 164.25-122.3 57.53-5.1409 110.87 32.91 138.56 81.091 7.5209 4.6414 7.1894 44.281 14.381 21.449 21.004-58.185 77.87-100.47 139.92-102.36 82.274-6.3367 166.09 56.622 174.38 140.37 9.3016 62.936-.81355 130.82-40.805 182.01-58.449 78.667-148.43 123.66-218.09 190.79-21.764 15.873-45.685 49.305-62.56 58.849-5.6176-10.548-12.826-20.166-20.783-29.054z" style="fill:#f00"/>
+  </g>
+  <g style="filter:url(#b)" transform="matrix(.22432 -.18058 .18058 .22432 -110.62 136.9)">
+   <path style="fill:#f00" d="m297.3 550.87c-13.78-15.44-48.17-45.53-76.44-66.88-83.74-63.24-95.14-72.39-129.14-103.7-62.685-57.72-89.306-115.71-89.215-194.34.0444-38.38 2.6606-53.17 13.41-75.8 18.236-38.382 45.1-66.905 79.445-84.351 24.33-12.355 36.32-17.845 76.94-18.069 42.493-.23483 51.439 4.7197 76.435 18.452 30.425 16.714 61.74 52.436 68.213 77.811l3.9981 15.672 9.8596-21.585c55.716-121.97 233.6-120.15 295.5 3.0316 19.638 39.076 21.794 122.51 4.3801 169.51-22.715 61.309-65.38 108.05-164.01 179.68-64.681 46.974-137.88 118.05-142.98 128.03-5.9155 11.588-.28216 1.8159-26.408-27.461z"/>
+  </g>
+  <text style="letter-spacing:0px;font-size:35px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#f80708" xml:space="preserve" transform="rotate(-8.9707)" y="319.88828" x="19.37863"><tspan x="19.37863" style="font-family:&apos;AR BLANCA&apos;;font-weight:100;fill:#f80708" y="319.88828">Dear,</tspan></text>
+  <text style="font-size:35px;font-weight:100;letter-spacing:0px;line-height:114.99999762%;word-spacing:0px;font-family:&apos;AR BLANCA&apos;;fill:#f80708" xml:space="preserve" transform="rotate(-9.7465)" y="359.9537" x="6.4226646"><tspan x="6.4226646" y="359.9537">        If I had the letter &quot;HRT&quot;, </tspan><tspan x="6.4226646" y="400.2037">I can add &quot;EA&quot; to get &quot;HEART&quot; or a &quot;U&quot;</tspan><tspan x="6.4226646" y="440.4537">and get &quot;HURT&quot;. But I would rather </tspan><tspan x="6.4226646" y="480.7037">choose &quot;U&quot; and get &quot;HURT&quot; than to have </tspan><tspan x="6.4226646" y="520.95367">have a &quot;HEART&quot; without &quot;U&quot;</tspan></text>
+ </g>
+</svg>

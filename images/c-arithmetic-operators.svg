@@ -1,0 +1,47 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="262.52mm" width="237.56mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.73602 930.20147" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="translate(64.655 -174.12)">
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#f9f9f9" height="930.2" width="841.74" y="174.12" x="-64.655"/>
+  <g transform="translate(0 -.000023549)">
+   <g transform="translate(-60)">
+    <g id="i">
+     <rect id="a" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#666" height="171.73" width="34.345" y="278.55" x="163.83"/>
+     <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ccc" ry="0" height="171.76" width="13.132" y="278.55" x="196.15"/>
+     <path style="fill:#666;fill-rule:evenodd" d="m163.83 278.56 6.5362-2.5423 25.79.0117v2.5312z"/>
+     <path d="m196.16 278.54-.005-2.5202 13.125-.0117v2.5312z" style="fill:#ccc;fill-rule:evenodd"/>
+    </g>
+    <g id="j" transform="translate(-12 5.3018)">
+     <use xlink:href="#a" transform="matrix(0 -1 1 0 -165.86 538.88)" height="100%" width="100%" y="0" x="0"/>
+     <path d="m112.67 340.66 1.3948-1.0129h169.13l1.2435 1.0129z" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ccc"/>
+     <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ccc" d="m284.44 375.05-1.3948 1.0129h-169.13l-1.2435-1.0129z"/>
+    </g>
+   </g>
+   <g transform="translate(49.99)">
+    <use xlink:href="#i" transform="matrix(.70711 .70711 -.70711 .70711 671.43 -25.547)" height="100%" width="100%" y="0" x="0"/>
+    <use xlink:href="#j" transform="matrix(.70711 .70711 -.70711 .70711 671.43 -25.547)" height="100%" width="100%" y="0" x="0"/>
+   </g>
+  </g>
+  <g transform="translate(0 .57348)">
+   <use id="b" xlink:href="#a" transform="matrix(0 -1 1 0 -237.86 844.18)" height="100%" width="100%" y="0" x="0"/>
+   <path id="e" d="m212.44 680.36-1.3948 4.4366h-169.13l-1.2435-4.4366z" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ccc"/>
+   <g id="h" transform="translate(70 .0000014243)">
+    <circle id="k" cx="526.56" cy="599.18" r="21.788" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ccc"/>
+    <circle id="d" r="21.788" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#666" cx="526.56" cy="595.18"/>
+   </g>
+   <g id="f" transform="translate(70)">
+    <use xlink:href="#k" transform="translate(0 134)" height="100%" width="100%" y="0" x="0"/>
+    <use xlink:href="#d" transform="translate(0 134)" height="100%" width="100%" y="0" x="0"/>
+   </g>
+   <path id="c" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ccc" d="m40.673 646.01 1.3948-4.4366h169.13l1.2435 4.4366z"/>
+   <g id="g" transform="translate(70 .99107)">
+    <use xlink:href="#b" transform="translate(400)" height="100%" width="100%" y="0" x="0"/>
+    <use xlink:href="#e" transform="translate(400)" height="100%" width="100%" y="0" x="0"/>
+    <use xlink:href="#c" transform="translate(400)" height="100%" width="100%" y="0" x="0"/>
+   </g>
+  </g>
+  <g transform="translate(-240.34 70.139)">
+   <use xlink:href="#h" transform="matrix(-.70711 .70711 -.70711 -.70711 1488 931.99)" height="100%" width="100%" y="0" x="0"/>
+   <use xlink:href="#f" transform="matrix(-.70711 .70711 -.70711 -.70711 1488 931.99)" height="100%" width="100%" y="0" x="0"/>
+   <use xlink:href="#g" transform="matrix(-.70711 .70711 -.70711 -.70711 1488 931.99)" height="100%" width="100%" y="0" x="0"/>
+  </g>
+ </g>
+</svg>

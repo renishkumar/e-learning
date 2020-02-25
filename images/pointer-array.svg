@@ -1,0 +1,178 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="font-family:sans-serif" xmlns="http://www.w3.org/2000/svg" height="195.34mm" width="166.65mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 590.49805 692.145">
+ <defs>
+  <filter id="a" style="color-interpolation-filters:sRGB" label="Drop Shadow">
+   <feFlood result="flood" flood-color="rgb(164,255,137)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="5.20833" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="2.6" dy="2.6"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g transform="translate(-55.103 44.885)" groupmode="layer" label="Layer 1">
+  <text y="230.21936" x="55" style="font-size:35px;fill:#4d4d4d">
+   <tspan y="230.21936" x="55">A</tspan>
+   <tspan y="273.96936" x="55">R</tspan>
+   <tspan y="317.71936" x="55">R</tspan>
+   <tspan y="361.46936" x="55">A</tspan>
+   <tspan y="405.21936" x="55">Y</tspan>
+  </text>
+  <text y="205.21936" x="620" style="font-size:35px;fill:#4d4d4d">
+   <tspan y="205.21936" x="620">P</tspan>
+   <tspan y="248.96936" x="620">O</tspan>
+   <tspan y="292.71936" x="620">I</tspan>
+   <tspan y="336.46936" x="620">N</tspan>
+   <tspan y="380.21936" x="620">T</tspan>
+   <tspan y="423.96936" x="620">E</tspan>
+   <tspan y="467.71936" x="620">R</tspan>
+   <tspan y="511.46936" x="620"/>
+  </text>
+  <text y="-9.6377954" x="124.0199" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="-9.6377954" x="124.0199">Index</tspan>
+  </text>
+  <text y="-11.825295" x="308.66699" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="-11.825295" x="308.66699">Memory</tspan>
+  </text>
+  <text y="-9.6377954" x="501.02307" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="-9.6377954" x="501.02307">Address</tspan>
+  </text>
+  <rect style="filter:url(#a);fill:#b4e979" rx="0" ry="0" height="576.79" width="488.76" y="12.793" x="105.36"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m204.74 12.467v574.58"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m488.74 587.05v-574.58"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 52.362h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 93.593h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 134.82h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 176.05h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 217.29h490"/>
+  <text y="41.729698" x="147.41351" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="41.729698" x="147.41351">0</tspan>
+  </text>
+  <text y="83.444176" x="147.13031" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="83.444176" x="147.13031">1</tspan>
+  </text>
+  <text y="123.10983" x="147.28656" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="123.10983" x="147.28656">2</tspan>
+  </text>
+  <text y="162.77547" x="147.3598" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="162.77547" x="147.3598">3</tspan>
+  </text>
+  <text y="202.44112" x="147.5307" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="202.44112" x="147.5307">4</tspan>
+  </text>
+  <text y="245.80403" x="147.2182" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="245.80403" x="147.2182">5</tspan>
+  </text>
+  <text y="41.280479" x="501.18506" style="font-size:18.75px;fill:#4d4d4d">
+   <tspan y="41.280479" x="501.18506">4214781</tspan>
+  </text>
+  <text y="80.183678" x="500.79596" style="font-size:18.75px;fill:#4d4d4d">
+   <tspan y="80.183678" x="500.79596">4214782</tspan>
+  </text>
+  <text y="121.08688" x="500.89209" style="font-size:18.75px;fill:#4d4d4d">
+   <tspan y="121.08688" x="500.89209">4214783</tspan>
+  </text>
+  <text y="161.99007" x="500.64032" style="font-size:18.75px;fill:#4d4d4d">
+   <tspan y="161.99007" x="500.64032">4214784</tspan>
+  </text>
+  <text y="202.89326" x="500.85089" style="font-size:18.75px;fill:#4d4d4d">
+   <tspan y="202.89326" x="500.85089">4214785</tspan>
+  </text>
+  <text y="245.79646" x="500.69525" style="font-size:18.75px;fill:#4d4d4d">
+   <tspan y="245.79646" x="500.69525">4214786</tspan>
+  </text>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 258.52h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 299.75h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 340.98h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 382.21h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 423.44h490"/>
+  <text y="285.74313" x="147.29633" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="285.74313" x="147.29633">6</tspan>
+  </text>
+  <text y="327.40878" x="147.30121" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="327.40878" x="147.30121">7</tspan>
+  </text>
+  <text y="369.10373" x="147.42328" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="369.10373" x="147.42328">8</tspan>
+  </text>
+  <text y="411.09164" x="147.5307" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="411.09164" x="147.5307">9</tspan>
+  </text>
+  <text y="451.03073" x="140.35785" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="451.03073" x="140.35785">10</tspan>
+  </text>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 464.67h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 505.9h490"/>
+  <path connector-curvature="0" style="stroke:#a3c67d;stroke-width:1px;fill:none" d="m104.74 547.13h490"/>
+  <text y="490.74521" x="140.76312" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="490.74521" x="140.76312">11</tspan>
+  </text>
+  <text y="532.41083" x="140.34808" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="532.41083" x="140.34808">12</tspan>
+  </text>
+  <text y="576.07648" x="140.45062" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="576.07648" x="140.45062">13</tspan>
+  </text>
+  <text y="287.62912" x="498.00848" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="287.62912" x="498.00848">4214787</tspan>
+  </text>
+  <text y="328.62552" x="497.9743" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="328.62552" x="497.9743">4214788</tspan>
+  </text>
+  <text y="369.62192" x="498.03778" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="369.62192" x="498.03778">4214789</tspan>
+  </text>
+  <text y="410.58902" x="498.03778" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="410.58902" x="498.03778">4214790</tspan>
+  </text>
+  <text y="451.52682" x="498.44305" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="451.52682" x="498.44305">4214791</tspan>
+  </text>
+  <text y="492.4451" x="498.02802" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="492.4451" x="498.02802">4214792</tspan>
+  </text>
+  <text y="535.3634" x="498.13055" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="535.3634" x="498.13055">4214793</tspan>
+  </text>
+  <text y="576.28162" x="497.862" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="576.28162" x="497.862">4214794</tspan>
+  </text>
+  <text y="38.087852" x="341.02469" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="38.087852" x="341.02469">P</tspan>
+  </text>
+  <text y="79.663658" x="339.8577" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="79.663658" x="339.8577">O</tspan>
+  </text>
+  <text y="121.23947" x="343.52469" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="121.23947" x="343.52469">I</tspan>
+  </text>
+  <text y="162.51253" x="340.23367" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="162.51253" x="340.23367">N</tspan>
+  </text>
+  <text y="203.7856" x="341.57156" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="203.7856" x="341.57156">T</tspan>
+  </text>
+  <text y="245.05869" x="340.99051" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="245.05869" x="340.99051">E</tspan>
+  </text>
+  <text y="286.33176" x="339.76492" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="286.33176" x="339.76492">R</tspan>
+  </text>
+  <text y="369.60483" x="340.89774" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="369.60483" x="340.89774">A</tspan>
+  </text>
+  <text y="410.8779" x="339.76492" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="410.8779" x="339.76492">R</tspan>
+  </text>
+  <text y="452.15097" x="339.76492" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="452.15097" x="339.76492">R</tspan>
+  </text>
+  <text y="493.42404" x="340.89774" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="493.42404" x="340.89774">A</tspan>
+  </text>
+  <text y="534.69708" x="341.58133" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="534.69708" x="341.58133">Y</tspan>
+  </text>
+  <text y="572.36218" x="337.14285" style="font-size:20px;fill:#4d4d4d">
+   <tspan y="572.36218" x="337.14285">\0</tspan>
+  </text>
+ </g>
+</svg>

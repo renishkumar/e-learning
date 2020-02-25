@@ -1,0 +1,52 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="131.68mm" width="104.6mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 370.62394 466.57654">
+ <defs>
+  <marker id="a" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="fill-rule:evenodd;stroke:#5bc273;stroke-width:1pt;fill:#5bc273" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <marker id="b" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="fill-rule:evenodd;stroke:#2a7459;stroke-width:1pt;fill:#2a7459" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <marker id="d" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="fill-rule:evenodd;stroke:#5bc273;stroke-width:1pt;fill:#5bc273" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <filter id="c" style="color-interpolation-filters:sRGB" label="Drop Shadow">
+   <feFlood result="flood" flood-color="rgb(164,255,137)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="5.20833" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="2.6" dy="2.6"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g transform="translate(-140.89 -79.074)">
+  <rect style="filter:url(#c);fill:#b4e979" transform="matrix(.33220 0 0 .67410 297.91 109.33)" rx="0" ry="0" height="576.79" width="488.76" y="12.793" x="105.36"/>
+  <path d="m332.71 158.03h162.78" connector-curvature="0" style="fill-rule:evenodd;stroke:#a3c67d;stroke-width:1px;fill:#4d4d4d"/>
+  <path d="m332.71 196.69h162.78" connector-curvature="0" style="fill-rule:evenodd;stroke:#a3c67d;stroke-width:1px;fill:#4d4d4d"/>
+  <path d="m332.71 235.35h162.78" connector-curvature="0" style="fill-rule:evenodd;stroke:#a3c67d;stroke-width:1px;fill:#4d4d4d"/>
+  <path d="m332.71 274h162.78" connector-curvature="0" style="fill-rule:evenodd;stroke:#a3c67d;stroke-width:1px;fill:#4d4d4d"/>
+  <path d="m332.71 312.66h162.78" connector-curvature="0" style="fill-rule:evenodd;stroke:#a3c67d;stroke-width:1px;fill:#4d4d4d"/>
+  <path d="m332.71 351.32h162.78" connector-curvature="0" style="fill-rule:evenodd;stroke:#a3c67d;stroke-width:1px;fill:#4d4d4d"/>
+  <path d="m332.71 389.98h162.78" connector-curvature="0" style="fill-rule:evenodd;stroke:#a3c67d;stroke-width:1px;fill:#4d4d4d"/>
+  <path d="m332.71 428.64h162.78" connector-curvature="0" style="fill-rule:evenodd;stroke:#a3c67d;stroke-width:1px;fill:#4d4d4d"/>
+  <path d="m332.71 467.29h162.78" connector-curvature="0" style="fill-rule:evenodd;stroke:#a3c67d;stroke-width:1px;fill:#4d4d4d"/>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="419.09207" x="162.05157"><tspan x="162.05157" y="419.09207">Null Pointer</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="145.93385" x="146.31427"><tspan x="146.31427" style="fill:#515151" y="145.93385">Actual Pointers</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="182.80788" x="199.24396"><tspan x="199.24396" y="182.80788">*ptr</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="221.94948" x="193.98029"><tspan x="193.98029" y="221.94948">*ptr1</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="259.345" x="193.56525"><tspan x="193.56525" y="259.345">*ptr2</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="446.47842" x="192.91583"><tspan x="192.91583" y="446.47842">*nptr</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="145.36244" x="375.76492"><tspan x="375.76492" y="145.36244">294562</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="183.35634" x="409.5491"><tspan x="409.5491" y="183.35634">:</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="221.0475" x="409.5491"><tspan x="409.5491" y="221.0475">:</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="262.67422" x="375.86746"><tspan x="375.86746" y="262.67422">295523</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="300.66812" x="409.5491"><tspan x="409.5491" y="300.66812">:</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="338.35928" x="409.5491"><tspan x="409.5491" y="338.35928">:</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="415.97989" x="409.5491"><tspan x="409.5491" y="415.97989">:</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="379.98599" x="375.59891"><tspan x="375.59891" y="379.98599">297234</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="455.67105" x="409.5491"><tspan x="409.5491" y="455.67105">:</tspan></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="493.36221" x="409.5491"><tspan x="409.5491" y="493.36221">:</tspan></text>
+  <path style="marker-end:url(#a);stroke:#2a7459;stroke-width:1px;fill:none" d="m251.43 175.22 77.143-28.571"/>
+  <path style="marker-end:url(#d);stroke:#2a7459;stroke-width:1px;fill:none" d="m251.43 215.22 81.429 41.429"/>
+  <path style="marker-end:url(#b);stroke:#2a7459;stroke-width:1px;fill:none" d="m252.86 260.93 81.429 108.57"/>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#515151" xml:space="preserve" y="477.58542" x="139.12189"><tspan x="139.12189" y="477.58542">(Points Nothing)</tspan></text>
+ </g>
+</svg>

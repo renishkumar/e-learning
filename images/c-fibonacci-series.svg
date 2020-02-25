@@ -1,0 +1,31 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="156.21mm" width="203.18mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 719.94359 553.51402" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="a" y2="550.1" gradientUnits="userSpaceOnUse" x2="596.56" y1="1.999" x1="-117.96">
+   <stop style="stop-color:#fa6196" offset="0"/>
+   <stop style="stop-color:#fbf34d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(121.22 .95459)">
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#a)" rx="0" ry="0" height="552.77" width="719.82" y="-.56064" x="-121.22"/>
+  <path style="stroke:#fff;stroke-width:3;fill:none" d="m-114.32 551.23c-52.69-448.94 374.39-704.82 631.32-449.35 102.76 110.04 113.55 296.56-7.27 398.32-82.33 69.34-208.75 72.86-276.5-21.16-54.31-75.36-19.46-171.26 57.06-189.68 140.69-26.711 72.424 142.11.58263 53.31"/>
+  <path style="stroke:#fff;stroke-width:1.5;fill:none" d="m374.38 284.85v267.34"/>
+  <path d="m374.92 371.02h-168.49" style="stroke:#fff;stroke-width:1.5;fill:none"/>
+  <path style="stroke:#fff;stroke-width:1.5;fill:none" d="m205.87.092753v552.1"/>
+  <path d="m596.18 284.57h-390.66" style="stroke:#fff;stroke-width:1.5;fill:none"/>
+  <path d="m290.68 284.2v85.958" style="stroke:#fff;stroke-width:1.5;fill:none"/>
+  <path d="m336.66 329.87v40.031" style="stroke:#fff;stroke-width:1.5;fill:none"/>
+  <path style="stroke:#fff;stroke-width:1.5;fill:none" d="m371.25 329.82h-80.719"/>
+  <path style="stroke:#fff;stroke-width:1.5;fill:none" d="m290.56 347.27h46.24"/>
+  <path d="m313.68 329.78v17.258" style="stroke:#fff;stroke-width:1.5;fill:none"/>
+  <text style="font-size:18.75px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" xml:space="preserve" y="345.57504" x="298.07349"><tspan x="298.07349" style="font-size:18.75px;line-height:125%;font-family:sans-serif;fill:#ffffff" y="345.57504">1</tspan></text>
+  <text style="font-size:21.25px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" xml:space="preserve" y="365.09128" x="322.41443"><tspan x="322.41443" style="font-size:21.25px;line-height:125%;font-family:sans-serif;fill:#ffffff" y="365.09128">2</tspan></text>
+  <text style="font-size:30px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" y="355.74161" x="341.05203" xml:space="preserve"><tspan y="355.74161" x="341.05203" style="font-size:30px;line-height:125%;font-family:sans-serif;fill:#ffffff">3</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" xml:space="preserve" y="321.98767" x="319.40744"><tspan x="319.40744" style="font-size:35px;line-height:125%;font-family:sans-serif;fill:#ffffff" y="321.98767">5</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" y="339.89801" x="252.68492" xml:space="preserve"><tspan y="339.89801" x="252.68492" style="font-size:35px;line-height:125%;font-family:sans-serif;fill:#ffffff">8</tspan></text>
+  <text style="font-size:95px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" xml:space="preserve" y="187.00565" x="338.83356"><tspan x="338.83356" style="font-size:95px;line-height:125%;font-family:sans-serif;fill:#ffffff" y="187.00565">34</tspan></text>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="485.78711" x="241.87968" xml:space="preserve"><tspan y="485.78711" x="241.87968" style="font-size:75px;fill:#ffffff">13</tspan></text>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" xml:space="preserve" y="450.06567" x="430.23969"><tspan x="430.23969" style="font-size:85px;fill:#ffffff" y="450.06567">21</tspan></text>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="309.96048" x="8.2396927" xml:space="preserve"><tspan y="309.96048" x="8.2396927" style="font-size:95px;fill:#ffffff">55</tspan></text>
+  <text style="font-size:18.75px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" y="345.57504" x="320.07349" xml:space="preserve"><tspan y="345.57504" x="320.07349" style="font-size:18.75px;line-height:125%;font-family:sans-serif;fill:#ffffff">1</tspan></text>
+ </g>
+</svg>

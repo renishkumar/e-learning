@@ -1,0 +1,446 @@
+<!doctype html><html>
+
+<!-- Mirrored from www.2braces.com/c-programming/c-alphabet-pattern-10 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Feb 2020 16:36:21 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8"/>
+<title>C Alphabetic Pattern 10</title>
+<meta name="Description" content="C program to print the alphabets in triangle Pattern by using simple logic. Output : E DD CCC BBBB AAAAA. This program uses loops to print number pattern. Number patterns are frequently asked in interview questions.">
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="icon" type="image/png" href="../images/favicon.png">
+<link rel="stylesheet" href="../css/styles.css">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75345241-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script data-ad-client="ca-pub-1272335038483755" async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+
+<style>
+    form.gsc-search-box{
+        width: 88% !important;
+    }
+    .gsc-search-box-tools .gsc-search-box .gsc-input{
+        background-image: initial !important;
+        text-indent: 0 !important;
+        padding: 0;
+        border: 0;
+    }
+    td.gsc-search-button{
+        padding: 0;
+        border: 0;
+    }
+    .cse .gsc-search-button-v2, .gsc-search-button-v2{
+        padding: 8px 27px;
+    }
+    .gsib_a, .gsib_b{
+        padding: 0 !important;
+        border: 0;
+    }
+    .cse .gsc-control-cse, .gsc-control-cse{
+        padding: 2em 1em !important;
+    }
+    .gsc-control-cse{
+        box-shadow: 0 0 3px rgba(0,0,0,.3);
+    }
+    .gsc-search-box-tools .gsc-search-box .gsc-input{
+        padding: 4px !important;
+        letter-spacing: 1px;
+    }
+    .gsc-search-button-v2, .gsc-search-button-v2:hover, .gsc-search-button-v2:focus{
+        background-color: #555556 !important;
+    }
+    @media(max-width: 768px){
+        .cse .gsc-control-cse, .gsc-control-cse{
+                padding: 1em !important;
+        }
+        .gsc-results-wrapper-overlay{
+            width: 90% !important;
+            left: 0 !important;
+            right: 0 !important;
+            top: 7% !important;
+        }
+    }
+    .ee:before, .ee:after, .ff:before, .ff:after{
+        content: none !important;
+    }
+</style>
+</head>
+<body>
+<header class="topnav">
+<div class="searchbox">
+<form><div id="test">
+<script>
+  (function() {
+    var cx = 'partner-pub-5544795706234622:6341640125';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = '../../cse.google.com/cse07b6.html?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div></form>
+</div>
+<nav>
+<div class="navig">
+<div class="logo">
+<a href="../index.html"><img src="../images/perfect-logo.png" alt="2braces logo"></a>
+</div>
+<div class="nav-items">
+<ul>
+<li><a href="index.html">C Programming</a></li>
+<li><a href="../data-structures/index.html">Data Structures</a></li>
+<li><a href="../c-questions/index.html">C Questions</a></li>
+<li><a href="../aptitude/index.html">Aptitude</a></li>
+<li><a href="../electrical/index.html">Electrical</a></li>
+</ul>
+<div class="searchicon"><span id="twocolors"><svg class="searchsvg" width="4.8073144mm" height="4.2179461mm" viewBox="0 0 17.033791 14.945478"><g transform="translate(-38.672671,-129.77446)"><g transform="matrix(0.93798598,0,0,0.9374782,3.1764162,8.7812659)"><circle r="5.5" cy="135.36221" cx="44.142857" style="fill: none; fill-rule: nonzero; stroke: rgb(110, 110, 110); stroke-width: 1.5996; stroke-miterlimit: 4; transition: stroke 0.4s;"></circle><rect transform-center-y="7.6780863" transform-center-x="-9.0466861" transform="matrix(0.6011622,-0.79912703,0.79912703,0.6011622,0,0)" rx="1.0773102" ry="1.0771486" y="122.07453" x="-82.974396" height="9.0913725" width="2.0203052" style="fill: rgb(110, 110, 110); stroke: rgb(110, 110, 110); stroke-width: 0.533201; stroke-miterlimit: 4; transition: all 0.4s;"></rect></g></g></svg></span></div>
+<div class="topham">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+</div>
+</nav>
+</header><section>
+<div class="container-fluid">
+<div class="row">
+<div class="sharebox"><div class="insharebox"><a href="https://twitter.com/2bracesindia" class="socialicons twit"></a><a href="https://www.facebook.com/2braces" class="socialicons fb"></a><a href="https://plus.google.com/+2bracesIndia" class="socialicons gplus"></a><a href="https://www.linkedin.com/company/2braces" class="socialicons edin"></a></div></div>
+<div class="col-md-2 sidenav">
+<div class="sidenavinner">
+<div class="indexlist">
+<h3>C Foundation</h3>
+<a href="index.html">What is C?</a>
+<a href="c-how-to-install-compiler.html">C Compiler Installation</a>
+<a href="c-extensions.html">C Extensions</a>
+<a href="c-compiler.html">C Compiler</a>
+<a href="interpreter.html">C Interpreter</a>
+<a href="c-basic-program.html">C Program Structure</a>
+<h3>C Basics</h3>
+<a href="c-keywords.html">C Keywords</a>
+<a href="c-data-types.html">C Data Types</a>
+<a href="c-identifiers.html">C Identifiers</a>
+<a href="c-variables.html">C Variables</a>
+<a href="c-constants.html">C Constant</a>
+<a href="c-escape-sequences.html">C Escape Sequences</a>
+<a href="c-constant-volatile-difference.html">C Constant and Volatile</a>
+<a href="c-type-casting.html">C Typecast</a>
+<h3>Operators</h3>
+<a href="c-operators.html">What is Operator</a>
+<a href="c-comma-operator.html">C Comma Operator</a>
+<a href="c-arithmetic-operators.html">C Arithmetic Operators</a>
+<a href="c-relational_operators.html">C Relational Operators</a>
+<a href="c-logical-operators.html">C Logical Operators</a>
+<a href="c-bitwise-operators.html">C Bitwise Operators</a>
+<a href="c-conditional-ternary-operators.html">C Conditional Operators</a>
+<a href="c-scope-resolution-operator.html">C <strong> : : </strong> Operator</a>
+<a href="c-operators-precedence.html">C Operator Priority</a>
+<h3>Basic IO's</h3>
+<a href="c-input-output.html">Basic IO's</a>
+<a href="c-formatted-io-functions.html">C Formatted Functions</a>
+<a href="c-unformatted-io-functions.html">C Unformatted Functions</a>
+<a href="c-library-functions.html">C Common Functions</a>
+<h3>Control Statements</h3>
+<a href="c-control-statements.html">What is Control Statement</a>
+<a href="c-if-statement.html">C if Statement</a>
+<a href="c-if-else.html">C if else Statement</a>
+<a href="c-nested-if.html">C Nested if Statement</a>
+<a href="c-nested-if-else.html">C Else if Statement</a>
+<a href="c-break-statement.html">C Break Statement</a>
+<a href="c-continue-statement.html">C Continue Statement</a>
+<a href="c-switch-statement.html">C Switch Statement</a>
+<a href="c-goto-statement.html">C Goto Statement</a>
+<h3>Looping</h3>
+<a href="c-control-loop.html">What is Control Loop</a>
+<a href="c-for-loop.html">C for Loop</a>
+<a href="c-nested-for-loops.html">C Nested for Loop</a>
+<a href="c-while-loop.html">C while Loop</a>
+<a href="c-nested-while-loops.html">C Nested while Loop</a>
+<a href="c-do-while-loop.html">C do while Loop</a>
+<a href="c-nested-do-while-loops.html">C Nested do while loop</a>
+<h3>Functions</h3>
+<a href="c-functions.html">What is Function</a>
+<a href="c-user-defined-functions.html">C User Defined Functions</a>
+<a href="c-recursion.html">C Recursion</a>
+<a href="c-call-by-value-call-by-reference.html">C Passing Parameters</a>
+<h3>Scope</h3>
+<a href="c-scope-rules.html">Scope</a>
+<a href="c-local-variables.html">C Local Scope</a>
+<a href="c-global-variables.html">C Global Scope</a>
+<h3>Storage Classes</h3>
+<a href="c-storage-classes.html">What is Storage Class</a>
+<a href="c-auto-storage-class.html">C  Auto</a>
+<a href="c-extern-storage-class.html">C Extern</a>
+<a href="c-static-storage-class.html">C Static</a>
+<a href="c-register-storage-class.html">C Register</a>
+<h3>Array</h3> 
+<a href="c-arrays.html">What is Array</a>
+<a href="c-one-dimensional-array.html">C One Dimensional Array</a>
+<a href="c-two-dimensional-array.html">C Two Dimensional Array</a>
+<a href="c-multi-dimensional-arrays.html">C Multi Dimensional Array</a>
+<a href="c-arrays-of-strings.html">C Arrays Of Strings</a>
+<h3>String</h3>
+<a href="c-strings.html">What is String</a>
+<a href="c-string-functions.html">C String Functions</a>
+<h3>Pointer</h3>
+<a href="c-pointers.html">What is Pointer</a>
+<a href="c-pointer-arithmetic.html">C Pointers Arithmetic</a>
+<a href="c-pointer-to-pointer.html">C Pointer to Pointer</a>
+<a href="c-pointers-arrays.html">C Pointers and Arrays</a>
+<a href="c-pointers-strings.html">C Pointers and Strings</a>
+<a href="c-pointers-to-functions.html">C Pointer to Functions</a>
+<a href="c-void-pointers.html">Void Pointers</a> 
+<a href="c-null-pointers.html">Null Pointers</a> 
+<a href="c-difference-between-null-pointer-void-pointer.html">C Null and Void Pointer</a> 
+<h3>Structure</h3>
+<a href="c-structures.html">What is Structure</a>
+<a href="c-nested-structures.html">C Struct within Struct</a>
+<a href="c-arrays-within-structures.html">C Array within Structure</a>
+<a href="c-pointers-to-structures.html">C Pointer to Structure</a>
+<a href="c-structures-functions.html">C Structure and Function</a>
+<a href="c-enumeration.html">C Enum</a>
+<a href="c-bit-fields.html">C Bitfield Structure</a>
+<a href="c-typedef.html">C Type def</a>
+<h3>Union</h3>
+<a href="c-union.html">What is Union</a>
+<h3>Files</h3>
+<a href="c-files.html">What is File</a>
+<a href="c-file-read.html">C read a file</a>
+<a href="c-file-write.html">C write a file</a>
+<a href="c-file-handling.html">C File Handling</a>
+<a href="c-error-handling.html">C Error Handling</a>
+<a href="c-low-level-disk-io.html">C Low Level Disk I/O</a>
+<a href="c-file-functions.html">C Other file functions</a>
+<h3>Memory Allocation</h3>
+<a href="c-dynamic-memory-allocation.html">What is Memory Allocation</a>
+<a href="c-malloc.html">C Malloc()</a>
+<a href="c-calloc.html">C Calloc()</a>
+<a href="c-free-function.html">C Free()</a>
+<a href="c-realloc.html">C Realloc()</a>
+<a href="c-coreleft-function.html">C Coreleft()</a>
+<h3>C Reference</h3>
+<a href="ascii-table.html">All ASCII Code</a>
+<a href="basic-interview-questions-in-c.html">Basic C Questions</a>
+<h3>C Interview</h3>
+<a href="../c-questions/index.html">C Interview Sets</a>
+<a href="c-star-patterns.html">All Star Patterns</a>
+<a href="c-number-patterns.html">All Number Patterns</a>
+<a href="c-alphabet-patterns.html">All Alphabet Patterns</a>
+<a href="c-series-patterns.html">All Series Patterns</a>
+</div></div>
+</div>
+</div>
+<div class="contentsection">
+ <div class="row">
+<div class="col-md-10">
+<div class="quotes">
+<blockquote>The ones who are crazy enough to think they can change the world are the ones who do.</blockquote><span>- Steve Jobs</span>
+</div>
+<div class="nextprev">
+<a href="c-alphabet-patterns.html" class="prev">PREV</a><a href="c-alphabet-patterns.html" class="nxt">NEXT</a>
+</div>
+<h1>C Alphabetic Pattern - 10</h1>
+<h2>Why Alphabetic Pattern</h2>
+<p>In most of the MNC interview questions such as in <strong>Zoho</strong> interview questions, <strong>IVTL Infoview</strong> interview questions, <strong>Amazon</strong> interview questions, <strong>Google</strong> interview questions, <strong>Infosys</strong> interview questions and even in <strong>Voonik</strong> interview questions, We come across Alphabetic pattern questions with a probability of 1:5. We provide you a most commonly asked alphabetic pattern question for your interview preparation using C programming.</p>
+<p>Lets code a C program to print following alphabetic pattern to have some fun.</p>
+<img src="../images/c-alphabetic-pattern-program-10.svg" class="img-responsive" alt="Alphabetic pattern in C" width="350">
+<h2>C Program - Alphabet Pattern</h2>
+<p>We challenge you, the programmer to do the following alphabet pattern using C programming</p>
+<div class="programbox">
+<span class="filename">c-alphabet-pattern.c</span>
+<pre>#include &lt;stdio.h&gt;
+int main()
+{
+int a, i;
+for(a = 69;a &gt;= 65;a--)
+{
+for(i = a;i &lt;= 69;i++)
+{
+printf("%c ",a);
+}
+printf("\n");
+}
+return 0;
+}</pre>
+</div>
+<div class="outputbox">
+<pre>E
+D D
+C C C
+B B B B
+A A A A A</pre>
+</div>
+<div class="note">
+<h4>Note:</h4>
+<p class="explain">Here we make use of ASCII value  to print the above alphabetic pattern. The ASCII value of </p><ul><li><strong>E</strong> = 69  </li> <li><strong>D</strong> = 68</li> <li><strong>C</strong> = 67</li><li><strong>B</strong> = 66</li><li><strong>A</strong> = 65</li></ul><p>Here, the inner for loop takes care of both the alphabets to be printed and a way to print the alphabets generated by itself. Here the Purpose of outter for loop is to set destination alphabet for every new line.</p>
+</div>
+<div class="nextprev">
+<a href="c-alphabet-patterns.html" class="prev">PREV</a><a href="c-alphabet-patterns.html" class="nxt">NEXT</a>
+</div>
+<div class="col-md-12 bot-adv">
+    <script async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+    <!-- Bottom Ad -->
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-1272335038483755"
+        data-ad-slot="1500845782"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div><div class="col-md-12">
+<div class="row">
+<div class="rellinks col-sm-6">
+<h4>Related to Alphabet Pattern</h4>
+<ul>
+<li><a href="c-alphabet-pattern-4.html">C Alphabet Pattern 4</a></li>
+<li><a href="c-alphabet-pattern-8.html">C Alphabet Pattern 8</a></li>
+<li><a href="c-alphabet-pattern-12.html">C Alphabet Pattern 12</a></li>
+</ul>
+</div>
+<div class="testlinks col-sm-6">
+<h4>Take a test</h4>
+<ul>
+<li><a href="c-star-patterns.html">C Star Patterns</a></li>
+<li><a href="c-number-patterns.html">C Number Patterns</a></li>
+<li><a href="c-series-patterns.html">C Series Patterns</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--report us-->
+<div class="col-md-12 report">
+<div class="col-md-3">
+<img src="../images/reporterror.svg" width="150" class="img-responsive">
+</div>
+<div class="col-md-9">
+<h4>Report Us</h4>
+<p>We may make mistakes(spelling, program bug, typing mistake and etc.), So we have this container to collect mistakes. We highly respect your findings.</p>
+</div>
+<div class="rprtbtn">Report</div>
+<div class="rprtfrm">
+<form class="">
+<label for="err">Error Line</label>
+<textarea id="err" rows="3" class="errbox" placeholder="Copy and paste the error line"></textarea>
+<label for="cor">Corrected Line</label>
+<textarea id="cor" rows="3" class="corbox" placeholder="Write here, If you know the right"></textarea>
+<button type="submit" class="sndbtn">Send</button>
+</form>
+</div>
+</div>
+<!--end report us-->
+</div>
+<div class="statusmsg"></div>
+<div class="col-md-2 radside">
+    <div class="radfrst">
+        <div class="inradfrst">
+            <script async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+            <!-- Right side bottom -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-1272335038483755"
+                data-ad-slot="6561600777"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+    <div class="radscnd">
+        <div class="inradscnd">
+            <script async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+            <!-- Right side bottom -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-1272335038483755"
+                data-ad-slot="6561600777"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+</div>
+<div class="col-md-12 bot-adv">
+    <script async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+    <!-- Bottom Ad -->
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-1272335038483755"
+        data-ad-slot="1500845782"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+<!--Footer-->
+<div class="ftrpro col-md-12">
+    <div class="inftrpro">
+        <div class="ftrlis">
+            <h4>Programming</h4>
+            <ul>
+                <li><a href="index.html">C Programming</a></li>
+                <li><a href="../data-structures/index.html">Data structures</a></li>
+            </ul>
+        </div>
+        <div class="ftrlis">
+            <h4>Electrical</h4>
+            <ul>
+                <li><a href="../electrical/ohms-law.html">Ohm's Law</a></li>
+                <li><a href="../electrical/thevenin-theorem.html">Thevenin's Theorem</a></li>
+            </ul>
+        </div>
+        <div class="ftrlis">
+            <h4>Interview</h4>
+            <ul>
+                <li><a href="../c-questions/index.html">C Interview</a></li>
+                <li><a href="../aptitude/index.html">Aptitude</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="soclik">
+        <a href="https://twitter.com/2bracesindia" rel="nofollow" target="_blank" class="socialicons twit"></a>
+        <a href="https://www.facebook.com/2braces" rel="nofollow" target="_blank" class="socialicons fb"></a>
+        <a href="https://plus.google.com/+2bracesIndia" rel="nofollow" target="_blank" class="socialicons gplus"></a>
+        <a href="https://www.linkedin.com/company/2braces" rel="nofollow" target="_blank" class="socialicons edin"></a>
+    </div>
+    <p class="copyright">&#169; Copyright 2019</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="tutcornerbtn"><span class="hamburg"
+        style="background:linear-gradient(90deg, rgb(91, 236, 143) 20%, rgb(255, 126, 126) 50%, rgb(91, 236, 143) 99%);"></span>
+</div>
+<div class="cornermenu disnone">
+    <ul>
+        <li><a href="index.html">C Programming</a></li>
+        <li><a href="../data-structures/index.html">Data Structures</a></li>
+        <li><a href="../c-questions/index.html">C Questions</a></li>
+        <li><a href="../aptitude/index.html">Aptitude</a></li>
+        <li><a href="../electrical/index.html">Electrical</a></li>
+    </ul>
+</div>
+<script src="../js/jquery.js"></script>
+
+</body>
+
+
+<!-- Mirrored from www.2braces.com/c-programming/c-alphabet-pattern-10 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Feb 2020 16:36:21 GMT -->
+</html>

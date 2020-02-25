@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="171.67174mm"
+   width="192.09782mm"
+   version="1.1"
+   viewBox="0 0 680.68628 608.28036"
+   id="svg34329"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="c-static-storage-class.svg">
+  <metadata
+     id="metadata34347">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34345" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview34343"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.43870663"
+     inkscape:cx="340.33079"
+     inkscape:cy="304.14475"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34329" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#ffc400;stroke-width:4.00014496;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect29820"
+     width="676.6861"
+     height="604.30756"
+     x="2.0000725"
+     y="1.987987" />
+  <g
+     transform="translate(125.36551,-186.26023)"
+     id="g34331">
+    <text
+       style="font-weight:100;font-size:104.5px;line-height:125%;font-family:'AR DARLING';letter-spacing:0px;word-spacing:0px;fill:#000000"
+       xml:space="preserve"
+       y="287.47748"
+       x="215.22308"
+       id="text34333"
+       sodipodi:linespacing="125%"><tspan
+         x="215.22308"
+         style="font-size:104.5px;text-align:center;text-anchor:middle;fill:#000000"
+         y="287.47748"
+         id="tspan34335">Auto</tspan><tspan
+         x="215.22308"
+         style="font-size:103.75px;text-align:center;text-anchor:middle;fill:#000000"
+         y="417.32889"
+         id="tspan34337">Extern</tspan><tspan
+         x="215.22308"
+         style="font-size:166.25px;text-align:center;text-anchor:middle;fill:#ffc200"
+         y="611.57037"
+         id="tspan34339">Static</tspan><tspan
+         x="215.22308"
+         style="font-size:104.5px;text-align:center;text-anchor:middle;fill:#000000"
+         y="755.60852"
+         id="tspan34341">Register</tspan></text>
+  </g>
+</svg>

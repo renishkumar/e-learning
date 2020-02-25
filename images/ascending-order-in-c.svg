@@ -1,0 +1,39 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100.76mm" width="133.28mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 472.26283 357.0256">
+ <defs>
+  <marker id="c" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="fill-rule:evenodd;stroke:#ff7575;stroke-width:1pt;fill:#ff7575" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <filter id="a" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-color="rgb(168,168,168)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="1" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="1.8" dy="2.34375"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <marker id="b" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" style="fill-rule:evenodd;stroke:#676767;stroke-width:1pt;fill:#676767" transform="matrix(-.8 0 0 -.8 -10 0)"/>
+  </marker>
+ </defs>
+ <g transform="translate(-141.15 31.614)">
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#5c5c5c" xml:space="preserve" y="31.997198" x="642.02502"><tspan x="642.02502" y="31.997198"/></text>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#5c5c5c" xml:space="preserve" y="7.711493" x="719.16791"><tspan x="719.16791" y="7.711493"/></text>
+  <rect style="opacity:0.913;fill:#ffecac" rx=".71429" ry=".71429" height="300.71" width="469.29" y="-31.614" x="144.13"/>
+  <g style="filter:url(#a)" transform="translate(37.702 -75.405)">
+   <rect style="opacity:0.913;stroke:#353535;stroke-width:.5;fill:#6de69b" rx=".71429" ry=".71429" height="65" width="55" y="240.22" x="153.37"/>
+   <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#5c5c5c" y="279.98499" x="167.88678" xml:space="preserve"><tspan y="279.98499" x="167.88678">50</tspan></text>
+   <rect style="opacity:0.913;stroke:#353535;stroke-width:.5;fill:#91bafb" rx=".71429" ry=".71429" height="109.29" width="55" y="195.93" x="233.47"/>
+   <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#5c5c5c" y="257.84698" x="248.24374" xml:space="preserve"><tspan y="257.84698" x="248.24374">73</tspan></text>
+   <rect style="opacity:0.913;stroke:#353535;stroke-width:.5;fill:#ffcb89" rx=".71429" ry=".71429" height="141.43" width="55" y="163.79" x="313.57"/>
+   <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#5c5c5c" y="241.77068" x="321.16415" xml:space="preserve"><tspan y="241.77068" x="321.16415">106</tspan></text>
+   <rect style="opacity:0.913;stroke:#353535;stroke-width:.5;fill:#eec53e" rx=".71429" ry=".71429" height="180.71" width="55" y="124.51" x="393.67"/>
+   <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#5c5c5c" y="222.13272" x="401.32089" xml:space="preserve"><tspan y="222.13272" x="401.32089">138</tspan></text>
+   <rect style="opacity:0.913;stroke:#353535;stroke-width:.5;fill:#ffb3ac" rx=".71429" ry=".71429" height="222.14" width="55" y="83.076" x="473.78"/>
+   <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#5c5c5c" y="201.29147" x="481.4581" xml:space="preserve"><tspan y="201.29147" x="481.4581">157</tspan></text>
+  </g>
+  <text style="word-spacing:0px;letter-spacing:0px;font-size:20px;filter:url(#a);font-family:sans-serif;line-height:125%;fill:#5c5c5c" y="319.34818" x="295.43387" xml:space="preserve"><tspan y="319.34818" x="295.43387">Ascending Order</tspan></text>
+  <path d="m147.7 286.96h460" style="marker-end:url(#c);stroke:#ff7575;stroke-width:1px;fill:none"/>
+  <text style="letter-spacing:0px;font-size:15.815px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#5c5c5c" transform="scale(.94578 1.0573)" xml:space="preserve" y="292.96783" x="148.21153"><tspan y="292.96783" x="148.21153">Small</tspan></text>
+  <text style="letter-spacing:0px;font-size:14.508px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#5c5c5c" transform="scale(.89698 1.1149)" xml:space="preserve" y="276.04285" x="642.4256"><tspan y="276.04285" x="642.4256">Large</tspan></text>
+  <path d="m182.33 154.69 61.9-32.11 51.59-26.765 231.56-120.13" style="marker-end:url(#b);stroke:#676767;stroke-width:1px;fill:none"/>
+ </g>
+</svg>

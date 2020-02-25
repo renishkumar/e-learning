@@ -1,0 +1,54 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="font-size:35px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" xmlns="http://www.w3.org/2000/svg" height="137.91mm" width="189.68mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 672.09067 488.66825">
+ <defs>
+  <marker id="a" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke:#000;stroke-width:1pt;fill:#ecca5b" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <marker id="b" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke:#000;stroke-width:1pt;fill:#ecca5b" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <marker id="c" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke:#000;stroke-width:1pt;fill:#ecca5b" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <marker id="d" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke:#000;stroke-width:1pt;fill:#ecca5b" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <marker id="e" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke:#000;stroke-width:1pt;fill:#ecca5b" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <marker id="f" refY="0" refX="0" style="overflow:visible" collect="always" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke:#000;stroke-width:1pt;fill:#ecca5b" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+ </defs>
+ <g transform="translate(-98.976 -150.06)" groupmode="layer" label="Layer 1">
+  <circle r="99.1" style="stroke:#bc4545;stroke-width:1.8;fill:#ecca5b" cx="418.1" cy="382.82"/>
+  <text y="392.15482" x="365.45786" xml:space="preserve"><tspan y="392.15482" x="375.45786" role="line">String</tspan></text>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m318.68 392.66s-14.252-9.1435 1.0441-19.986" transform-center-y="-0.541608" transform-center-x="101.89207"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m517.5 374.06s14.224 9.1877-1.106 19.982" transform-center-y="0.848287" transform-center-x="-101.87509"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m329.87 429.98s-16.667-2.9933-6.6835-18.864" transform-center-y="37.337082" transform-center-x="93.148004"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m506.44 336.71s16.657 3.045 6.625 18.884" transform-center-y="-37.052928" transform-center-x="-93.277418"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m354.48 460.17s-16.543 3.6126-13.394-14.87" transform-center-y="69.674215" transform-center-x="70.496884"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m481.92 306.44s16.555-3.5612 13.347 14.912" transform-center-y="-69.451049" transform-center-x="-70.718991"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m388.77 478.65s-13.902 9.6684-18.065-8.6127" transform-center-y="92.417797" transform-center-x="38.337849"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m447.68 287.85s13.932-9.6253 18.038 8.6687" transform-center-y="-92.286357" transform-center-x="-38.620359"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m427.53 482.6s-9.1435 14.252-19.985-1.044" transform-center-y="101.89207" transform-center-x="0.541614"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m464.85 471.42s-2.9933 16.667-18.864 6.6835" transform-center-y="93.148" transform-center-x="-37.337076"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m371.58 294.85s3.045-16.657 18.884-6.625" transform-center-y="-93.277418" transform-center-x="37.052926"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m495.05 446.81s3.6125 16.543-14.87 13.394" transform-center-y="70.496884" transform-center-x="-69.674208"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m341.31 319.37s-3.5612-16.555 14.912-13.347" transform-center-y="-70.718991" transform-center-x="69.451047"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m513.53 412.51s9.6684 13.902-8.6127 18.065" transform-center-y="38.33785" transform-center-x="-92.417786"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m322.72 353.6s-9.6253-13.932 8.6687-18.038" transform-center-y="-38.620359" transform-center-x="92.286355"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m407.56 283.89s9.1877-14.224 19.982 1.106" transform-center-y="-101.87509" transform-center-x="-0.848289"/>
+  <text y="176.64792" x="351.24765" xml:space="preserve" style="fill:#fca64e"><tspan y="176.64792" x="376.24765" role="line">******</tspan></text>
+  <text y="252.77167" x="100.52274" xml:space="preserve" style="fill:#ff7f2a"><tspan y="252.77167" x="100.52274" role="line">string</tspan></text>
+  <text y="524.36707" x="97.130402" xml:space="preserve" style="fill:#2c89a0"><tspan y="524.36707" x="97.130402" role="line">gnirtS</tspan></text>
+  <text y="259.50507" x="635.61267" xml:space="preserve" style="fill:#aade87"><tspan y="259.50507" x="635.61267" role="line">STRING</tspan></text>
+  <text y="524.36707" x="634.74109" xml:space="preserve" style="fill:#ff5599"><tspan y="524.36707" x="634.74109" role="line">ring</tspan></text>
+  <text y="638.19458" x="406.75546" xml:space="preserve" style="fill:#eac322"><tspan y="638.19458" x="406.75546" role="line">6</tspan></text>
+  <path style="stroke:#000;stroke-width:1px;marker-end:url(#e);fill:#ecca5b" d="m515.16 343.2 123.06-76.38"/>
+  <path style="stroke:#000;stroke-width:1px;marker-end:url(#a);fill:#ecca5b" d="m516.14 425.49 119.96 72.18"/>
+  <path style="stroke:#000;stroke-width:1px;marker-end:url(#c);fill:#ecca5b" d="m320.35 341.77-123.03-76.38"/>
+  <path style="stroke:#000;stroke-width:1px;marker-end:url(#b);fill:#ecca5b" d="m319.37 424.06-119.93 72.18"/>
+  <path style="stroke:#000;stroke-width:1px;marker-end:url(#d);fill:#ecca5b" d="m417.55 278.72v-110"/>
+  <path style="stroke:#000;stroke-width:1px;marker-end:url(#f);fill:#ecca5b" d="m417.55 488.72v117.14"/>
+ </g>
+</svg>

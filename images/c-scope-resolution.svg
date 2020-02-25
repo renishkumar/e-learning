@@ -1,0 +1,25 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="133.36mm" width="350.17mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1240.7699 472.53314">
+ <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#676767;stroke-linecap:round;image-rendering:auto;stroke-width:8;fill:none" height="246" width="346" y="175.27" x="45.03"/>
+ <path style="fill:#ffc067" d="m55.03 166.06h350l-175.34-162.06z"/>
+ <path d="m43.03 166.06h350l-175.34-162.06z" style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8;fill:none"/>
+ <path d="m172.23 420.82v-138.51h91.585v137.76z" style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8;fill:none"/>
+ <path d="m177.96 416.08v-129.03h80.12v128.33z" style="stroke-linejoin:round;fill-rule:evenodd;stroke:#c78400;stroke-linecap:round;stroke-width:4;fill:#ffc067"/>
+ <path d="m191.35 343.04v16.056" style="stroke:#c78400;stroke-width:4;fill:none"/>
+ <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#676767;stroke-linecap:round;image-rendering:auto;stroke-width:8;fill:none" height="246" width="346" y="175.27" x="585.02"/>
+ <path style="fill:#ffe367" d="m597.02 166.06h350l-175.34-162.06z"/>
+ <path d="m583.02 166.06h350l-175.34-162.06z" style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8;fill:none"/>
+ <path d="m712.23 420.82v-138.51h91.585v137.76z" style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8;fill:none"/>
+ <path d="m751.68 416.08v-121.03l46.402-8v128.33z" style="stroke-linejoin:round;fill-rule:evenodd;stroke:#c78400;stroke-linecap:round;stroke-width:4;fill:#ffe367"/>
+ <path d="m761.03 343.04v16.056" style="stroke:#c78400;stroke-width:4;fill:none"/>
+ <text style="font-size:24.708px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="145.9337" x="166.54465" xml:space="preserve"><tspan y="145.9337" x="166.54465">C House</tspan></text>
+ <text style="font-size:24.708px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="145.9337" x="686.32465" xml:space="preserve"><tspan y="145.9337" x="686.32465">C++ House</tspan></text>
+ <text style="font-size:125.89px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:#676767;stroke-width:3;line-height:125%;fill:#ffe367" transform="scale(1.0004 .99961)" y="323.87891" x="814.0415" xml:space="preserve"><tspan y="323.87891" x="836.0415" style="font-family:sans-serif;stroke:#676767;stroke-width:3;fill:#ffe367">::</tspan></text>
+ <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="203.88231" x="1097.4933" xml:space="preserve"><tspan y="203.88231" x="1097.4933" style="font-size:22.5px;text-anchor:middle;text-align:center">Scope Resolution</tspan><tspan y="232.00731" x="1097.4933" style="font-size:22.5px;text-anchor:middle;text-align:center">Operator is a part of C++</tspan></text>
+ <path d="m906.66 257.43 42.1-25.76" style="stroke:#5b5b5b;stroke-width:2;fill:#ff0031;fill-rule:evenodd"/>
+ <path style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8.0001;fill:none" d="m776.98 468.53h147.27"/>
+ <path style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8.0001;fill:none" d="m936.95 467.73h14.838"/>
+ <path d="m455.65 448.53h49.595" style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8.0001;fill:none"/>
+ <path d="m517.87 448.53h3.9939" style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8.0001;fill:none"/>
+ <path style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8.0001;fill:none" d="m4.0499 448.53h179.46"/>
+ <path style="stroke-linejoin:round;stroke:#676767;stroke-linecap:round;stroke-width:8.0001;fill:none" d="m215.56 448.53h41.661"/>
+</svg>

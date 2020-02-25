@@ -1,0 +1,23 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="91.44mm" width="268.11mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 950.00001 324">
+ <g transform="translate(143.56 -216.08)">
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#009688;stroke-width:4;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" height="51.429" width="231.71" y="218.08" x="218.15"/>
+  <text style="letter-spacing:0px;font-size:35px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="252.99365" x="235.51212"><tspan x="235.51212" y="252.99365">Data Types</tspan></text>
+  <text style="letter-spacing:0px;font-size:35px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="525.39319" x="-104.59595"><tspan x="-104.59595" y="525.39319">Void</tspan></text>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#b3b3b3;stroke-width:4;fill:none;mix-blend-mode:normal;opacity:0.942;image-rendering:auto;isolation:auto" height="51.429" width="146" y="486.65" x="-141.56"/>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#ba68c8;stroke-width:4;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" height="51.429" width="146" y="486.65" x="58.438"/>
+  <text style="letter-spacing:0px;font-size:35px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="525.39319" x="89.080811"><tspan x="89.080811" y="525.39319">Char</tspan></text>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#2196f3;stroke-width:4;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" height="51.429" width="146" y="486.65" x="258.44"/>
+  <text style="letter-spacing:0px;font-size:35px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="525.08557" x="299.01001"><tspan x="299.01001" y="525.08557">INT</tspan></text>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#ff5722;stroke-width:4;fill:none;mix-blend-mode:normal;opacity:0.942;image-rendering:auto;isolation:auto" height="51.429" width="146" y="486.65" x="458.44"/>
+  <text style="letter-spacing:0px;font-size:35px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="525.39319" x="487.23511"><tspan x="487.23511" y="525.39319">Float</tspan></text>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#ffc107;stroke-width:4;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" height="51.429" width="146" y="486.65" x="658.44"/>
+  <text style="letter-spacing:0px;font-size:35px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="525.39319" x="669.29932"><tspan x="669.29932" y="525.39319">Double</tspan></text>
+  <path style="stroke:#009688;stroke-width:4;fill:none" d="m334.01 268.65v107.14"/>
+  <path style="stroke-opacity:.94510;stroke:#ff5722;stroke-width:4;fill:none" d="m535.94 377.46v106.9"/>
+  <path d="m738.44 377.46v106.9" style="stroke:#ffc107;stroke-width:4;fill:none"/>
+  <path d="m-71.562 377.55v106.81" style="stroke-opacity:.94510;stroke:#b3b3b3;stroke-width:4;fill:none"/>
+  <path style="stroke:#ba68c8;stroke-width:4;fill:none" d="m130.94 377.22v107.14"/>
+  <path d="m333.44 380.08v104.29" style="stroke:#2196f3;stroke-width:4;fill:none"/>
+  <path d="m740.58 378.08h-813.87" style="stroke:#009688;stroke-width:4;fill:none"/>
+ </g>
+</svg>

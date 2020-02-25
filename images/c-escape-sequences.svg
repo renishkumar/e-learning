@@ -1,0 +1,46 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="120.76mm" width="360.36mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1276.8551 427.88236" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <filter id="c" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-opacity=".26274" flood-color="rgb(0,0,0)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="8.9" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="b" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-opacity=".26274" flood-color="rgb(0,0,0)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="8.9" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <linearGradient id="a" y2="558.73" gradientUnits="userSpaceOnUse" x2="1014.7" gradientTransform="translate(-.0000014452 .40369)" y1="139.8" x1="-247.67">
+   <stop style="stop-color:#f2f2f2" offset="0"/>
+   <stop style="stop-color:#f9f9f9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(257.3 -135.32)">
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#a)" rx="0" ry="0" height="427.88" width="1276.9" y="135.32" x="-257.3"/>
+  <rect style="stroke-linejoin:round;color-rendering:auto;fill-opacity:.99216;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fcc24b;stroke-linecap:round;stroke-width:4.4652;fill:#353f4e;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto;stroke-dashoffset:5.1;filter:url(#b)" transform="matrix(1 0 0 .80249 2.5469 68.12)" rx="5" ry="6.2306" height="313.49" width="561.22" y="137.95" x="-202.03"/>
+  <text style="letter-spacing:0px;font-size:27.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" xml:space="preserve" y="240.42836" x="-107.73663"><tspan x="-107.73663" y="240.42836">printf(&quot;Hi Dear,</tspan><tspan x="-107.73663" y="274.80334">                How are you?&quot;);</tspan></text>
+  <rect style="stroke-linejoin:round;color-rendering:auto;fill-opacity:.99216;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fc7d7d;stroke-linecap:round;stroke-width:4.4652;fill:#353f4e;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto;stroke-dashoffset:5.1;filter:url(#c)" transform="matrix(1 0 0 .80249 2.5469 68.12)" rx="5" ry="6.2306" height="313.49" width="561.22" y="137.95" x="397.97"/>
+  <text style="letter-spacing:0px;font-size:27.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="257.61584" x="420.57941" xml:space="preserve"><tspan y="257.61584" x="420.57941">printf(&quot;Hi Dear,\n\t\t How are you?&quot;);</tspan></text>
+  <text style="letter-spacing:0px;font-size:27.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#fff3f3" xml:space="preserve" y="383.32828" x="-145.04559"><tspan x="-145.04559" y="383.32828">Note: Compilation Error Occured</tspan></text>
+  <text style="letter-spacing:0px;font-size:27.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="383.32828" x="485.81134" xml:space="preserve"><tspan y="383.32828" x="485.81134">Note: Successfully Executed</tspan></text>
+  <rect style="stroke-linejoin:round;color-rendering:auto;fill-opacity:.99216;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#99e9ab;stroke-linecap:round;stroke-width:4;fill:#333;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto;stroke-dashoffset:5.1" rx="5" ry="5" height="66.22" width="1122.3" y="475.96" x="-180.05"/>
+  <text style="letter-spacing:0px;font-size:27.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#e6e6e6" xml:space="preserve" y="516.68103" x="-54.269836"><tspan x="-54.269836" y="516.68103">Escape Sequences - Special Meaning to the Escaped Character</tspan></text>
+  <rect style="color-rendering:auto;stroke-opacity:0;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:none" height="423.59" width="1156.1" y="137.47" x="-201.86"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="7.6611" width="585.22" y="425.31" x="-211.49"/>
+  <rect style="color-rendering:auto;fill-opacity:.52050;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="13" width="44" y="411.21" x="173.7"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="0" ry="0" height="2" width="44" y="422.71" x="173.7"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="7.6611" width="585.22" y="425.31" x="388.51"/>
+  <rect style="color-rendering:auto;fill-opacity:.52050;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="13" width="44" y="411.21" x="773.7"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="0" ry="0" height="2" width="44" y="422.71" x="773.7"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="1.0534" ry="1.0534" height="3.4049" width="23.835" y="421.9" x="57.654"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ff6b00" rx="1.0534" ry="1.0534" height="3.4049" width="23.835" y="421.9" x="-2.3456"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#00ff65" rx="1.0534" ry="1.0534" height="3.4049" width="23.835" y="421.9" x="-122.35"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="1.0534" ry="1.0534" height="3.4049" width="23.835" y="421.9" x="677.65"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#84b3ff" rx="1.0534" ry="1.0534" height="3.4049" width="23.835" y="421.9" x="617.65"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e3ff00" rx="1.0534" ry="1.0534" height="3.4049" width="23.835" y="421.9" x="497.65"/>
+ </g>
+</svg>

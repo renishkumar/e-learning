@@ -1,0 +1,35 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="140.57mm" width="297.35mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1053.6199 498.06605">
+ <defs>
+  <filter id="a" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-opacity=".26274" flood-color="rgb(0,0,0)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="8.9" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g transform="translate(135.38 5.2422)">
+  <rect style="stroke-linejoin:round;solid-color:#000000;color-rendering:auto;fill-opacity:.99216;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;stroke-dashoffset:5.1;shape-rendering:auto;filter:url(#a);stroke:#fcc24b;stroke-linecap:round;image-rendering:auto;stroke-width:2.7793;fill:#353f4e" transform="matrix(1.5645 0 0 1.324 268.49 -146.38)" rx="5" ry="6.2306" height="313.49" width="561.22" y="137.95" x="-202.03"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="12.64" width="915.58" y="442.91" x="-66.374"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;fill-opacity:.52050;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="21.448" width="68.838" y="419.65" x="536.26"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="0" ry="0" height="3.2997" width="68.838" y="438.62" x="536.26"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="1.6481" ry="1.7379" height="5.6174" width="37.289" y="437.29" x="354.71"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ff6b00" rx="1.6481" ry="1.7379" height="5.6174" width="37.289" y="437.29" x="260.84"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#00ff65" rx="1.6481" ry="1.7379" height="5.6174" width="37.289" y="437.29" x="73.085"/>
+  <text style="font-size:44.181px;font-weight:100;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;AR CENA&apos;;fill:#000000" xml:space="preserve" transform="scale(.97380 1.0269)" y="163.17776" x="118.81348"><tspan y="163.17776" x="118.81348" style="font-weight:100;font-family:&apos;AR CENA&apos;"/></text>
+  <text style="font-size:27.5px;font-weight:100;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;AR CENA&apos;;fill:#ffffff" xml:space="preserve" y="73.929298" x="308.87546"><tspan y="73.929298" x="308.87546" style="font-size:40px;font-family:&apos;AR CENA&apos;;font-weight:100">Intersection</tspan></text>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" xml:space="preserve" y="316.88797" x="20.93745"><tspan x="20.93745" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff" y="316.88797">A = { 1, 2, 3, 4 }</tspan></text>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="316.88797" x="520.9375" xml:space="preserve"><tspan y="316.88797" x="520.9375" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff">B = { 1, 2, 4, 8, 0 }</tspan></text>
+  <g transform="translate(-.000011441)">
+   <circle r="81.429" style="stroke-linejoin:bevel;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fff;stroke-linecap:square;stroke-width:2;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" cx="457.43" cy="183.79"/>
+   <circle cx="325.43" cy="183.79" r="81.429" style="stroke-linejoin:bevel;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fff;stroke-linecap:square;stroke-width:2;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto"/>
+   <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="196.20328" x="316.27859" xml:space="preserve"><tspan y="196.20328" x="316.27859" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff">A</tspan></text>
+   <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" xml:space="preserve" y="195.99704" x="448.12854"><tspan x="448.12854" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff" y="195.99704">B</tspan></text>
+   <path style="stroke-linejoin:bevel;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fff;stroke-linecap:square;stroke-width:2;fill:#ff6b00;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto" d="m391.41 136.25a81.429 81.429 0 0 0 -15.41 47.54 81.429 81.429 0 0 0 15.445 47.543 81.429 81.429 0 0 0 15.412 -47.543 81.429 81.429 0 0 0 -15.445 -47.543z"/>
+  </g>
+  <g transform="translate(9.1211)">
+   <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="390.88797" x="251.1445" xml:space="preserve"><tspan y="390.88797" x="251.1445" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff">A     B = { 1, 2, 4 }</tspan></text>
+   <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" transform="scale(-1)" xml:space="preserve" y="-364.09195" x="-316.64005"><tspan y="-364.09195" x="-316.64005" style="font-size:37.5px;fill:#ffffff">U</tspan></text>
+  </g>
+ </g>
+</svg>

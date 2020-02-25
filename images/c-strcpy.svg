@@ -1,0 +1,69 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="119.28mm" width="142.83mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 506.08683 422.65533">
+ <g transform="translate(-121.24 -191.14)">
+  <text style="font-size:37.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff9635" y="410.34021" x="291.03986" xml:space="preserve"><tspan y="410.34021" x="291.03986" style="font-size:37.5px;font-family:sans-serif;fill:#ff9635;line-height:125%">strcpy(str1, str2)</tspan></text>
+  <rect style="opacity:.86694" height="50.017" width="252.5" y="191.22" x="368.75"/>
+  <path d="m578.62 240.28 43.436-48.737" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m410.04 191.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m452.34 191.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m494.65 191.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m536.96 191.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m579.27 191.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m589.23 240.32 32.918-36.937" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="229.01155" x="378.00211" xml:space="preserve"><tspan y="229.01155" x="378.00211">h</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="267.29291" x="360.99963" xml:space="preserve"><tspan y="267.29291" x="360.99963">0</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="228.5672" x="419.34134" xml:space="preserve"><tspan y="228.5672" x="419.34134">e</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="267.3222" x="402.22946" xml:space="preserve"><tspan y="267.3222" x="402.22946">1</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="229.01155" x="469.15771" xml:space="preserve"><tspan y="229.01155" x="469.15771">l</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="267.44916" x="445.24136" xml:space="preserve"><tspan y="267.44916" x="445.24136">2</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="229.01155" x="511.84805" xml:space="preserve"><tspan y="229.01155" x="511.84805">l</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="267.29779" x="487.8797" xml:space="preserve"><tspan y="267.29779" x="487.8797">3</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="228.48175" x="547.11548" xml:space="preserve"><tspan y="228.48175" x="547.11548">o</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="267.29779" x="530.40161" xml:space="preserve"><tspan y="267.29779" x="530.40161">4</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="267.14642" x="572.99548" xml:space="preserve"><tspan y="267.14642" x="572.99548">5</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="267.28314" x="615.698" xml:space="preserve"><tspan y="267.28314" x="615.698">6</tspan></text>
+  <text style="font-size:27.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="228.92949" x="586.94574" xml:space="preserve"><tspan y="228.92949" x="586.94574">\0</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#fdcf50" y="221.49007" x="274.71362" xml:space="preserve"><tspan y="221.49007" x="274.71362" style="fill:#fdcf50">Memory</tspan></text>
+  <text style="font-size:20px;fill-opacity:.94902;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="263.47354" x="275.32889" xml:space="preserve"><tspan y="263.47354" x="275.32889">Index</tspan></text>
+  <path d="m367.72 191.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m599.54 240.28 22.441-25.181" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m611.47 240.89 10.67-11.1" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m621.58 191.26v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m363.96 281.29v20h217.82v-20" style="stroke:#ff522e;stroke-width:1px;stroke-opacity:.97647;fill:none"/>
+  <path d="m579.29 227.16 32.218-35.573" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m578.99 215.35 21.621-23.871" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m579.82 202.37 9.869-10.892" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff8000" y="227.01425" x="119.36243" xml:space="preserve"><tspan y="227.01425" x="119.36243" style="font-size:35px;fill:#ff8000">str1 =</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff8000" y="541.16724" x="119.36243" xml:space="preserve"><tspan y="541.16724" x="119.36243" style="font-size:35px;fill:#ff8000">str2 =</tspan></text>
+  <rect style="opacity:.86694" height="50.017" width="252.5" y="503.22" x="368.75"/>
+  <path d="m578.62 552.29 43.436-48.737" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m410.04 503.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m452.34 503.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m494.65 503.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m536.96 503.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m579.27 503.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m589.23 552.33 32.92-36.94" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="579.29352" x="360.99963" xml:space="preserve"><tspan y="579.29352" x="360.99963">0</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="579.32281" x="402.22946" xml:space="preserve"><tspan y="579.32281" x="402.22946">1</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="579.44983" x="445.24136" xml:space="preserve"><tspan y="579.44983" x="445.24136">2</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="579.2984" x="487.8797" xml:space="preserve"><tspan y="579.2984" x="487.8797">3</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="579.2984" x="530.40161" xml:space="preserve"><tspan y="579.2984" x="530.40161">4</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="579.14703" x="572.99548" xml:space="preserve"><tspan y="579.14703" x="572.99548">5</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="579.28375" x="615.698" xml:space="preserve"><tspan y="579.28375" x="615.698">6</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#fdcf50" y="533.4906" x="274.71362" xml:space="preserve"><tspan y="533.4906" x="274.71362" style="fill:#fdcf50">Memory</tspan></text>
+  <text style="font-size:20px;fill-opacity:.94902;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="575.47412" x="275.32889" xml:space="preserve"><tspan y="575.47412" x="275.32889">Index</tspan></text>
+  <path d="m367.72 503.29v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m599.54 552.29 22.438-25.179" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m611.47 552.9 10.668-11.098" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m621.58 503.26v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+  <path d="m363.97 593.3v20h222.86v-20" style="stroke:#ff522e;stroke-width:1px;stroke-opacity:.97647;fill:none"/>
+  <path d="m579.29 539.16 32.218-35.573" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m578.99 527.35 21.621-23.871" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <path d="m579.82 514.37 9.869-10.892" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="541.01154" x="378.00211" xml:space="preserve"><tspan y="541.01154" x="378.00211">h</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="540.5672" x="419.34134" xml:space="preserve"><tspan y="540.5672" x="419.34134">e</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="541.01154" x="469.15771" xml:space="preserve"><tspan y="541.01154" x="469.15771">l</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="541.01154" x="511.84805" xml:space="preserve"><tspan y="541.01154" x="511.84805">l</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="540.48175" x="547.11548" xml:space="preserve"><tspan y="540.48175" x="547.11548">o</tspan></text>
+  <text style="font-size:27.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="540.92957" x="586.94574" xml:space="preserve"><tspan y="540.92957" x="586.94574">\0</tspan></text>
+ </g>
+</svg>

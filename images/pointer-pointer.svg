@@ -1,0 +1,84 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 478.15528 497.8706" height="140.51mm" width="134.95mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <filter id="d" style="color-interpolation-filters:sRGB" label="Drop Shadow">
+   <feFlood result="flood" flood-color="rgb(137,223,70)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="1.6" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <marker id="a" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow2Mend" orient="auto">
+   <path style="stroke-linejoin:round;stroke:#000;stroke-width:.625;fill:#ff9b00;fill-rule:evenodd" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" connector-curvature="0" transform="scale(-.6)"/>
+  </marker>
+  <marker id="h" refY="0" refX="0" style="overflow:visible" collect="always" isstock="true" stockid="Arrow2Mend" orient="auto">
+   <path style="stroke-linejoin:round;stroke:#000;stroke-width:.625;fill:#ff9b00;fill-rule:evenodd" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" connector-curvature="0" transform="scale(-.6)"/>
+  </marker>
+  <marker id="c" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow2Mend" orient="auto">
+   <path style="stroke-linejoin:round;stroke:#000;stroke-width:.625;fill:#ff9b00;fill-rule:evenodd" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" connector-curvature="0" transform="scale(-.6)"/>
+  </marker>
+  <filter id="e" style="color-interpolation-filters:sRGB" label="Drop Shadow">
+   <feFlood result="flood" flood-color="rgb(243,193,123)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="0.4" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0.8" dy="0.260417"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="f" style="color-interpolation-filters:sRGB" label="Drop Shadow">
+   <feFlood result="flood" flood-color="rgb(243,193,123)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="0.4" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0.8" dy="0.260417"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="g" style="color-interpolation-filters:sRGB" label="Drop Shadow">
+   <feFlood result="flood" flood-color="rgb(243,193,123)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="0.4" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0.8" dy="0.260417"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <marker id="b" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow2Mend" orient="auto">
+   <path style="stroke-linejoin:round;stroke:#000;stroke-width:.625;fill:#ff9b00;fill-rule:evenodd" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" connector-curvature="0" transform="scale(-.6)"/>
+  </marker>
+ </defs>
+ <g transform="translate(-115.21 -60.57)" groupmode="layer" label="Layer 1">
+  <g export-xdpi="500" transform="translate(-253.21 46.116)" export-ydpi="500">
+   <g transform="matrix(1.83 0 0 1.7975 -33.659 -513.07)">
+    <g export-xdpi="500" export-ydpi="500">
+     <rect style="stroke-opacity:0;filter:url(#d);fill:#b4e979" transform="matrix(1 0 0 -1 2.1551 0)" height="158.97" width="119.29" y="-554.55" x="292.87"/>
+     <path connector-curvature="0" style="fill-rule:evenodd;stroke:#7ca669;stroke-width:.55136px;fill:#a3c67d" d="m295.02 415.58h119.29"/>
+     <path connector-curvature="0" style="fill-rule:evenodd;stroke:#7ca669;stroke-width:.55136px;fill:#a3c67d" d="m295.02 435.86h119.29"/>
+     <path connector-curvature="0" style="fill-rule:evenodd;stroke:#7ca669;stroke-width:.55136px;fill:#a3c67d" d="m295.02 455.58h119.29"/>
+     <path connector-curvature="0" style="fill-rule:evenodd;stroke:#7ca669;stroke-width:.55136px;fill:#a3c67d" d="m295.02 475.86h119.29"/>
+     <path connector-curvature="0" style="fill-rule:evenodd;stroke:#7ca669;stroke-width:.55136px;fill:#a3c67d" d="m295.02 495.58h119.29"/>
+     <path connector-curvature="0" style="fill-rule:evenodd;stroke:#7ca669;stroke-width:.55136px;fill:#a3c67d" d="m295.02 515.86h119.29"/>
+     <path connector-curvature="0" style="fill-rule:evenodd;stroke:#7ca669;stroke-width:.55136px;fill:#a3c67d" d="m295.02 535.58h119.29"/>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#515151" linespacing="125%" xml:space="preserve" y="409.05756" x="350.56238"><tspan y="409.05756" x="350.56238" role="line">5</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#515151" linespacing="125%" xml:space="preserve" y="430.2543" x="350.61121"><tspan y="430.2543" x="350.61121" role="line">6</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#4d4d4d" linespacing="125%" xml:space="preserve" y="410.73965" x="242.64101"><tspan y="410.73965" x="242.64101" role="line">a</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#4d4d4d" linespacing="125%" xml:space="preserve" y="432.38712" x="242.04286"><tspan y="432.38712" x="242.04286" role="line">b</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#4d4d4d" linespacing="125%" xml:space="preserve" y="450.00003" x="236.5558"><tspan y="450.00003" x="236.5558" role="line">ptr</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#515151" linespacing="125%" xml:space="preserve" y="450.26346" x="326.9906"><tspan y="450.26346" x="326.9906" role="line">4214000</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#4d4d4d" linespacing="125%" xml:space="preserve" y="413.22604" x="423.31473"><tspan y="413.22604" x="423.31473" role="line">4214000</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#4d4d4d" linespacing="125%" xml:space="preserve" y="433.27048" x="423.20486"><tspan y="433.27048" x="423.20486" role="line">4214004</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#4d4d4d" linespacing="125%" xml:space="preserve" y="453.33322" x="423.27505"><tspan y="453.33322" x="423.27505" role="line">4214008</tspan></text>
+     <path connector-curvature="0" style="marker-end:url(#a);fill-rule:evenodd;stroke:#000;stroke-width:.55136px;fill:#ff9b00" d="m270.63 406.84h20"/>
+     <path connector-curvature="0" style="marker-end:url(#h);fill-rule:evenodd;stroke:#000;stroke-width:.55136px;fill:#ff9b00" d="m270.63 427.48h20"/>
+     <path connector-curvature="0" style="marker-end:url(#c);fill-rule:evenodd;stroke:#000;stroke-width:.55136px;fill:#ff9b00" d="m270.63 447.23h20"/>
+     <text style="word-spacing:0px;letter-spacing:0px;font-size:9.8605px;filter:url(#e);font-family:sans-serif;line-height:125%;fill:#ff7f2a" linespacing="125%" xml:space="preserve" y="387.92569" x="225.17239"><tspan y="387.92569" x="225.17239" style="font-size:12.5px;fill:#ff7f2a" role="line">Variables</tspan></text>
+     <text style="word-spacing:0px;letter-spacing:0px;font-size:9.8605px;filter:url(#f);font-family:sans-serif;line-height:125%;fill:#ff7f2a" linespacing="125%" xml:space="preserve" y="386.5585" x="328.99561"><tspan y="386.5585" x="328.99561" style="font-size:12.5px;fill:#ff7f2a" role="line">Memory</tspan></text>
+     <text style="word-spacing:0px;letter-spacing:0px;font-size:9.8605px;filter:url(#g);font-family:sans-serif;line-height:125%;fill:#ff7f2a" linespacing="125%" xml:space="preserve" y="387.92569" x="426.63687"><tspan y="387.92569" x="426.63687" style="font-size:12.5px;fill:#ff7f2a" role="line">Address</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#605959" linespacing="125%" xml:space="preserve" y="302.56003" x="334.93484"><tspan y="302.56003" x="334.93484" role="line">a = 5;</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#605959" linespacing="125%" xml:space="preserve" y="321.37881" x="334.61609"><tspan y="321.37881" x="334.61609" role="line">b = 10;</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#605959" linespacing="125%" xml:space="preserve" y="339.66367" x="324.34967"><tspan y="339.66367" x="324.34967" role="line">ptr = &amp;a;</tspan></text>
+     <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#4d4d4d" linespacing="125%" xml:space="preserve" y="469.8663" x="227.5226"><tspan y="469.8663" x="227.5226" style="font-size:12.5px;line-height:125%;font-family:sans-serif;fill:#4d4d4d" role="line">ptrptr</tspan></text>
+     <path connector-curvature="0" style="marker-end:url(#b);fill-rule:evenodd;stroke:#000;stroke-width:.55136px;fill:#ff9b00" d="m270.63 467.23h20"/>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#4d4d4d" linespacing="125%" xml:space="preserve" y="470.37537" x="326.95093"><tspan y="470.37537" x="326.95093" role="line">4214008</tspan></text>
+     <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" linespacing="125%" xml:space="preserve" y="464.52377" x="426.99377"><tspan y="464.52377" x="426.99377" role="line"/></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#4d4d4d" linespacing="125%" xml:space="preserve" y="472.88837" x="423.27505"><tspan y="472.88837" x="423.27505" role="line">4214012</tspan></text>
+     <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#605959" linespacing="125%" xml:space="preserve" y="359.66367" x="306.34967"><tspan y="359.66367" x="306.34967" role="line">ptrptr = &amp;ptr;</tspan></text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,117 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="70.727mm" width="163.42mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 579.06038 250.60738">
+ <defs>
+  <marker id="a" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke:#898989;stroke-width:1pt;fill:#e3f3a3" d="m0 0 5-5-17.5 5 17.5 5-5-5z" connector-curvature="0" transform="matrix(-.8 0 0 -.8 -10 0)"/>
+  </marker>
+  <marker id="f" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke:#898989;stroke-width:1pt;fill:#e3f3a3" d="m0 0 5-5-17.5 5 17.5 5-5-5z" connector-curvature="0" transform="matrix(-.8 0 0 -.8 -10 0)"/>
+  </marker>
+  <filter id="e" style="color-interpolation-filters:sRGB" width="1.1407" height="1.1121" collect="always" y="-.056073" x="-.070336">
+   <feGaussianBlur collect="always" stdDeviation="3.7421724"/>
+  </filter>
+  <filter id="d" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-opacity=".35294" flood-color="rgb(143,139,134)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="0.4" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="2.2" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="c" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-opacity=".35294" flood-color="rgb(143,139,134)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="0.4" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="2.2" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" y2="159.71" x2="440.54" collect="always" href="#linearGradient8284" gradientTransform="translate(.0000029471 -.0000019568)" y1="324.66" x1="173.81"/>
+ </defs>
+ <g transform="translate(-104.45 -89.117)" groupmode="layer">
+  <text y="696.34662" x="192.74969" style="font-size:21.34px;font-family:sans-serif;fill:#000000">
+   <tspan y="696.34662" x="192.74969" role="line"/>
+  </text>
+  <rect style="fill:#fff;fill-opacity:.32450" rx="7.3762" ry="7.7195" height="250.49" width="561.34" y="89.117" x="106.37"/>
+  <text y="223.17857" x="125.57185" style="filter:url(#c);font-size:27.5px;font-family:sans-serif;fill:#546063" transform="matrix(1.067 0 0 1.067 -26.047 -14.366)">
+   <tspan y="223.17857" x="125.57185" role="line">*ptr</tspan>
+  </text>
+  <text y="223.17857" x="576.22668" style="filter:url(#d);font-size:27.5px;font-family:sans-serif;fill:#546063" transform="matrix(1.067 0 0 1.067 -26.047 -14.366)">
+   <tspan y="223.17857" x="586.22668" role="line">*ptr1</tspan>
+  </text>
+  <path connector-curvature="0" style="stroke:#898989;marker-end:url(#f);fill:#e3f3a3" d="m174.55 207.82 170.73-85.36"/>
+  <path connector-curvature="0" style="stroke:#898989;marker-end:url(#a);fill:#e3f3a3" d="m419.06 122.09 170.75 85.303"/>
+  <g transform="matrix(1.067 0 0 1.067 -26.047 34.717)">
+   <text y="-331.94415" x="-181.27512" style="opacity:0.751;font-size:20px;font-family:sans-serif;fill:#ff7b37" transform="rotate(134.82)">
+    <tspan y="-331.94415" x="-181.27512" role="line">&gt;&gt;</tspan>
+   </text>
+   <text y="160.03487" x="255.54247" style="opacity:0.751;font-size:26.048px;font-family:sans-serif;fill:#59b3df" transform="scale(1.3024 .76782)">
+    <tspan y="160.03487" x="255.54247" role="line">-</tspan>
+   </text>
+   <text y="174.69173" x="343.26337" style="opacity:0.751;font-size:24.57px;font-family:sans-serif;fill:#37c2a5" transform="rotate(-11.121)">
+    <tspan y="174.69173" x="343.26337" role="line">x</tspan>
+   </text>
+   <text y="196.92111" x="316.80933" style="opacity:0.751;font-size:20px;font-family:sans-serif;fill:#45ba78" transform="matrix(.93717 -.34886 .34886 .93717 0 0)">
+    <tspan y="196.92111" x="316.80933" role="line">&lt;</tspan>
+   </text>
+   <text y="-79.437721" x="-405.5163" style="opacity:0.751;font-size:20px;font-family:sans-serif;fill:#00aa88" transform="rotate(177.28)">
+    <tspan y="-79.437721" x="-405.5163" role="line">+</tspan>
+   </text>
+   <text y="102.33708" x="383.44818" style="opacity:0.751;font-size:23.538px;font-family:sans-serif;fill:#ff7a00" transform="scale(1.0089 .99120)">
+    <tspan y="102.33708" x="383.44818" role="line">%</tspan>
+   </text>
+   <text y="-144.90872" x="-311.17761" style="opacity:0.751;font-size:14.952px;font-family:sans-serif;fill:#6f918a" transform="matrix(-1.0824 .043747 -.051367 -.92182 0 0)">
+    <tspan y="-144.90872" x="-311.17761" role="line">x</tspan>
+   </text>
+   <text y="168.60149" x="-388.16672" style="opacity:0.751;font-size:20px;font-family:sans-serif;fill:#939692" transform="rotate(214.66)">
+    <tspan y="168.60149" x="-388.16672" role="line">&lt;&lt;</tspan>
+   </text>
+   <text y="257.17172" x="-302.20419" style="opacity:0.751;font-size:20px;font-family:sans-serif;fill:#45ba78" transform="rotate(231.79)">
+    <tspan y="257.17172" x="-302.20419" role="line">&lt;</tspan>
+   </text>
+   <text y="359.49841" x="77.40097" style="opacity:0.751;font-size:25.853px;font-family:sans-serif;fill:#c6ee36" transform="matrix(.51382 -.85022 .87413 .49977 0 0)">
+    <tspan y="359.49841" x="77.40097" role="line">++</tspan>
+   </text>
+   <text y="-447.20233" x="-228.41167" style="opacity:0.751;font-size:33.933px;font-family:sans-serif;fill:#ea4a5c" transform="matrix(-.60637 .95518 -.61360 -.68258 0 0)">
+    <tspan y="-447.20233" x="-228.41167" role="line">--</tspan>
+   </text>
+   <g style="opacity:0.751" transform="matrix(.90157 .43263 -.43263 .90157 107.45 -56.823)">
+    <path style="stroke:#ee363a;stroke-width:.93719px;fill:#ee363a" connector-curvature="0" d="m347.15 26.049h13.749"/>
+    <text y="23.314272" x="352.0257" style="font-size:10.999px;font-family:sans-serif;fill:#ee363a">
+     <tspan y="23.314272" x="352.0257" role="line">.</tspan>
+    </text>
+    <text y="30.313738" x="352.0257" style="font-size:10.999px;font-family:sans-serif;fill:#ee363a">
+     <tspan y="30.313738" x="352.0257" role="line">.</tspan>
+    </text>
+   </g>
+   <text y="254.7086" x="291.47748" style="opacity:0.751;font-size:20px;font-family:sans-serif;fill:#ea7af0" transform="rotate(-31.013)">
+    <tspan y="254.7086" x="291.47748" role="line">=</tspan>
+   </text>
+   <g style="opacity:0.751" transform="matrix(.58412 .31353 -.31353 .58412 196.99 -17.847)">
+    <path style="stroke:#ee363a;stroke-width:1.4137px;fill:#ee363a" connector-curvature="0" d="m347.15 26.049h13.749"/>
+    <text y="23.314272" x="352.0257" style="font-size:10.999px;font-family:sans-serif;fill:#ee363a">
+     <tspan y="23.314272" x="352.0257" role="line">.</tspan>
+    </text>
+    <text y="30.313738" x="352.0257" style="font-size:10.999px;font-family:sans-serif;fill:#ee363a">
+     <tspan y="30.313738" x="352.0257" role="line">.</tspan>
+    </text>
+   </g>
+   <text y="139.2076" x="364.36307" style="opacity:0.751;font-size:42.175px;font-family:sans-serif;fill:#ffba00" transform="matrix(.99832 -.0097727 .0098046 1.0016 0 0)">
+    <tspan y="139.2076" x="364.36307" role="line">+</tspan>
+   </text>
+   <text y="160.03487" x="323.11044" style="opacity:0.751;font-size:26.048px;font-family:sans-serif;fill:#59b3df" transform="scale(1.3024 .76782)">
+    <tspan y="160.03487" x="323.11044" role="line">-</tspan>
+   </text>
+   <text y="322.48026" x="271.77344" style="opacity:0.751;font-size:20px;font-family:sans-serif;fill:#944098" transform="rotate(-31.013)">
+    <tspan y="322.48026" x="271.77344" role="line">=</tspan>
+   </text>
+  </g>
+  <g transform="matrix(1.067 0 0 1.067 -24.047 -12.366)">
+   <path style="fill:#ececec;fill-opacity:.83936" d="m317.84 160.84 17.34 154.38s.0979 5.8273 46.594 5.7763c46.497-.0511 46.102-5.8184 46.102-5.8184l17.653-154.35" connector-curvature="0" nodetypes="cczcc"/>
+   <path style="opacity:0.302;fill:#9b9b9b;fill-opacity:.2" d="m335.04 315.69c-2.5732.95263-3.6499 3.225-3.653 4.2578-.00002 4.3062 22.519 7.797 50.296 7.7969 27.777-.00003 50.294-3.4908 50.294-7.7969-.0148-1.0282-1.3412-2.7958-3.903-3.7441-15.781 4.8357-32.39 4.6365-46.209 4.6571-45.35-.47787-46.825-5.1708-46.825-5.1708z" connector-curvature="0" nodetypes="ccscccc"/>
+   <path style="filter:url(#e);stroke:#515151;stroke-width:.93719;stroke-opacity:.23179;fill:none" d="m317.84 160.84 17.34 154.38s.0979 5.8273 46.594 5.7763c46.497-.0511 46.102-5.8184 46.102-5.8184l17.653-154.35" connector-curvature="0" nodetypes="cczcc"/>
+   <rect style="opacity:.419;fill:#b3b3b3" transform="matrix(.96549 -.26043 .093125 .99565 0 0)" rx="6.9129" ry="7.2346" height="79.075" width="8.1008" y="296.18" x="316.57"/>
+   <rect style="opacity:.419;fill:#b3b3b3" transform="matrix(.98584 -.16767 -.0017387 1 0 0)" rx="6.9129" ry="7.2346" height="79.075" width="8.1008" y="276.45" x="384.96"/>
+   <rect style="opacity:.419;fill:#b3b3b3" transform="matrix(.99605 -.088815 -.081183 .99670 0 0)" rx="6.9129" ry="7.2346" height="79.075" width="8.1008" y="252.18" x="446.23"/>
+   <path style="opacity:0.81;fill:#ececec;fill-opacity:.83936" d="m317.85 160.84c-.0341-.82647-.0347-.81698-.0347-1.2187-.000010-8.944 28.596-16.195 63.872-16.195s63.872 7.2506 63.872 16.195c0 .4021.0313.78196-.0264 1.2161" connector-curvature="0" nodetypes="cssccc"/>
+   <ellipse style="opacity:0.983;fill:url(#b)" rx="58.856" ry="14.912" cy="159.71" cx="381.68"/>
+  </g>
+ </g>
+</svg>

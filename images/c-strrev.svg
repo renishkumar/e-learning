@@ -1,0 +1,92 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="87.7mm" width="192mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 679.26753 310.64511">
+ <g transform="translate(200 -36.8)">
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="294.12509" x="225.91069"><tspan y="294.12509" x="225.91069"/></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="294.65488" x="367.95471" xml:space="preserve"><tspan y="294.65488" x="367.95471"/></text>
+  <rect style="opacity:.867" height="50" width="431" y="36.9" x="47.5"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m89.8 36.9v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m133 36.9v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m176 36.9v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m220 36.9v50"/>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="74.210663" x="56.801144" xml:space="preserve"><tspan y="74.210663" x="56.801144">A</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="112.93552" x="39.799049" xml:space="preserve"><tspan y="112.93552" x="39.799049">0</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="73.605011" x="96.523689" xml:space="preserve"><tspan y="73.605011" x="96.523689">M</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="112.96469" x="81.027962" xml:space="preserve"><tspan y="112.96469" x="81.027962">1</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="74.210663" x="142.23816" xml:space="preserve"><tspan y="74.210663" x="142.23816">B</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="113.09164" x="124.03889" xml:space="preserve"><tspan y="113.09164" x="124.03889">2</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="73.680893" x="185.88773" xml:space="preserve"><tspan y="73.680893" x="185.88773">U</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="112.9404" x="166.67628" xml:space="preserve"><tspan y="112.9404" x="166.67628">3</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="112.9404" x="209.19719" xml:space="preserve"><tspan y="112.9404" x="209.19719">4</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="112.78903" x="251.79008" xml:space="preserve"><tspan y="112.78903" x="251.79008">5</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="112.92575" x="294.49161" xml:space="preserve"><tspan y="112.92575" x="294.49161">6</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#fdcf50" y="67.133636" x="-46.484993" xml:space="preserve"><tspan y="67.133636" x="-46.484993" style="fill:#fdcf50">Memory</tspan></text>
+  <text style="font-size:20px;fill-opacity:.949;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="109.11618" x="-45.869728" xml:space="preserve"><tspan y="109.11618" x="-45.869728">Index</tspan></text>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m46.5 36.9v50"/>
+  <path style="stroke:#ff522e;stroke-width:1px;stroke-opacity:.976;fill:none" d="m43 127v20h352v-20"/>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff8000" y="72.657684" x="-201.83266" xml:space="preserve"><tspan y="72.657684" x="-201.83266" style="font-size:35px;fill:#ff8000">str1 =</tspan></text>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m263 36.9v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m306 36.9v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m349 36.9v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m393 36.9v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m436 36.9v50"/>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="74.210663" x="231.73277"><tspan y="74.210663" x="231.73277">L</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="74.210663" x="273.06976"><tspan y="74.210663" x="273.06976">A</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="74.210663" x="316.00363"><tspan y="74.210663" x="316.00363">N</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="73.749245" x="358.34631"><tspan y="73.749245" x="358.34631">C</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="74.210663" x="402.86996" xml:space="preserve"><tspan y="74.210663" x="402.86996">E</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="112.93552" x="341.79907"><tspan y="112.93552" x="341.79907">7</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="112.96469" x="383.02795"><tspan y="112.96469" x="383.02795">8</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="113.09164" x="426.03888"><tspan y="113.09164" x="426.03888">9</tspan></text>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m435 85.9 44-48.7"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m446 86 33-37"/>
+  <text style="font-size:27.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="74.572968" x="443.74005" xml:space="preserve"><tspan y="74.572968" x="443.74005">\0</tspan></text>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m456 85.9 23-25.2"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m468 86.5 11-11.1"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m478 36.9v50"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m436 72.8 32-35.6"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m436 61 21-23.9"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m437 48 9.87-10.9"/>
+  <rect style="opacity:.867" height="50" width="431" y="237" x="47.5"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m89.8 237v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m133 237v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m176 237v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m220 237v50"/>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="274.21066" x="55.944622"><tspan y="274.21066" x="55.944622">E</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="312.93552" x="39.799049"><tspan y="312.93552" x="39.799049">0</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="273.60501" x="98.236732"><tspan y="273.60501" x="98.236732">C</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="312.96469" x="81.027962"><tspan y="312.96469" x="81.027962">1</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="274.21066" x="142.23816"><tspan y="274.21066" x="142.23816">N</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="313.09164" x="124.03889"><tspan y="313.09164" x="124.03889">2</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="273.68091" x="185.88773"><tspan y="273.68091" x="185.88773">A</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="312.9404" x="166.67628"><tspan y="312.9404" x="166.67628">3</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="312.9404" x="209.19719"><tspan y="312.9404" x="209.19719">4</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="312.78903" x="251.79008"><tspan y="312.78903" x="251.79008">5</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="312.92575" x="294.49161"><tspan y="312.92575" x="294.49161">6</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#fdcf50" xml:space="preserve" y="267.13364" x="-46.484993"><tspan y="267.13364" x="-46.484993" style="fill:#fdcf50">Memory</tspan></text>
+  <text style="font-size:20px;fill-opacity:.949;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" xml:space="preserve" y="309.11618" x="-45.869728"><tspan y="309.11618" x="-45.869728">Index</tspan></text>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m46.5 237v50"/>
+  <path style="stroke:#ff522e;stroke-width:1px;stroke-opacity:.976;fill:none" d="m43 327v20h352v-20"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m263 237v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m306 237v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m349 237v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m393 237v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m436 237v50"/>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="274.21066" x="231.73277" xml:space="preserve"><tspan y="274.21066" x="231.73277">L</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="274.21066" x="272.21326" xml:space="preserve"><tspan y="274.21066" x="272.21326">U</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="274.21066" x="316.00363" xml:space="preserve"><tspan y="274.21066" x="316.00363">B</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" y="273.74924" x="357.48981" xml:space="preserve"><tspan y="273.74924" x="357.48981">M</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="274.21066" x="402.86996"><tspan y="274.21066" x="402.86996">A</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="312.93552" x="341.79907" xml:space="preserve"><tspan y="312.93552" x="341.79907">7</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="312.96469" x="383.02795" xml:space="preserve"><tspan y="312.96469" x="383.02795">8</tspan></text>
+  <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff522e" y="313.09164" x="426.03888" xml:space="preserve"><tspan y="313.09164" x="426.03888">9</tspan></text>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m435 286 43.4-48.7"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m446 286 32.9-36.9"/>
+  <text style="font-size:27.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ecca5b" xml:space="preserve" y="274.57297" x="443.74005"><tspan y="274.57297" x="443.74005">\0</tspan></text>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m456 286 22.4-25.2"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m468 287 10.7-11.1"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" d="m478 237v50"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m436 273 32.2-35.6"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m436 261 21.6-23.9"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:.751;fill:none" d="m437 248 9.87-10.9"/>
+  <text style="font-size:37.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff9635" xml:space="preserve" y="196.19618" x="137.42673"><tspan y="196.19618" x="137.42673" style="font-size:37.5px;font-family:sans-serif;line-height:125%;fill:#ff9635">strrev(str1)</tspan></text>
+ </g>
+</svg>

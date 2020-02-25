@@ -1,0 +1,17 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="121.12mm" width="393.42mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1394.0085 429.16263">
+ <g transform="translate(554.15 -269.21)">
+  <rect style="opacity:0.942;stroke-linejoin:round;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#b3b3b3;image-rendering:auto;stroke-width:4;fill:none" height="103.16" width="286" y="593.21" x="-552.15"/>
+  <path style="stroke:#009688;stroke-width:4;fill:none" d="m143.43 375.08v107.14"/>
+  <path style="stroke:#ff5722;stroke-width:4;stroke-opacity:.94510;fill:none" d="m143.36 483.89v106.9"/>
+  <path style="stroke:#ffc107;stroke-width:4;fill:none" d="m693.71 482.51v106.9"/>
+  <path style="stroke:#b3b3b3;stroke-width:4;stroke-opacity:.94510;fill:none" d="m-407.6 483.98v106.81"/>
+  <path style="stroke:#009688;stroke-width:4;fill:none" d="m695.71 484.51h-1105.3"/>
+  <rect style="opacity:0.942;stroke-linejoin:round;color-rendering:auto;stroke-opacity:.94510;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#ff5722;image-rendering:auto;stroke-width:4;fill:none" height="103.16" width="286" y="593.21" x="-.14267"/>
+  <rect style="opacity:0.942;stroke-linejoin:round;color-rendering:auto;stroke-opacity:.74510;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#ffc107;image-rendering:auto;stroke-width:4;fill:none" height="103.16" width="286" y="593.21" x="551.86"/>
+  <rect style="opacity:0.942;stroke-linejoin:round;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#009688;image-rendering:auto;stroke-width:4;fill:none" height="103.16" width="286" y="271.21" x="-.14372"/>
+  <text style="font-size:35px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" xml:space="preserve" y="310.69016" x="52.716774"><tspan x="52.716774" y="310.69016">Arithmetic</tspan><tspan x="52.716774" y="354.44016">Operators</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" y="632.11963" x="-409.40259" xml:space="preserve"><tspan y="632.11963" x="-409.40259" style="text-anchor:middle;text-align:center">Unary</tspan><tspan y="675.86963" x="-409.40259" style="text-anchor:middle;text-align:center">Operators</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" xml:space="preserve" y="632.20508" x="142.60185"><tspan x="142.60185" style="text-anchor:middle;text-align:center" y="632.20508">Binary</tspan><tspan x="142.60185" style="text-anchor:middle;text-align:center" y="675.95508">Operators</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" y="632.11963" x="694.60413" xml:space="preserve"><tspan y="632.11963" x="694.60413" style="text-anchor:middle;text-align:center">Ternary</tspan><tspan y="675.86963" x="694.60413" style="text-anchor:middle;text-align:center">Operators</tspan></text>
+ </g>
+</svg>

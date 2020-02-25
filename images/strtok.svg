@@ -1,0 +1,270 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="font-family:sans-serif" xmlns="http://www.w3.org/2000/svg" height="123.19mm" width="245.7mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 870.57589 436.48776">
+ <defs>
+  <marker id="a" refY="0" refX="0" style="overflow:visible" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke-width:1pt" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+  <marker id="b" refY="0" refX="0" style="overflow:visible" collect="always" isstock="true" stockid="Arrow1Lend" orient="auto">
+   <path style="stroke-width:1pt" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+ </defs>
+ <text y="199.19217" x="365.43945" style="font-size:37.5px;fill:#ffaa00">
+  <tspan y="199.19217" x="365.43945" style="font-size:37.5px;fill:#ffaa00">tok = strtok(str, chr)</tspan>
+ </text>
+ <path d="m809.02 49.146 43.43-48.737" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <rect style="opacity:.86694" height="50.017" width="602.02" y=".080644" x="251.15"/>
+ <path d="m293.3.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m336.49.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m379.68.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m808.8.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m819.62 49.185 32.92-36.937" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <text y="76.150833" x="243.39581" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.150833" x="243.39581">0</tspan>
+ </text>
+ <text y="36.912552" x="299.73737" style="font-size:35px;fill:#ecca5b">
+  <tspan y="36.912552" x="299.73737"/>
+ </text>
+ <text y="76.18013" x="284.62555" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.18013" x="284.62555">1</tspan>
+ </text>
+ <text y="76.307083" x="327.6373" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.307083" x="327.6373">2</tspan>
+ </text>
+ <text y="76.155716" x="370.27551" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.155716" x="370.27551">3</tspan>
+ </text>
+ <text y="76.155716" x="412.7973" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.155716" x="412.7973">4</tspan>
+ </text>
+ <text y="76.004349" x="455.39105" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.004349" x="455.39105">5</tspan>
+ </text>
+ <text y="76.141068" x="498.09344" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.141068" x="498.09344">6</tspan>
+ </text>
+ <text y="30.348162" x="157.11008" style="font-size:20px;fill:#bc8b00">
+  <tspan y="30.348162" x="157.11008">Memory</tspan>
+ </text>
+ <text y="72.331497" x="157.72531" style="font-size:20px;fill:#ff522e;fill-opacity:.94902">
+  <tspan y="72.331497" x="157.72531">Index</tspan>
+ </text>
+ <path d="m250.12.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m829.93 49.141 22.437-25.179" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <path d="m841.87 49.753 10.668-11.098" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <path d="m851.98.11871v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m809.69 36.017 32.21-35.573" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <path d="m809.39 24.209 21.62-23.868" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <path d="m810.22 11.228 9.87-10.892" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <text y="35.87233" x="-1.0595703" style="font-size:20px;fill:#de6a26">
+  <tspan y="35.87233" x="-1.0595703" style="font-size:35px">str =</tspan>
+ </text>
+ <text y="380.34805" x="157.11008" style="font-size:20px;fill:#bc8b00">
+  <tspan y="380.34805" x="157.11008">Memory</tspan>
+ </text>
+ <text y="422.33145" x="157.72531" style="font-size:20px;fill:#ff522e;fill-opacity:.94902">
+  <tspan y="422.33145" x="157.72531">Index</tspan>
+ </text>
+ <text y="390.02469" x="-1.0595703" style="font-size:20px;fill:#de6a26">
+  <tspan y="390.02469" x="-1.0595703" style="font-size:35px">tok =</tspan>
+ </text>
+ <text y="449.81149" x="-177.35904" style="font-size:20px;fill:#000000">
+  <tspan y="449.81149" x="-177.35904"/>
+ </text>
+ <path d="m422.86.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m509.24.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m552.42.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m595.61.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m466.05.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <text y="76.155716" x="546.27551" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.155716" x="546.27551">7</tspan>
+ </text>
+ <text y="76.155716" x="588.7973" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.155716" x="588.7973">8</tspan>
+ </text>
+ <text y="76.004349" x="631.39105" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.004349" x="631.39105">9</tspan>
+ </text>
+ <text y="76.141068" x="674.09344" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.141068" x="674.09344">10</tspan>
+ </text>
+ <path d="m809.02 49.146 43.43-48.737" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <text y="37.356888" x="262.39825" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.356888" x="262.39825">s</tspan>
+ </text>
+ <text y="37.818314" x="349.23495" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.818314" x="349.23495">r</tspan>
+ </text>
+ <text y="31.495073" x="395.28055" style="font-size:35px;fill:#ecca5b">
+  <tspan y="31.495073" x="395.28055">,</tspan>
+ </text>
+ <text y="37.442337" x="436.76266" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.442337" x="436.76266">t</tspan>
+ </text>
+ <text y="33.736282" x="813.34131" style="font-size:27.5px;fill:#ecca5b">
+  <tspan y="33.736282" x="821.34131">\0</tspan>
+ </text>
+ <text y="37.288528" x="478.23364" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.288528" x="478.23364">o</tspan>
+ </text>
+ <text y="37.818314" x="519.71436" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.818314" x="519.71436">k</tspan>
+ </text>
+ <text y="31.495073" x="568.38586" style="font-size:35px;fill:#ecca5b">
+  <tspan y="31.495073" x="568.38586">,</tspan>
+ </text>
+ <text y="37.818314" x="602.0625" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.818314" x="602.0625">w</tspan>
+ </text>
+ <path d="m560.27 109.75v54.181" style="stroke:#000;stroke-width:1px;marker-end:url(#b);fill:none"/>
+ <path d="m560.27 219.04v84.428" style="stroke:#000;stroke-width:1px;marker-end:url(#a);fill:none"/>
+ <path d="m637.79.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m680.84.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m723.88.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <text y="37.288528" x="648.11682" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.288528" x="648.11682">o</tspan>
+ </text>
+ <text y="37.818314" x="695.07935" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.818314" x="695.07935">r</tspan>
+ </text>
+ <text y="37.356888" x="780.85107" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.356888" x="780.85107">s</tspan>
+ </text>
+ <text y="36.980911" x="640.39825" style="font-size:35px;fill:#ecca5b">
+  <tspan y="36.980911" x="640.39825"/>
+ </text>
+ <text y="37.818314" x="733.54724" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.818314" x="733.54724">k</tspan>
+ </text>
+ <text y="37.442337" x="858.97968" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.442337" x="858.97968"/>
+ </text>
+ <text y="37.442337" x="308.62988" style="font-size:35px;fill:#ecca5b">
+  <tspan y="37.442337" x="308.62988">t</tspan>
+ </text>
+ <path d="m767.88.1557v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <text y="76.155716" x="718.27551" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.155716" x="718.27551">11</tspan>
+ </text>
+ <text y="76.155716" x="760.7973" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.155716" x="760.7973">12</tspan>
+ </text>
+ <text y="76.004349" x="803.39105" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.004349" x="803.39105">13</tspan>
+ </text>
+ <text y="76.141068" x="846.09344" style="font-size:20px;fill:#ff522e">
+  <tspan y="76.141068" x="846.09344">14</tspan>
+ </text>
+ <path d="m809.02 409.15 43.436-48.737" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <rect style="opacity:.86694" height="50.017" width="602.02" y="360.08" x="251.15"/>
+ <path d="m293.3 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m336.49 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m379.68 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m808.8 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m819.62 409.19 32.918-36.937" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <text y="436.15085" x="243.39581" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.15085" x="243.39581">0</tspan>
+ </text>
+ <text y="436.18015" x="284.62555" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.18015" x="284.62555">1</tspan>
+ </text>
+ <text y="436.3071" x="327.6373" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.3071" x="327.6373">2</tspan>
+ </text>
+ <text y="436.15573" x="370.27551" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.15573" x="370.27551">3</tspan>
+ </text>
+ <text y="436.15573" x="412.7973" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.15573" x="412.7973">4</tspan>
+ </text>
+ <text y="436.00436" x="455.39105" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.00436" x="455.39105">5</tspan>
+ </text>
+ <text y="436.14108" x="498.09344" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.14108" x="498.09344">6</tspan>
+ </text>
+ <path d="m250.12 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m829.93 409.14 22.437-25.179" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <path d="m841.87 409.75 10.668-11.098" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <path d="m851.98 360.12v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m809.69 396.02 32.218-35.573" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <path d="m809.39 384.21 21.62-23.868" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <path d="m810.22 371.23 9.869-10.892" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <path d="m422.86 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m509.24 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m552.42 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m595.61 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m466.05 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <text y="436.15573" x="546.27551" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.15573" x="546.27551">7</tspan>
+ </text>
+ <text y="436.15573" x="588.7973" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.15573" x="588.7973">8</tspan>
+ </text>
+ <text y="436.00436" x="631.39105" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.00436" x="631.39105">9</tspan>
+ </text>
+ <text y="436.14108" x="674.09344" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.14108" x="674.09344">10</tspan>
+ </text>
+ <path d="m809.02 409.15 43.436-48.737" style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none"/>
+ <text y="397.3569" x="262.39825" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.3569" x="262.39825">s</tspan>
+ </text>
+ <text y="397.81833" x="349.23495" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.81833" x="349.23495">r</tspan>
+ </text>
+ <text y="399.28537" x="380.90665" style="font-size:27.5px;fill:#ecca5b" transform="scale(1.0063 .99375)">
+  <tspan y="399.28537" x="386.90665">\0</tspan>
+ </text>
+ <text y="397.44235" x="436.76266" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.44235" x="436.76266">t</tspan>
+ </text>
+ <text y="393.7363" x="813.34131" style="font-size:27.5px;fill:#ecca5b">
+  <tspan y="395.7363" x="817.34131">\0</tspan>
+ </text>
+ <text y="397.28854" x="478.23364" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.28854" x="478.23364">o</tspan>
+ </text>
+ <text y="397.81833" x="519.71436" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.81833" x="519.71436">k</tspan>
+ </text>
+ <text y="399.28537" x="552.43781" style="font-size:27.5px;fill:#ecca5b" transform="scale(1.0063 .99375)">
+  <tspan y="399.28537" x="556.43781">\0</tspan>
+ </text>
+ <text y="397.81833" x="602.0625" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.81833" x="602.0625">w</tspan>
+ </text>
+ <path d="m637.79 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m680.84 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <path d="m723.88 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <text y="397.28854" x="648.11682" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.28854" x="648.11682">o</tspan>
+ </text>
+ <text y="397.81833" x="695.07935" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.81833" x="695.07935">r</tspan>
+ </text>
+ <text y="397.3569" x="780.85107" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.3569" x="780.85107">s</tspan>
+ </text>
+ <text y="397.81833" x="733.54724" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.81833" x="733.54724">k</tspan>
+ </text>
+ <text y="397.44235" x="308.62988" style="font-size:35px;fill:#ecca5b">
+  <tspan y="397.44235" x="308.62988">t</tspan>
+ </text>
+ <path d="m767.88 360.16v50" style="stroke:#bc8b00;stroke-width:1.5;fill:none"/>
+ <text y="436.15573" x="718.27551" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.15573" x="718.27551">11</tspan>
+ </text>
+ <text y="436.15573" x="760.7973" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.15573" x="760.7973">12</tspan>
+ </text>
+ <text y="436.00436" x="803.39105" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.00436" x="803.39105">13</tspan>
+ </text>
+ <text y="436.14108" x="846.09344" style="font-size:20px;fill:#ff522e">
+  <tspan y="436.14108" x="846.09344">14</tspan>
+ </text>
+ <text y="176.67242" x="13.025879" style="font-size:20px;fill:#de6a26">
+  <tspan y="176.67242" x="-1.0595703" style="font-size:35px">chr = &quot;,&quot;</tspan>
+ </text>
+</svg>

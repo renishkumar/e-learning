@@ -1,0 +1,19 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="244.02mm" width="315.32mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1117.2932 864.65516">
+ <g transform="translate(220.08 49.599)">
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#f6f6f6" height="864.09" width="1117.3" y="-49.599" x="-220.08"/>
+  <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#eaeaea" d="m114.47 167.99v374.95l2.4357-2.6884 248.99 274.81h530.58v-284.49l-328.5-362.58h-453.5z"/>
+  <g transform="translate(-.000026703 32.28)">
+   <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#9bf284" height="334.23" width="448.57" y="199.53" x="114.29"/>
+   <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#fff" height="334.23" width="448.57" y="199.53" x="114.29"/>
+   <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#e67d7d" height="64.561" width="448.57" y="134.97" x="114.29"/>
+   <circle cx="174.02" cy="169.86" r="12.5" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#fff"/>
+   <circle r="12.5" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#fff" cx="254.02" cy="169.86"/>
+   <circle r="12.5" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#fff" cx="414.02" cy="169.86"/>
+   <circle cx="494.02" cy="169.86" r="12.5" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#fff"/>
+   <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#fbfbfb" height="253.78" width="448.57" y="279.98" x="114.29"/>
+   <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;stroke-width:0;fill:#7de6b5" height="79.487" width="448.57" y="197.98" x="114.29"/>
+   <text style="letter-spacing:0px;font-size:60px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="259.07907" x="176.70619" xml:space="preserve"><tspan y="259.07907" x="176.70619">FEBRUARY</tspan></text>
+   <text style="letter-spacing:0px;font-size:252.83px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="498.90445" x="176.10779" xml:space="preserve"><tspan y="498.90445" x="176.10779">29</tspan></text>
+  </g>
+ </g>
+</svg>

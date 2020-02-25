@@ -1,0 +1,212 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="82.234mm" width="279.63mm" version="0.91 r13725" docname="strstr.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 990.82278 291.38126">
+ <defs>
+  <marker id="a" refY="0.0" refX="0.0" style="overflow:visible" isstock="true" stockid="Arrow2Lend" orient="auto">
+   <path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#604a00;stroke-width:.625;fill:#604a00" transform="scale(1.1) rotate(180) translate(1)" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z"/>
+  </marker>
+  <marker id="b" refY="0.0" refX="0.0" style="overflow:visible" collect="always" isstock="true" stockid="Arrow2Lend" orient="auto">
+   <path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000;stroke-width:.625" transform="scale(1.1) rotate(180) translate(1)" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z"/>
+  </marker>
+ </defs>
+ <namedview fit-margin-left="0" borderopacity="1.0" cy="158.83819" cx="470.95069" window-height="745" document-units="px" window-y="-8" window-x="-8" showgrid="true" fit-margin-right="0" pageshadow="2" window-width="1366" bordercolor="#666666" window-maximized="1" fit-margin-bottom="0" current-layer="layer1" pageopacity="0.0" pagecolor="#ffffff" zoom="0.98994949" showborder="false" fit-margin-top="0"></namedview>
+ <g transform="translate(39.549 -467.03)" groupmode="layer" label="Layer 1">
+  <rect style="opacity:.86694" height="50.017" width="557.3" y="521.29" x="199.09"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m707.65 570.88 48.73-49.24"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m240.06 521.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m283.22 521.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m320.8 521.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m363.3 521.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m404.96 521.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m448.72 521.36v50"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m719.55 570.92 36.928-37.319"/>
+  <text y="558.1601" x="206.33539" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.1601" x="206.33539" role="line">C</tspan>
+  </text>
+  <text y="597.35876" x="191.33295" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.35876" x="191.33295" role="line">0</tspan>
+  </text>
+  <text y="556.10028" x="251.68146" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="556.10028" x="251.68146" role="line"/>
+  </text>
+  <text y="597.38806" x="232.10504" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.38806" x="232.10504" role="line">1</tspan>
+  </text>
+  <text y="558.62152" x="296.84094" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.62152" x="296.84094" role="line">i</tspan>
+  </text>
+  <text y="597.51501" x="277.20929" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.51501" x="277.20929" role="line">2</tspan>
+  </text>
+  <text y="558.1601" x="333.29999" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.1601" x="333.29999" role="line">s</tspan>
+  </text>
+  <text y="597.36365" x="313.08508" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.36365" x="313.08508" role="line">3</tspan>
+  </text>
+  <text y="556.10028" x="375.26184" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="556.10028" x="375.26184" role="line"/>
+  </text>
+  <text y="597.36365" x="355.63452" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.36365" x="355.63452" role="line">4</tspan>
+  </text>
+  <text y="558.09174" x="416.73004" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.09174" x="416.73004" role="line">a</tspan>
+  </text>
+  <text y="597.21228" x="397.64697" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.21228" x="397.64697" role="line">5</tspan>
+  </text>
+  <text y="558.62152" x="456.2998" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.62152" x="456.2998" role="line">w</tspan>
+  </text>
+  <text y="597.349" x="441.69843" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.349" x="441.69843" role="line">6</tspan>
+  </text>
+  <text y="554.53949" x="717.27856" style="font-size:27.5px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="554.53949" x="717.27856" role="line">\0</tspan>
+  </text>
+  <text y="597.36365" x="485.91595" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.36365" x="485.91595" role="line">7</tspan>
+  </text>
+  <text y="551.55609" x="105.04716" style="font-size:20px;font-family:sans-serif;fill:#bc8b00">
+   <tspan y="551.55609" x="105.04716" role="line">Memory</tspan>
+  </text>
+  <text y="593.53943" x="105.66235" style="font-size:20px;font-family:sans-serif;fill:#ff522e;fill-opacity:.94902">
+   <tspan y="593.53943" x="105.66235" role="line">Index</tspan>
+  </text>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m198.06 521.36v50"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m731.11 570.87 25.17-25.439"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m745.49 570.96 10.977-11.098"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m755.92 521.33v50"/>
+  <text y="597.36365" x="532.35809" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.36365" x="532.35809" role="line">8</tspan>
+  </text>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m708.4 557.61 36.143-35.941"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m708.07 545.68 24.25-24.11"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m709 532.57 11.071-11.004"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m493.74 521.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m539.22 521.36v50"/>
+  <text y="597.36365" x="575.13031" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.36365" x="575.13031" role="line">9</tspan>
+  </text>
+  <text y="597.36365" x="610.6369" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.36365" x="610.6369" role="line">10</tspan>
+  </text>
+  <text y="558.17719" x="507.34027" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.17719" x="507.34027" role="line">e</tspan>
+  </text>
+  <text y="558.1601" x="550.7533" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.1601" x="550.7533" role="line">s</tspan>
+  </text>
+  <text y="556.13446" x="592.93878" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="556.13446" x="592.93878" role="line"/>
+  </text>
+  <path style="stroke:#000;stroke-width:1px;fill:none" connector-curvature="0" d="m254.5 487.97h-60v15"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" connector-curvature="0" d="m692.5 487.97h70v15"/>
+  <text y="482.02872" x="198.07324" style="font-size:20px;font-family:sans-serif;fill:#000000">
+   <tspan y="482.02872" x="198.07324" role="line">Start</tspan>
+  </text>
+  <text y="482.22403" x="709.74359" style="font-size:20px;font-family:sans-serif;fill:#000000">
+   <tspan y="482.22403" x="709.74359" role="line">End</tspan>
+  </text>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m581.22 521.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m623.22 521.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m665.22 521.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m707.22 521.36v50"/>
+  <text y="558.09174" x="590.7533" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.09174" x="590.7533" role="line">o</tspan>
+  </text>
+  <text y="558.62152" x="626.7533" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.62152" x="626.7533" role="line">m</tspan>
+  </text>
+  <text y="558.17719" x="674.7533" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="558.17719" x="674.7533" role="line">e</tspan>
+  </text>
+  <text y="597.36365" x="652.6369" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.36365" x="652.6369" role="line">11</tspan>
+  </text>
+  <text y="597.36365" x="694.6369" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.36365" x="694.6369" role="line">12</tspan>
+  </text>
+  <text y="597.36365" x="742.6369" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="597.36365" x="742.6369" role="line">13</tspan>
+  </text>
+  <rect style="opacity:.86694" height="50.017" width="351.59" y="681.29" x="284.8"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m587.65 730.88 48.73-49.24"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m284.96 681.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m328.72 681.36v50"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m599.55 730.92 36.928-37.319"/>
+  <text y="718.09174" x="296.73004" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="718.09174" x="296.73004" role="line">a</tspan>
+  </text>
+  <text y="718.62152" x="336.2998" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="718.62152" x="336.2998" role="line">w</tspan>
+  </text>
+  <text y="714.53949" x="597.27856" style="font-size:27.5px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="714.53949" x="597.27856" role="line">\0</tspan>
+  </text>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m611.11 730.87 25.17-25.439"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m625.49 730.96 10.977-11.098"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m635.92 681.33v50"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m588.4 717.61 36.143-35.941"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m588.07 705.68 24.25-24.11"/>
+  <path style="stroke:#ecca5b;stroke-width:1px;stroke-opacity:0.751;fill:none" connector-curvature="0" d="m589 692.57 11.071-11.004"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m373.74 681.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m419.22 681.36v50"/>
+  <text y="718.17719" x="387.34027" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="718.17719" x="387.34027" role="line">e</tspan>
+  </text>
+  <text y="718.1601" x="430.7533" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="718.1601" x="430.7533" role="line">s</tspan>
+  </text>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m461.22 681.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m503.22 681.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m545.22 681.36v50"/>
+  <path style="stroke:#bc8b00;stroke-width:1.5;fill:none" connector-curvature="0" d="m587.22 681.36v50"/>
+  <text y="718.09174" x="470.7533" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="718.09174" x="470.7533" role="line">o</tspan>
+  </text>
+  <text y="718.62152" x="506.7533" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="718.62152" x="506.7533" role="line">m</tspan>
+  </text>
+  <text y="718.17719" x="554.7533" style="font-size:35px;font-family:sans-serif;fill:#ecca5b">
+   <tspan y="718.17719" x="554.7533" role="line">e</tspan>
+  </text>
+  <text y="758.07306" x="278.4758" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="758.07306" x="278.4758" role="line">0</tspan>
+  </text>
+  <text y="758.10236" x="321.24789" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="758.10236" x="321.24789" role="line">1</tspan>
+  </text>
+  <text y="758.22931" x="366.35214" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="758.22931" x="366.35214" role="line">2</tspan>
+  </text>
+  <text y="758.07794" x="412.22794" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="758.07794" x="412.22794" role="line">3</tspan>
+  </text>
+  <text y="758.07794" x="454.77734" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="758.07794" x="454.77734" role="line">4</tspan>
+  </text>
+  <text y="757.92657" x="496.78979" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="757.92657" x="496.78979" role="line">5</tspan>
+  </text>
+  <text y="758.06329" x="538.84125" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="758.06329" x="538.84125" role="line">6</tspan>
+  </text>
+  <text y="758.07794" x="579.05878" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="758.07794" x="579.05878" role="line">7</tspan>
+  </text>
+  <text y="758.07794" x="629.50092" style="font-size:20px;font-family:sans-serif;fill:#ff522e">
+   <tspan y="758.07794" x="629.50092" role="line">8</tspan>
+  </text>
+  <path style="stroke:#604a00;marker-end:url(#a);fill:none" connector-curvature="0" d="m284.9 681.63s60.624-6.81 92.791-26.797c27.131-16.857 26.585-46.587 27.34-54.218" nodetypes="csc"/>
+  <path style="stroke:#604a00;marker-end:url(#b);fill:none" connector-curvature="0" d="m586.56 681.62s49.956-3.2172 92.203-26.543c20.162-11.133 26.688-21.665 28.67-51.473" nodetypes="csc"/>
+  <text y="558.83276" x="-41.428574" style="font-size:35px;font-family:sans-serif;fill:#de6a26">
+   <tspan y="558.83276" x="-41.428574" role="line">str1 =</tspan>
+  </text>
+  <text y="719.12122" x="-41.428574" style="font-size:35px;font-family:sans-serif;fill:#de6a26">
+   <tspan y="719.12122" x="-41.428574" role="line">str2 =</tspan>
+  </text>
+  <text y="658.83276" x="818.57141" style="font-size:35px;font-family:sans-serif;fill:#de6a26">
+   <tspan y="658.83276" x="818.57141" role="line">= TRUE</tspan>
+  </text>
+ </g>
+</svg>

@@ -1,0 +1,79 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="134.05mm" width="289.65mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1026.3323 475" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <pattern id="g" xlink:href="#f" patternTransform="translate(-74.172 258.62)"/>
+  <filter id="h" style="color-interpolation-filters:sRGB" height="39.378" width="1.4652" y="-19.189" x="-.2326">
+   <feGaussianBlur stdDeviation="7.3506443"/>
+  </filter>
+  <filter id="i" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-color="rgb(145,116,83)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="1.1" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="k" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-color="rgb(145,116,83)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="1.1" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="l" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-color="rgb(145,116,83)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="1.1" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="m" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-color="rgb(145,116,83)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="1.1" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+  <filter id="j" style="color-interpolation-filters:sRGB" height="39.378" width="1.4652" y="-19.189" x="-.2326">
+   <feGaussianBlur stdDeviation="7.3506443"/>
+  </filter>
+  <pattern id="f" width="27.449667" patternUnits="userSpaceOnUse" patternTransform="translate(-74.172 258.62)" height="17.840819">
+   <text style="font-size:7.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" transform="rotate(-30)" xml:space="preserve" y="16.842205" x="-7.0996847"><tspan y="16.842205" x="-7.0996847">2braces</tspan></text>
+  </pattern>
+ </defs>
+ <text style="font-size:90px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="173.13327" x="-61.894875" xml:space="preserve"><tspan y="173.13327" x="-61.894875"/></text>
+ <text style="font-size:20px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="345.82358" x="-301.11743" xml:space="preserve"><tspan y="345.82358" x="-301.11743"/></text>
+ <rect style="opacity:.972;color-rendering:auto;fill-opacity:.35331;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ff97b8" height="475" width="513.18" y="0" x="513.17"/>
+ <rect style="opacity:.972;color-rendering:auto;fill-opacity:.32177;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#84dec3" height="475" width="513.18" y="0" x="-.0060579"/>
+ <text style="font-size:30.001px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" y="454.47617" x="148.4395" xml:space="preserve"><tspan y="454.47617" x="148.4395" style="font-size:30.001px;line-height:125%;font-family:sans-serif">Always, i = 16</tspan></text>
+ <path d="m872.06 322.94-102.73 59.31-102.73-59.31v-118.63l102.73-59.313 102.73 59.313z" style="opacity:.972;color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#a1815b"/>
+ <path d="m718.22 112.38a4.0774 4.0774 0 0 0 -2.1445 .55342l-102.98 59.896a4.0774 4.0774 0 0 0 .0122 7.055l46.027 26.582-45.46 26.256a4.0774 4.0774 0 0 0 -.0122 7.055l102.98 59.896a4.0774 4.0774 0 0 0 4.089 .008l49.313-28.471 49.309 28.471a4.0774 4.0774 0 0 0 4.089 -.008l102.98-59.896a4.0774 4.0774 0 0 0 -.0122 -7.055l-46.029-26.576 45.46-26.249a4.0774 4.0774 0 0 0 .0122 -7.055l-102.99-59.89a4.0774 4.0774 0 0 0 -4.089 -.008l-49.309 28.475-49.315-28.475a4.0774 4.0774 0 0 0 -1.9426 -.54543z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill:#997951"/>
+ <path d="m718.14 121.17 41.854 24.164-93.794 55.787-42.92-24.782 94.86-55.169z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill:#a1815b"/>
+ <path d="m820.82 121.17 94.86 55.169-42.92 24.78-93.796-55.785 41.856-24.164z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill:#a1815b"/>
+ <path d="m666.77 211.47 93.792 55.793-41.85 24.156-94.871-55.181 42.924-24.767z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill:#a1815b"/>
+ <path d="m873.33 211.47 42.924 24.78-94.86 55.169-41.852-24.164 93.79-55.787z" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill:#a1815b"/>
+ <path d="m769.2 267.13v114.15" style="fill:none"/>
+ <path d="m671.13 206.42s-6.9548 4.0154 2.5732-1.4856l95.364-55.881.8407 114.62z" style="fill:#a48157;fill-rule:evenodd"/>
+ <path d="m769.79 270.49v109.23" style="stroke:#91714c;stroke-width:3.0001;stroke-opacity:.97255;fill:none"/>
+ <text style="word-spacing:0px;font-size:40.769px;line-height:125%;letter-spacing:0px;fill:#fdf2f2" y="230.29721" x="747.40271" xml:space="preserve"><tspan y="230.29721" x="747.40271">16</tspan></text>
+ <ellipse style="stroke-linejoin:round;solid-color:#000000;color-rendering:auto;stroke-opacity:.99608;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;filter:url(#j);stroke:#7e6446;image-rendering:auto;stroke-width:1.4717;fill:#fff" rx="37.923" ry=".45967" transform="matrix(2.0385 0 0 2.0385 611.07 112.38)" cy="143.9" cx="77.917"/>
+ <text style="font-size:37.501px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" y="323.22476" x="703.06378" xml:space="preserve"><tspan y="323.22476" x="703.06378" style="font-size:37.501px;line-height:125%;font-family:sans-serif">j</tspan></text>
+ <text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#ffffff" transform="matrix(.49209 -.87054 .87054 .49209 0 0)" y="267.1813" x="-21.531673" xml:space="preserve"><tspan y="267.1813" x="-21.531673"/></text>
+ <rect style="fill:url(#f)" height="17.841" width="27.451" y="258.62" x="-74.172"/>
+ <path d="m363.32 310.27-107.32 61.964-107.32-61.964v-123.93l107.32-61.964 107.32 61.964z" style="opacity:.972;color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#a1815b"/>
+ <path d="m255.87 251.98v119.26" style="fill:none"/>
+ <path d="m155.56 187.48 2.6882-1.552 99.626-58.378.87828 119.74z" style="fill:#a48157;fill-rule:evenodd"/>
+ <path d="m253.03 246.14v124.22l2.8385 1.7783 3.5502-1.9053v-124.09z" style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill-opacity:.97255;fill:#91714c"/>
+ <path d="m-194.23 547.26 21.057 12.156-46.535 27.064-20.531-11.854 46.01-27.367z" style="solid-color:#000000;color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;filter:url(#m);block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill:#a1815b" transform="matrix(2.1296 0 0 2.1296 728.91 -1001.4)"/>
+ <path d="m-220.6 530.37 46.535 27.064-21.055 12.156-46.013-27.366 20.533-11.854z" style="solid-color:#000000;color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;filter:url(#k);block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill:#a3835f" transform="matrix(2.1296 0 0 2.1296 728.91 -1001.4)"/>
+ <path d="m-222.09 530.35 20.532 11.854-46.012 27.367-21.055-12.157 46.535-27.064z" style="solid-color:#000000;color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;filter:url(#i);block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill:#a3835f" transform="matrix(2.1296 0 0 2.1296 728.91 -1001.4)"/>
+ <path d="m-245.73 546.59 46.01 27.367-20.531 11.854-46.538-27.065 21.057-12.156z" style="solid-color:#000000;color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;filter:url(#l);block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill:#a3835f" transform="matrix(2.1296 0 0 2.1296 728.91 -1001.4)"/>
+ <ellipse style="stroke-linejoin:round;solid-color:#000000;color-rendering:auto;stroke-opacity:.99608;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;filter:url(#h);stroke:#7e6446;image-rendering:auto;stroke-width:1.4087;fill:#fff" rx="37.923" ry=".45967" transform="matrix(2.1296 0 0 2.1296 728.91 -1001.4)" cy="656.55" cx="-221.79"/>
+ <text style="font-size:48.782px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="298.69025" x="191.07652" xml:space="preserve"><tspan y="298.69025" x="191.07652">i</tspan></text>
+ <path d="m356.72 191.93v121.87l6.3888-3.8107v-123.27z" style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill-opacity:.97255;fill:#91714c"/>
+ <path d="m148.84 186.32v123.86l2.8385 1.6885 3.5502 2.0467v-126.33z" style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none;text-decoration-style:solid;fill-opacity:.97255;fill:#91714c"/>
+ <path style="fill-opacity:.42271;fill-rule:evenodd" d="m302.7 222.15v122.39l26.525-15.314v-119.97l-110.28-64.263-23.572 13.571z"/>
+ <path style="fill:url(#g);fill-rule:evenodd" d="m302.7 222.15v122.39l26.525-15.314v-119.97l-110.28-64.263-23.572 13.571z"/>
+ <text style="letter-spacing:0px;fill-opacity:.99054;font-size:50.002px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#70b29e" xml:space="preserve" y="64.138229" x="143.59314"><tspan x="143.59314" y="64.138229">Constant</tspan></text>
+ <text style="letter-spacing:0px;font-size:50.002px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff97b7" y="64.138229" x="679.44897" xml:space="preserve"><tspan y="64.138229" x="679.44897">Volatile</tspan></text>
+ <text style="letter-spacing:0px;fill-opacity:.31373;font-size:50.002px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#83dcbf" xml:space="preserve" y="251.1357" x="485.63239"><tspan x="485.63239" y="251.1357"><tspan style="fill:#6abfa3;fill-opacity:1">v</tspan><tspan style="fill:#f4628e;fill-opacity:1">s</tspan></tspan></text>
+ <text style="font-size:30.001px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" y="454.47617" x="723.95972" xml:space="preserve"><tspan y="454.47617" x="723.95972" style="font-size:30.001px;line-height:125%;font-family:sans-serif">j = 16</tspan></text>
+</svg>

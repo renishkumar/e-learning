@@ -1,0 +1,29 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="140.57mm" width="297.35mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1053.6199 498.06605">
+ <defs>
+  <filter id="a" style="color-interpolation-filters:sRGB">
+   <feFlood result="flood" flood-opacity=".26274" flood-color="rgb(0,0,0)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="8.9" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g transform="translate(352.52 -194.76)">
+  <rect style="stroke-linejoin:round;solid-color:#000000;color-rendering:auto;fill-opacity:.99216;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;stroke-dashoffset:5.1;shape-rendering:auto;filter:url(#a);stroke:#fcc24b;stroke-linecap:round;image-rendering:auto;stroke-width:2.7793;fill:#353f4e" transform="matrix(1.5645 0 0 1.324 51.349 53.62)" rx="5" ry="6.2306" height="313.49" width="561.22" y="137.95" x="-202.03"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="12.64" width="915.58" y="642.91" x="-283.52"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;fill-opacity:.52050;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="21.448" width="68.838" y="619.65" x="319.12"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="0" ry="0" height="3.2997" width="68.838" y="638.62" x="319.12"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="1.6481" ry="1.7379" height="5.6174" width="37.289" y="637.29" x="137.57"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ff6b00" rx="1.6481" ry="1.7379" height="5.6174" width="37.289" y="637.29" x="43.699"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#00ff65" rx="1.6481" ry="1.7379" height="5.6174" width="37.289" y="637.29" x="-144.06"/>
+  <text style="font-size:44.181px;font-weight:100;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;AR CENA&apos;;fill:#000000" xml:space="preserve" transform="scale(.97380 1.0269)" y="357.93823" x="-104.17106"><tspan y="357.93823" x="-104.17106" style="font-weight:100;font-family:&apos;AR CENA&apos;"/></text>
+  <text style="font-size:27.5px;font-weight:100;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;AR CENA&apos;;fill:#ffffff" xml:space="preserve" y="273.92929" x="136.01602"><tspan y="273.92929" x="136.01602" style="font-size:40px;font-family:&apos;AR CENA&apos;;font-weight:100">Union</tspan></text>
+  <circle cx="240.29" cy="383.79" r="81.429" style="stroke-linejoin:bevel;color-rendering:auto;fill-opacity:.85804;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fff;stroke-linecap:square;stroke-width:2;fill:#ff6b00;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto"/>
+  <circle r="81.429" style="stroke-linejoin:bevel;color-rendering:auto;fill-opacity:.85804;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fff;stroke-linecap:square;stroke-width:2;fill:#ff6b00;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto" cx="108.29" cy="383.79"/>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" xml:space="preserve" y="396.20328" x="99.135712"><tspan x="99.135712" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff" y="396.20328">A</tspan></text>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="395.99704" x="230.98572" xml:space="preserve"><tspan y="395.99704" x="230.98572" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff">B</tspan></text>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" xml:space="preserve" y="516.888" x="-196.2054"><tspan x="-196.2054" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff" y="516.888">A = { 1, 2, 3, 4 }</tspan></text>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="516.888" x="303.79462" xml:space="preserve"><tspan y="516.888" x="303.79462" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff">B = { 1, 2, 4, 8, 0 }</tspan></text>
+  <text style="letter-spacing:0px;font-size:180px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" xml:space="preserve" y="596.888" x="-12.907547"><tspan x="-12.907547" style="font-size:37.5px;font-family:&apos;AR CENA&apos;;font-weight:100;fill:#ffffff" y="596.888">A <tspan style="font-weight:normal;font-family:sans-serif">U</tspan> B = { 1, 2, 3, 4, 8, 0 }</tspan></text>
+ </g>
+</svg>

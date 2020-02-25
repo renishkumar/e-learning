@@ -1,0 +1,39 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="178.64mm" width="150.52mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 533.3366 632.99194">
+ <defs>
+  <marker id="d" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:.625;fill:#f7df79" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+  <marker id="c" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:.625;fill:#f7df79" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+  <marker id="b" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="stroke-linejoin:round;stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:.625;fill:#f7df79" transform="matrix(-1.1,0,0,-1.1,-1.1,0)"/>
+  </marker>
+  <marker id="a" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:.625;fill:#f7df79" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+ </defs>
+ <g transform="translate(5.9857 -138.72)">
+  <path style="stroke:#696969;stroke-width:2;fill:none" d="m214.27 388.26h202.08l.0623 100.33"/>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#696969;stroke-linecap:round;stroke-width:3.0925;fill:#fff987;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto" transform="matrix(.81797 .57526 -.81797 .57526 0 0)" rx="0" ry="0" height="133.86" width="133.86" y="206.37" x="335.57"/>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#696969;stroke-linecap:round;stroke-width:3;fill:#ffa27b;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto" rx="23.964" ry="31.996" height="63.992" width="194.6" y="706.22" x="8.8824"/>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#696969;stroke-linecap:round;stroke-width:3;fill:#e0ff87;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto" rx="23.964" ry="31.996" height="63.992" width="194.6" y="140.22" x="8.3804"/>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" xml:space="preserve" y="184.94273" x="48.397495"><tspan x="48.397495" style="font-size:35px;fill:#ffffff" y="184.94273">START</tspan></text>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="750.94281" x="58.879948" xml:space="preserve"><tspan y="750.94281" x="58.879948" style="font-size:35px;fill:#ffffff">STOP</tspan></text>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="184.94273" x="48.397495"><tspan x="48.397495" style="font-size:35px" y="184.94273">START</tspan></text>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="750.94281" x="58.879948" xml:space="preserve"><tspan y="750.94281" x="58.879948" style="font-size:35px">STOP</tspan></text>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#696969;stroke-linecap:round;stroke-width:3;fill:#c4e4ff;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto" rx="0" ry="0" height="53.763" width="220.34" y="545.75" x="-4.4857"/>
+  <path style="marker-end:url(#d);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79" d="m105.66 206.76v96.492"/>
+  <path d="m105.68 466.76v70.36" style="marker-end:url(#c);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79"/>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="573.93359" x="-107.55962"><tspan x="-107.55962" y="573.93359"/></text>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="377.71494" x="105.54226" xml:space="preserve"><tspan y="377.71494" x="105.54226" style="font-size:25px;text-anchor:middle;text-align:center">Test</tspan><tspan y="408.96494" x="105.54226" style="font-size:25px;text-anchor:middle;text-align:center">Expression</tspan></text>
+  <path d="m105.66 598.76v98.492" style="marker-end:url(#b);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79"/>
+  <path style="marker-end:url(#a);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79" d="m416.91 648.01h-304.49"/>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="579.67029" x="104.0591"><tspan x="104.0591" style="font-size:25px;text-anchor:middle;text-align:center" y="579.67029">Body of if</tspan></text>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff5353" y="379.67029" x="302.05911" xml:space="preserve"><tspan y="379.67029" x="302.05911" style="text-align:center;font-size:25px;fill:#ff5353;text-anchor:middle">FALSE</tspan></text>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#39cb63" xml:space="preserve" y="502.53699" x="162.05911"><tspan x="162.05911" style="text-align:center;font-size:25px;fill:#39cb63;text-anchor:middle" y="502.53699">TRUE</tspan></text>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#696969;stroke-linecap:round;stroke-width:3;fill:#c4e4ff;fill-rule:evenodd;mix-blend-mode:normal;image-rendering:auto;isolation:auto" rx="0" ry="0" height="53.763" width="220.34" y="485.75" x="305.51"/>
+  <text style="letter-spacing:0px;font-size:17.5px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="519.67023" x="415.0723" xml:space="preserve"><tspan y="519.67023" x="415.0723" style="font-size:25px;text-anchor:middle;text-align:center">Body of else</tspan></text>
+  <path style="stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79" d="m415.68 538.76v108.36"/>
+ </g>
+</svg>

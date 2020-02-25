@@ -1,0 +1,25 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="177mm" width="227mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 803.45188 626.96898">
+ <defs>
+  <filter id="a" style="color-interpolation-filters:sRGB" label="Drop Shadow">
+   <feFlood result="flood" flood-color="rgb(164,255,137)"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="5.20833" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="2.6" dy="2.6"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <rect ry="0" style="filter:url(#a);fill:#b4e979" rx="0" transform="matrix(1.37 0 0 .906 -1.89 -.00227)" height="577" width="489" y="57.7" x="50.3"/>
+ <path d="m264 53v520" style="stroke:#fff;stroke-width:2;fill-rule:evenodd"/>
+ <path d="m65.9 125h670" style="stroke:#fff;stroke-width:2;fill-rule:evenodd"/>
+ <text style="font-size:26.2px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="102.77361" x="115.75132" xml:space="preserve"><tspan y="102.77361" x="115.75132">Number</tspan></text>
+ <text style="font-size:26.2px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="102.39093" x="376.26474" xml:space="preserve"><tspan y="102.39093" x="376.26474">Positive Factors</tspan></text>
+ <text style="font-size:26.2px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="83.021423" x="876.07202" xml:space="preserve"/>
+ <text style="font-size:25px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="179.23528" x="148.7253" xml:space="preserve"><tspan y="179.23528" x="148.7253">6</tspan></text>
+ <text style="font-size:25px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="273.85815" x="148.43233" xml:space="preserve"><tspan y="273.85815" x="148.43233">28</tspan></text>
+ <text style="font-size:25px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="368.46875" x="149.45772" xml:space="preserve"><tspan y="368.46875" x="149.45772">496</tspan></text>
+ <text style="font-size:25px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="463.09152" x="148.9084" xml:space="preserve"><tspan y="463.09152" x="148.9084">8128</tspan></text>
+ <text style="font-size:25px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="179.2719" x="319.1442" xml:space="preserve"><tspan y="179.2719" x="319.1442">1,2,3</tspan></text>
+ <text style="font-size:25px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="273.85815" x="319.1442" xml:space="preserve"><tspan y="273.85815" x="319.1442">1,2,4,7,14</tspan></text>
+ <text style="font-size:25px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="368.51758" x="321.59781" xml:space="preserve"><tspan y="368.51758" x="321.59781">1,2,4,8,16,31,62,124,248</tspan></text>
+ <text style="font-size:25px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="463.09152" x="320.25504" xml:space="preserve"><tspan y="463.09152" x="320.25504">1,2,4,8,16,32,64,127,254,</tspan><tspan y="494.34152" x="320.25504">508,1016,2032,4064</tspan></text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="65.15mm" width="83.256mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295 230.8467" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <marker id="e" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="fill-rule:evenodd;stroke:#000;stroke-width:1pt" transform="scale(.4)" d="m5.77 0-8.65 5v-10l8.65 5z"/>
+  </marker>
+  <linearGradient id="d" y2="544.22" gradientUnits="userSpaceOnUse" x2="385.51" gradientTransform="translate(155.55 353.61)" y1="498.96" x1="268.56">
+   <stop style="stop-color:#808080" offset="0"/>
+   <stop style="stop-color:#959595;stop-opacity:.69020" offset=".30917"/>
+   <stop style="stop-color:#808080;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" y2="472.71" gradientUnits="userSpaceOnUse" x2="355.36" gradientTransform="translate(155.55 353.61)" y1="411.19" x1="237.62">
+   <stop style="stop-color:#949494" offset="0"/>
+   <stop style="stop-color:#949494;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y2="468.68" gradientUnits="userSpaceOnUse" x2="351.27" gradientTransform="translate(155.55 353.61)" y1="453.43" x1="305.31">
+   <stop style="stop-color:#dadada" offset="0"/>
+   <stop style="stop-color:#b6b6b6;stop-opacity:.39608" offset=".36137"/>
+   <stop style="stop-color:#c5c5c5;stop-opacity:.11373" offset=".81951"/>
+   <stop style="stop-color:#808080;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" y2="504.68" gradientUnits="userSpaceOnUse" x2="362.02" gradientTransform="translate(155.55 353.61)" y1="456.43" x1="280.81">
+   <stop style="stop-color:#dadada" offset="0"/>
+   <stop style="stop-color:#b6b6b6;stop-opacity:.39608" offset=".24009"/>
+   <stop style="stop-color:#c5c5c5;stop-opacity:.11373" offset=".57081"/>
+   <stop style="stop-color:#808080;stop-opacity:0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-155.55 -353.61)">
+  <rect style="opacity:0.942;color-rendering:auto;fill-opacity:.11373;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#c5c5c5" rx="1.9445" ry=".35356" height="230.85" width="295" y="353.61" x="155.55"/>
+  <rect style="opacity:0.942;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#4d4d4d" rx="2.4335" ry="2.4335" height="17.173" width="44.447" y="390.71" x="280.82"/>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fff;fill:#fff;fill-rule:evenodd;mix-blend-mode:normal;opacity:0.942;image-rendering:auto;isolation:auto" rx="0" ry="0" height="3.5714" width="37.679" y="394.15" x="284.11"/>
+  <path style="marker-end:url(#e);stroke:#000;stroke-width:1px;fill:none" d="m293.01 416.32h21.245"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m298.33 416.31s3.9412-4.5069 5.318-4.5069h5.318"/>
+  <path style="stroke:#000;stroke-width:1px;fill:none" d="m302.58 416.34s1.774 4.7123 2.659 4.7123h5.318"/>
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#000;fill:none;mix-blend-mode:normal;opacity:0.942;image-rendering:auto;isolation:auto" rx="0" ry="0" height="1.4137" width="1.5954" y="420.28" x="310.51"/>
+  <circle r=".75" style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#000;fill:none;mix-blend-mode:normal;opacity:0.942;image-rendering:auto;isolation:auto" cx="309.57" cy="411.71"/>
+  <circle style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#000;fill-rule:evenodd;mix-blend-mode:normal;opacity:0.942;image-rendering:auto;isolation:auto" transform="scale(1,-1)" cy="-416.34" cx="292.45" r="1.125"/>
+  <rect style="opacity:0.942;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#d)" rx="5.6569" ry="5.6569" height="77" width="41" y="470.36" x="281.79"/>
+  <path style="opacity:0.942;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#c)" d="m287.29 446.71h30.418c1.0739 0 1.9384 1.025 1.9384 2.2981v16.971c0 2.2454.0301 2.2981-1.9384 2.2981h-30.418c-1.9313 0-1.9384-.008-1.9384-2.2981v-16.971c0-1.2732.86453-2.2981 1.9384-2.2981z"/>
+  <rect style="opacity:0.942;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#b)" rx="1.9445" ry=".35356" height="6.1105" width="12.215" y="450.38" x="305.31"/>
+  <rect style="opacity:0.942;color-rendering:auto;fill-opacity:.94510;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#4d4d4d" rx="1.9445" ry="1.0607" height="4.2426" width="32.527" y="534.05" x="286.02"/>
+  <rect style="opacity:0.942;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#a)" rx="1.9445" ry=".35356" height="6.1105" width="12.215" y="450.38" x="289.31"/>
+  <path style="fill-opacity:.45098;fill-rule:evenodd;stroke:#ff746b;stroke-width:3;fill:#f68178" d="m236.39 401.98 133.31 134.12"/>
+  <ellipse style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#ff746b;stroke-width:3;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" rx="95.786" ry="93" cy="469.04" cx="303.05"/>
+ </g>
+</svg>

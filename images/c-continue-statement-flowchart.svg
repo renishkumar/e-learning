@@ -1,0 +1,49 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="235.73mm" width="261.42mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 926.30003 835.25306">
+ <defs>
+  <marker id="c" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:.625;fill:#f7df79" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" transform="matrix(-1.1,0,0,-1.1,-1.1,0)"/>
+  </marker>
+  <marker id="b" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:.625;fill:#f7df79" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" transform="matrix(-1.1,0,0,-1.1,-1.1,0)"/>
+  </marker>
+  <marker id="a" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:.625;fill:#f7df79" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" transform="matrix(-1.1,0,0,-1.1,-1.1,0)"/>
+  </marker>
+ </defs>
+ <g transform="translate(249.26 84.534)">
+  <rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#d7d7d7;stroke-linecap:round;stroke-dasharray:23.99999937, 5.99999984, 2.99999992, 5.99999984;image-rendering:auto;stroke-width:3;fill:none" rx="0" ry="0" height="633.33" width="923.3" y="16.429" x="-247.76"/>
+  <g transform="translate(15.523,-14.519)">
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="347.70691" x="75.180435" xml:space="preserve"><tspan y="347.70691" x="75.180435"/></text>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="758.19226" x="-0.30866358" xml:space="preserve"><tspan y="758.19226" x="-0.30866358"/></text>
+   <rect style="stroke-linejoin:round;color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#696969;stroke-linecap:round;image-rendering:auto;stroke-width:3.0924;fill:#fff987" transform="matrix(.81797 .57526 -.81797 .57526 0 0)" rx="0" ry="0" height="133.86" width="133.86" y="-102.79" x="249.81"/>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="764.71173" x="241.61591" xml:space="preserve"><tspan y="764.71173" x="241.61591" style="font-size:34.999px;fill:#ffffff">STOP</tspan></text>
+   <path style="marker-end:url(#c);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79" d="m288.39-19.458v96.49"/>
+   <path style="marker-end:url(#b);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79" d="m288.41 238.77v70.358"/>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="151.49307" x="288.27707" xml:space="preserve"><tspan y="151.49307" x="288.27707" style="font-size:24.999px;text-anchor:middle;text-align:center">Loop Test</tspan><tspan y="182.74231" x="288.27707" style="font-size:24.999px;text-anchor:middle;text-align:center">Expression</tspan></text>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#39cb63" y="384.3121" x="79.272675" xml:space="preserve"><tspan y="384.3121" x="79.272675" style="font-size:24.999px;text-align:center;text-anchor:middle;fill:#39cb63">TRUE</tspan></text>
+   <rect ry="0" style="stroke-linejoin:round;color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#696969;stroke-linecap:round;image-rendering:auto;stroke-width:3.0924;fill:#fff987" rx="0" transform="matrix(.81797 .57526 -.81797 .57526 0 0)" height="133.86" width="133.86" y="98.941" x="451.54"/>
+   <path style="marker-end:url(#b);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79" d="m288.41 470.87v70.358"/>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="379.49307" x="288.27707" xml:space="preserve"><tspan y="379.49307" x="288.27707" style="font-size:24.999px;text-anchor:middle;text-align:center">Test</tspan><tspan y="410.74228" x="288.27707" style="font-size:24.999px;text-anchor:middle;text-align:center">Expression</tspan></text>
+   <path style="marker-end:url(#a);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79" d="m-23.216 161.61h194.69"/>
+   <path style="stroke:#696969;stroke-width:2;fill:none" d="m180.14 394.71h-202.08l-.0623-90.394"/>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff5353" y="516.80951" x="344.78909" xml:space="preserve"><tspan y="516.80951" x="344.78909" style="font-size:24.999px;text-align:center;text-anchor:middle;fill:#ff5353">FALSE</tspan></text>
+   <rect style="stroke-linejoin:round;color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#696969;stroke-linecap:round;image-rendering:auto;stroke-width:2.9999;fill:#69ff77" rx="0" ry="0" height="53.762" width="220.33" y="249.01" x="-131.72"/>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="284.97925" x="-22.63028" xml:space="preserve"><tspan y="284.97925" x="-22.63028" style="font-size:24.999px;text-align:center;text-anchor:middle;fill:#000000">Continue</tspan></text>
+   <path style="marker-end:url(#a);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79" d="m599.7 733.28h-279.54"/>
+   <circle style="stroke-linejoin:round;color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#808080;stroke-linecap:round;image-rendering:auto;stroke-width:2;fill:#4d4d4d" cx="288.43" r="24.354" cy="733.34"/>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="742.42316" x="113.36971" xml:space="preserve"><tspan y="742.42316" x="113.36971" style="font-size:24.999px;text-align:center;text-anchor:middle;fill:#000000">Rest of the Program</tspan></text>
+   <circle style="stroke-linejoin:round;color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#808080;stroke-linecap:round;image-rendering:auto;stroke-width:2;fill:#4d4d4d" cx="288.43" r="24.354" cy="-44.665"/>
+   <path style="stroke:#696969;stroke-width:2;stroke-opacity:.96078;fill:none" d="m-22.316 249.29v-87.006"/>
+   <g transform="translate(-307.62,300)">
+    <rect style="stroke-linejoin:round;color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#696969;stroke-linecap:round;image-rendering:auto;stroke-width:2.9999;fill:#69ff77" rx="0" ry="0" height="53.762" width="266.74" y="248.73" x="462.7"/>
+    <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="284.97925" x="595.36975" xml:space="preserve"><tspan y="284.97925" x="595.36975" style="font-size:24.999px;text-align:center;text-anchor:middle;fill:#000000">Block of Statements</tspan></text>
+   </g>
+   <path style="stroke:#696969;stroke-width:2;fill:none" d="m396.81 161.24h202.08l.0623 572.7"/>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ff5353" y="150.80951" x="497.86462" xml:space="preserve"><tspan y="150.80951" x="497.86462" style="font-size:24.999px;text-align:center;text-anchor:middle;fill:#ff5353">FALSE</tspan></text>
+   <text style="font-size:17.5px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#39cb63" y="284.52185" x="342.17685" xml:space="preserve"><tspan y="284.52185" x="342.17685" style="font-size:24.999px;text-align:center;text-anchor:middle;fill:#39cb63">TRUE</tspan></text>
+   <circle style="stroke-linejoin:round;color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#808080;stroke-linecap:round;image-rendering:auto;stroke-width:2;fill:#4d4d4d" cx="-22.453" r="24.354" cy="159.87"/>
+   <path style="stroke:#696969;stroke-width:2;fill:none" d="m154.52 580.71h-355.74l-.10967-420.39"/>
+   <path style="marker-end:url(#a);stroke-opacity:.96078;fill-rule:evenodd;stroke:#696969;stroke-width:2;fill:#f7df79" d="m-203.22 161.61h152.69"/>
+  </g>
+ </g>
+</svg>

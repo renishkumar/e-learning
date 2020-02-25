@@ -1,0 +1,30 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="140.57mm" width="297.36mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1053.6522 498.07005">
+ <defs>
+  <filter id="a" style="color-interpolation-filters:sRGB">
+   <feFlood flood-opacity=".26274" flood-color="rgb(0,0,0)" result="flood"/>
+   <feComposite operator="in" result="composite1" in2="SourceGraphic" in="flood"/>
+   <feGaussianBlur stdDeviation="8.9" result="blur" in="composite1"/>
+   <feOffset result="offset" dx="0" dy="0"/>
+   <feComposite operator="over" result="composite2" in2="offset" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g transform="translate(569.68 53.816)">
+  <rect style="stroke-linejoin:round;solid-color:#000000;color-rendering:auto;fill-opacity:.99216;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;stroke-dashoffset:5.1;shape-rendering:auto;filter:url(#a);stroke:#fcc24b;stroke-linecap:round;image-rendering:auto;stroke-width:2.7793;fill:#353f4e" transform="matrix(1.5645 0 0 1.324 -165.8 -194.95)" rx="5" ry="6.2306" height="313.49" width="561.22" y="137.95" x="-202.03"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="12.64" width="915.59" y="394.35" x="-500.67"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;fill-opacity:.52050;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#6b6d6f" rx="0" ry="0" height="21.448" width="68.839" y="371.09" x="101.97"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="0" ry="0" height="3.2997" width="68.839" y="390.06" x="101.97"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" rx="1.6481" ry="1.7379" height="5.6175" width="37.29" y="388.73" x="-79.577"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ff6b00" rx="1.6481" ry="1.7379" height="5.6175" width="37.29" y="388.73" x="-173.45"/>
+  <rect style="color-rendering:auto;fill-rule:evenodd;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#00ff65" rx="1.6481" ry="1.7379" height="5.6175" width="37.29" y="388.73" x="-361.21"/>
+  <text style="letter-spacing:0px;font-size:44.182px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" transform="scale(.97380 1.0269)" y="115.88472" x="-327.16486"><tspan x="-327.16486" y="115.88472"/></text>
+  <text style="font-size:29.771px;font-weight:100;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;AR CENA&apos;;fill:#ffffff" xml:space="preserve" transform="scale(.97873 1.0217)" y="72.247894" x="-8.0494146"><tspan x="-8.0494146" y="72.247894">1  2  3</tspan><tspan x="-8.0494146" y="109.46223">4  5  6</tspan><tspan x="-8.0494146" y="146.67656">7  8  9</tspan></text>
+  <path style="stroke:#fff;stroke-width:2;fill:none" d="m-9.5024 38.139s-21.191-5.4437-21.191 4.4245v118.42c0 9.8682 21.191 4.4245 21.191 4.4245"/>
+  <path d="m71.531 38.139s21.191-5.4437 21.191 4.4245v118.42c0 9.8682-21.191 4.4245-21.191 4.4245" style="stroke:#fff;stroke-width:2;fill:none"/>
+  <text style="font-size:29.771px;font-weight:100;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;AR CENA&apos;;fill:#ffffff" xml:space="preserve" transform="scale(.97873 1.0217)" y="249.85448" x="-7.4069972"><tspan x="-7.4069972" y="249.85448">1  4  7</tspan><tspan x="-7.4069972" y="287.06882">2  5  8</tspan><tspan x="-7.4069972" y="324.28314">3  6  9</tspan></text>
+  <path d="m-9.5024 219.62s-21.191-5.4437-21.191 4.4245v118.42c0 9.8682 21.191 4.4245 21.191 4.4245" style="stroke:#fff;stroke-width:2;fill:none"/>
+  <path style="stroke:#fff;stroke-width:2;fill:none" d="m71.531 219.62s21.191-5.4437 21.191 4.4245v118.42c0 9.8682-21.191 4.4245-21.191 4.4245"/>
+  <text style="font-size:35px;font-weight:100;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;AR CENA&apos;;fill:#ffffff" xml:space="preserve" y="113.35768" x="-140"><tspan x="-140" y="113.35768">A    =</tspan></text>
+  <text style="font-size:35px;font-weight:100;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;AR CENA&apos;;fill:#ffffff" y="301.96201" x="-140" xml:space="preserve"><tspan y="301.96201" x="-140">A<tspan style="font-size:35px;font-weight:100;line-height:125%;baseline-shift:super;font-family:&apos;AR CENA&apos;;fill:#ffffff">T</tspan>    =</tspan></text>
+  <text style="font-size:27.5px;font-weight:100;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;AR CENA&apos;;fill:#ffffff" xml:space="preserve" y="15.362205" x="-126.44511"><tspan x="-126.44511" y="15.362205">Transpose Matrix</tspan></text>
+ </g>
+</svg>

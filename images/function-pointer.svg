@@ -1,0 +1,14 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="58.944mm" width="116.04mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 411.16376 208.85715">
+ <defs>
+  <marker id="a" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-opacity:.86667;fill-opacity:.86667;fill-rule:evenodd;stroke:#000;stroke-width:1pt" transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+  </marker>
+ </defs>
+ <g transform="translate(-161.17 -24.491)">
+  <rect style="opacity:.86694;stroke:#000;fill:#e5e207" height="207.86" width="235" y="24.991" x="336.84"/>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="60.193542" x="367.82855"><tspan x="367.82855" style="font-size:20px;line-height:125%;font-family:DengXian" y="60.193542">int operation() {</tspan><tspan x="367.82855" style="font-size:20px;line-height:125%;font-family:DengXian" y="85.193542">// Operation Begins</tspan><tspan x="367.82855" style="font-size:20px;line-height:125%;font-family:DengXian" y="110.19354">printf(&quot; awesome! &quot;);</tspan><tspan x="367.82855" style="font-size:20px;line-height:125%;font-family:DengXian" y="135.19354">:</tspan><tspan x="367.82855" style="font-size:20px;line-height:125%;font-family:DengXian" y="160.19354">:</tspan><tspan x="367.82855" style="font-size:20px;line-height:125%;font-family:DengXian" y="185.19354">// Opreation Ends</tspan><tspan x="367.82855" style="font-size:20px;line-height:125%;font-family:DengXian" y="210.19354">}</tspan></text>
+  <rect style="opacity:.86694;stroke-opacity:.86667;stroke:#e4e207" height="33.419" width="88.966" y="112.21" x="161.67"/>
+  <text style="letter-spacing:0px;font-size:20px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#fff800" xml:space="preserve" y="134.50507" x="167.14285"><tspan x="167.14285" style="fill:#fff800" y="134.50507">(*ptr)()</tspan></text>
+  <path style="marker-end:url(#a);stroke-opacity:.86667;stroke:#000;stroke-width:1px;fill:none" d="m247.04 114.15s65.66-51.518 114.15-61.619"/>
+ </g>
+</svg>

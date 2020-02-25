@@ -1,0 +1,20 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="121.12mm" width="393.42mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1393.9994 429.16252">
+ <g transform="translate(432.14 -82.78)">
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="149.05014" x="176.99994"><tspan y="149.05014" x="176.99994">Constants</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="471.38956" x="-352.96271"><tspan y="471.38956" x="-352.96271">Integer</tspan></text>
+  <rect style="opacity:0.942;stroke-linejoin:round;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#b3b3b3;image-rendering:auto;stroke-width:4;fill:none" height="103.16" width="286" y="406.78" x="-430.14"/>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="468.04233" x="-37.735657"><tspan y="468.04233" x="-37.735657">Floating Point</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="471.39194" x="352.34149"><tspan y="471.39194" x="352.34149">Character</tspan></text>
+  <text style="font-size:35px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" xml:space="preserve" y="467.70053" x="764.21356"><tspan y="467.70053" x="764.21356">String</tspan></text>
+  <path style="stroke:#009688;stroke-width:4;fill:none" d="m265.43 188.65v107.14"/>
+  <path style="stroke:#ff5722;stroke-width:4;stroke-opacity:.94510;fill:none" d="m439.36 297.46v106.9"/>
+  <path style="stroke:#ffc107;stroke-width:4;fill:none" d="m815.71 296.08v106.9"/>
+  <path style="stroke:#b3b3b3;stroke-width:4;stroke-opacity:.94510;fill:none" d="m-285.59 297.55v106.81"/>
+  <path style="stroke:#2196f3;stroke-width:4;fill:none" d="m86.857 300.08v104.29"/>
+  <path style="stroke:#009688;stroke-width:4;fill:none" d="m817.71 298.08h-1105.3"/>
+  <rect style="opacity:0.942;stroke-linejoin:round;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#2196f3;image-rendering:auto;stroke-width:4;fill:none" height="103.16" width="286" y="406.78" x="-60.141"/>
+  <rect style="opacity:0.942;stroke-linejoin:round;color-rendering:auto;stroke-opacity:.94510;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#ff5722;image-rendering:auto;stroke-width:4;fill:none" height="103.16" width="286" y="406.78" x="295.86"/>
+  <rect style="opacity:0.942;stroke-linejoin:round;color-rendering:auto;stroke-opacity:.74510;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#ffc107;image-rendering:auto;stroke-width:4;fill:none" height="103.16" width="286" y="406.78" x="673.86"/>
+  <rect style="opacity:0.942;stroke-linejoin:round;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#009688;image-rendering:auto;stroke-width:4;fill:none" height="103.16" width="286" y="84.78" x="121.86"/>
+ </g>
+</svg>

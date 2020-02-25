@@ -1,0 +1,44 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="149.61mm" width="316.42mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1121.1595 530.10136" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="a" y2="488.58" gradientUnits="userSpaceOnUse" x2="837.52" gradientTransform="translate(-177.72 302.01)" y1="356.73" x1="403.61">
+   <stop style="stop-color:#c9cacc" offset="0"/>
+   <stop style="stop-color:#c9cacc;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" y2="347.85" gradientUnits="userSpaceOnUse" x2="1164.6" gradientTransform="translate(-177.72 302.01)" y1="404.92" x1="351.1">
+   <stop style="stop-color:#e9e9e9" offset="0"/>
+   <stop style="stop-color:#e8e8e8" offset=".65186"/>
+   <stop style="stop-color:#aeaeae" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y2="393.01" gradientUnits="userSpaceOnUse" x2="554.02" gradientTransform="translate(-177.72 302.01)" y1="354.5" x1="554.02">
+   <stop style="stop-color:#c1c2c4" offset="0"/>
+   <stop style="stop-color:#d8dadb" offset=".24880"/>
+   <stop style="stop-color:#fafafa" offset=".90022"/>
+   <stop style="stop-color:#88888c;stop-opacity:.74132" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(177.72 -302.01)">
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fbffac" height="530.1" width="1121.2" y="302.01" x="-177.72"/>
+  <path style="fill:url(#b);fill-rule:evenodd" d="m329.9 695.53c24.476 0 25.408-38.775 25.408-38.775h55.07s.97227 38.05 24.926 38.846z"/>
+  <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#030302" d="m244.62 431h276.48c5.3045 0 9.5748 5.3737 9.5748 12.048v201.82c0 12-.46197 12.048-9.5748 12.048h-276.48c-9.9592 0-9.5748-.0489-9.5748-12.048v-201.82c0-6.675 4.2703-12.048 9.5748-12.048z"/>
+  <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#c)" d="m234.65 616.95v28.252c0 12.14-.38518 12.188 9.601 12.188h277.23c9.0463 0 9.588-.0874 9.5979-11.868v-28.25c-38.978 0-258.31-.32215-296.43-.32215z"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#646464" rx="0" ry="0" height="159.94" width="266.94" y="444.26" x="249.38"/>
+  <rect style="opacity:0.942;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#a)" rx="1.9593" ry="1.9593" height="2.7612" width="105.53" y="695.31" x="329.98"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" height="5.5639" width="265.68" y="443.92" x="249.83"/>
+  <circle r="1.6464" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#f61d1d" cx="255.41" cy="446.41"/>
+  <circle cx="262" cy="446.41" r="1.6464" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fafb02"/>
+  <circle r="1.6464" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#62c74e" cx="268.58" cy="446.41"/>
+  <text style="font-size:12.5px;letter-spacing:0px;line-height:150%;word-spacing:0px;font-family:sans-serif;fill:#b2faff" xml:space="preserve" y="468.10962" x="253.71429"><tspan x="253.71429" style="font-size:12.5px;letter-spacing:.5px;line-height:150%;word-spacing:.5px;font-family:monospace;fill:#baffd8" y="468.10962">#include&lt;stdio.h&gt;</tspan><tspan x="253.71429" style="font-size:12.5px;letter-spacing:.5px;line-height:150%;word-spacing:.5px;font-family:monospace;fill:#baffd8" y="486.85962">int main()</tspan><tspan x="253.71429" style="font-size:12.5px;letter-spacing:.5px;line-height:150%;word-spacing:.5px;font-family:monospace;fill:#baffd8" y="505.60962">{</tspan><tspan x="253.71429" style="font-size:12.5px;letter-spacing:.5px;line-height:150%;word-spacing:.5px;font-family:monospace;fill:#baffd8" y="524.35962">printf (&quot; Hello World ! &quot;);</tspan><tspan x="253.71429" style="font-size:12.5px;letter-spacing:.5px;line-height:150%;word-spacing:.5px;font-family:monospace;fill:#baffd8" y="543.10962">printf (&quot; Make it Great &quot;);</tspan><tspan x="253.71429" style="font-size:12.5px;letter-spacing:.5px;line-height:150%;word-spacing:.5px;font-family:monospace;fill:#baffd8" y="561.85962">return 0;</tspan><tspan x="253.71429" style="font-size:12.5px;letter-spacing:.5px;line-height:150%;word-spacing:.5px;font-family:monospace;fill:#baffd8" y="580.60962">}</tspan></text>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fdd883" rx="1.9593" ry="1.9593" height="12.055" width="645.42" y="697.33" x="60.149"/>
+  <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#696464" d="m650.85 647.32h13.659c.19562 0 .35311 1.1508.35311 2.5804v14.813c0 1.4295-.15749 2.5804-.35311 2.5804h-13.659c-.19562 0-.3531-1.1508-.3531-2.5804v-14.813c0-1.4295.15748-2.5804.3531-2.5804zm-1.5-4.4387h16.659c1.1977 0 2.162 2.9655 2.162 6.6492v15.553c0 3.6836-.96424 6.6492-2.162 6.6492h-16.659c-1.1977 0-2.162-2.9655-2.162-6.6492v-15.553c0-3.6836.96424-6.6492 2.162-6.6492z"/>
+  <path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#696464" d="m593.48 628.5h60.21l.0741.14642v60.952c0 4.1679-.87384 7.5232-1.9593 7.5232h-56.357c-1.0854 0-1.9593-3.3554-1.9593-7.5232v-60.952z"/>
+  <path style="stroke:#696464;stroke-width:1px;fill:none" d="m607.9 622.11s-2.968-6.916-.74201-16.661c0 0 2.968-4.4011 1.484-14.146"/>
+  <path d="m622.9 614.06s-2.968-4.1894-.74201-10.093c0 0 2.968-2.666 1.484-8.5693" style="stroke:#696464;stroke-width:1px;fill:none"/>
+  <path style="stroke:#696464;stroke-width:1px;fill:none" d="m637.9 606.06s-2.968-4.1894-.74201-10.093c0 0 2.968-2.666 1.484-8.5693"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#9b8270" rx="1.9593" ry="1.9593" height="12.055" width="645.42" y="697.33" x="60.149"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#9b8270" rx="0" ry="0" height="123.06" width="16.351" y="709.05" x="101.15"/>
+  <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#9b8270" rx="0" ry="0" height="123.06" width="16.351" y="709.05" x="648.21"/>
+  <path style="stroke:#edebeb;stroke-width:1px;fill:none" d="m607.56 675.39v-11.79"/>
+  <path d="m615.56 678.53v-18.077" style="stroke:#edebeb;stroke-width:1px;fill:none"/>
+  <path style="stroke:#edebeb;stroke-width:1px;fill:none" d="m643.56 684.03v-29.081"/>
+ </g>
+</svg>

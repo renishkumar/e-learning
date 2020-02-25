@@ -1,0 +1,479 @@
+<!doctype html><html>
+
+<!-- Mirrored from www.2braces.com/c-programming/c-for-loop by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Feb 2020 16:35:14 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8"/>
+<title>C for loop</title>
+<meta name="Description" content="Conceptually, for loop is a bit more complex than while loop and do while loop, though syntax is neat and compact way to write certain types of loops.">
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="icon" type="image/png" href="../images/favicon.png">
+<link rel="stylesheet" href="../css/styles.css">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75345241-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script data-ad-client="ca-pub-1272335038483755" async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+
+<style>
+    form.gsc-search-box{
+        width: 88% !important;
+    }
+    .gsc-search-box-tools .gsc-search-box .gsc-input{
+        background-image: initial !important;
+        text-indent: 0 !important;
+        padding: 0;
+        border: 0;
+    }
+    td.gsc-search-button{
+        padding: 0;
+        border: 0;
+    }
+    .cse .gsc-search-button-v2, .gsc-search-button-v2{
+        padding: 8px 27px;
+    }
+    .gsib_a, .gsib_b{
+        padding: 0 !important;
+        border: 0;
+    }
+    .cse .gsc-control-cse, .gsc-control-cse{
+        padding: 2em 1em !important;
+    }
+    .gsc-control-cse{
+        box-shadow: 0 0 3px rgba(0,0,0,.3);
+    }
+    .gsc-search-box-tools .gsc-search-box .gsc-input{
+        padding: 4px !important;
+        letter-spacing: 1px;
+    }
+    .gsc-search-button-v2, .gsc-search-button-v2:hover, .gsc-search-button-v2:focus{
+        background-color: #555556 !important;
+    }
+    @media(max-width: 768px){
+        .cse .gsc-control-cse, .gsc-control-cse{
+                padding: 1em !important;
+        }
+        .gsc-results-wrapper-overlay{
+            width: 90% !important;
+            left: 0 !important;
+            right: 0 !important;
+            top: 7% !important;
+        }
+    }
+    .ee:before, .ee:after, .ff:before, .ff:after{
+        content: none !important;
+    }
+</style>
+</head>
+<body>
+<header class="topnav">
+<div class="searchbox">
+<form><div id="test">
+<script>
+  (function() {
+    var cx = 'partner-pub-5544795706234622:6341640125';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = '../../cse.google.com/cse07b6.html?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div></form>
+</div>
+<nav>
+<div class="navig">
+<div class="logo">
+<a href="../index.html"><img src="../images/perfect-logo.png" alt="2braces logo"></a>
+</div>
+<div class="nav-items">
+<ul>
+<li><a href="index.html">C Programming</a></li>
+<li><a href="../data-structures/index.html">Data Structures</a></li>
+<li><a href="../c-questions/index.html">C Questions</a></li>
+<li><a href="../aptitude/index.html">Aptitude</a></li>
+<li><a href="../electrical/index.html">Electrical</a></li>
+</ul>
+<div class="searchicon"><span id="twocolors"><svg class="searchsvg" width="4.8073144mm" height="4.2179461mm" viewBox="0 0 17.033791 14.945478"><g transform="translate(-38.672671,-129.77446)"><g transform="matrix(0.93798598,0,0,0.9374782,3.1764162,8.7812659)"><circle r="5.5" cy="135.36221" cx="44.142857" style="fill: none; fill-rule: nonzero; stroke: rgb(110, 110, 110); stroke-width: 1.5996; stroke-miterlimit: 4; transition: stroke 0.4s;"></circle><rect transform-center-y="7.6780863" transform-center-x="-9.0466861" transform="matrix(0.6011622,-0.79912703,0.79912703,0.6011622,0,0)" rx="1.0773102" ry="1.0771486" y="122.07453" x="-82.974396" height="9.0913725" width="2.0203052" style="fill: rgb(110, 110, 110); stroke: rgb(110, 110, 110); stroke-width: 0.533201; stroke-miterlimit: 4; transition: all 0.4s;"></rect></g></g></svg></span></div>
+<div class="topham">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+</div>
+</nav>
+</header><section>
+<div class="container-fluid">
+<div class="row">
+<div class="sharebox"><div class="insharebox"><a href="https://twitter.com/2bracesindia" class="socialicons twit"></a><a href="https://www.facebook.com/2braces" class="socialicons fb"></a><a href="https://plus.google.com/+2bracesIndia" class="socialicons gplus"></a><a href="https://www.linkedin.com/company/2braces" class="socialicons edin"></a></div></div>
+<div class="col-md-2 sidenav">
+<div class="sidenavinner">
+<div class="indexlist">
+<h3>C Foundation</h3>
+<a href="index.html">What is C?</a>
+<a href="c-how-to-install-compiler.html">C Compiler Installation</a>
+<a href="c-extensions.html">C Extensions</a>
+<a href="c-compiler.html">C Compiler</a>
+<a href="interpreter.html">C Interpreter</a>
+<a href="c-basic-program.html">C Program Structure</a>
+<h3>C Basics</h3>
+<a href="c-keywords.html">C Keywords</a>
+<a href="c-data-types.html">C Data Types</a>
+<a href="c-identifiers.html">C Identifiers</a>
+<a href="c-variables.html">C Variables</a>
+<a href="c-constants.html">C Constant</a>
+<a href="c-escape-sequences.html">C Escape Sequences</a>
+<a href="c-constant-volatile-difference.html">C Constant and Volatile</a>
+<a href="c-type-casting.html">C Typecast</a>
+<h3>Operators</h3>
+<a href="c-operators.html">What is Operator</a>
+<a href="c-comma-operator.html">C Comma Operator</a>
+<a href="c-arithmetic-operators.html">C Arithmetic Operators</a>
+<a href="c-relational_operators.html">C Relational Operators</a>
+<a href="c-logical-operators.html">C Logical Operators</a>
+<a href="c-bitwise-operators.html">C Bitwise Operators</a>
+<a href="c-conditional-ternary-operators.html">C Conditional Operators</a>
+<a href="c-scope-resolution-operator.html">C <strong> : : </strong> Operator</a>
+<a href="c-operators-precedence.html">C Operator Priority</a>
+<h3>Basic IO's</h3>
+<a href="c-input-output.html">Basic IO's</a>
+<a href="c-formatted-io-functions.html">C Formatted Functions</a>
+<a href="c-unformatted-io-functions.html">C Unformatted Functions</a>
+<a href="c-library-functions.html">C Common Functions</a>
+<h3>Control Statements</h3>
+<a href="c-control-statements.html">What is Control Statement</a>
+<a href="c-if-statement.html">C if Statement</a>
+<a href="c-if-else.html">C if else Statement</a>
+<a href="c-nested-if.html">C Nested if Statement</a>
+<a href="c-nested-if-else.html">C Else if Statement</a>
+<a href="c-break-statement.html">C Break Statement</a>
+<a href="c-continue-statement.html">C Continue Statement</a>
+<a href="c-switch-statement.html">C Switch Statement</a>
+<a href="c-goto-statement.html">C Goto Statement</a>
+<h3>Looping</h3>
+<a href="c-control-loop.html">What is Control Loop</a>
+<a href="c-for-loop.html">C for Loop</a>
+<a href="c-nested-for-loops.html">C Nested for Loop</a>
+<a href="c-while-loop.html">C while Loop</a>
+<a href="c-nested-while-loops.html">C Nested while Loop</a>
+<a href="c-do-while-loop.html">C do while Loop</a>
+<a href="c-nested-do-while-loops.html">C Nested do while loop</a>
+<h3>Functions</h3>
+<a href="c-functions.html">What is Function</a>
+<a href="c-user-defined-functions.html">C User Defined Functions</a>
+<a href="c-recursion.html">C Recursion</a>
+<a href="c-call-by-value-call-by-reference.html">C Passing Parameters</a>
+<h3>Scope</h3>
+<a href="c-scope-rules.html">Scope</a>
+<a href="c-local-variables.html">C Local Scope</a>
+<a href="c-global-variables.html">C Global Scope</a>
+<h3>Storage Classes</h3>
+<a href="c-storage-classes.html">What is Storage Class</a>
+<a href="c-auto-storage-class.html">C  Auto</a>
+<a href="c-extern-storage-class.html">C Extern</a>
+<a href="c-static-storage-class.html">C Static</a>
+<a href="c-register-storage-class.html">C Register</a>
+<h3>Array</h3> 
+<a href="c-arrays.html">What is Array</a>
+<a href="c-one-dimensional-array.html">C One Dimensional Array</a>
+<a href="c-two-dimensional-array.html">C Two Dimensional Array</a>
+<a href="c-multi-dimensional-arrays.html">C Multi Dimensional Array</a>
+<a href="c-arrays-of-strings.html">C Arrays Of Strings</a>
+<h3>String</h3>
+<a href="c-strings.html">What is String</a>
+<a href="c-string-functions.html">C String Functions</a>
+<h3>Pointer</h3>
+<a href="c-pointers.html">What is Pointer</a>
+<a href="c-pointer-arithmetic.html">C Pointers Arithmetic</a>
+<a href="c-pointer-to-pointer.html">C Pointer to Pointer</a>
+<a href="c-pointers-arrays.html">C Pointers and Arrays</a>
+<a href="c-pointers-strings.html">C Pointers and Strings</a>
+<a href="c-pointers-to-functions.html">C Pointer to Functions</a>
+<a href="c-void-pointers.html">Void Pointers</a> 
+<a href="c-null-pointers.html">Null Pointers</a> 
+<a href="c-difference-between-null-pointer-void-pointer.html">C Null and Void Pointer</a> 
+<h3>Structure</h3>
+<a href="c-structures.html">What is Structure</a>
+<a href="c-nested-structures.html">C Struct within Struct</a>
+<a href="c-arrays-within-structures.html">C Array within Structure</a>
+<a href="c-pointers-to-structures.html">C Pointer to Structure</a>
+<a href="c-structures-functions.html">C Structure and Function</a>
+<a href="c-enumeration.html">C Enum</a>
+<a href="c-bit-fields.html">C Bitfield Structure</a>
+<a href="c-typedef.html">C Type def</a>
+<h3>Union</h3>
+<a href="c-union.html">What is Union</a>
+<h3>Files</h3>
+<a href="c-files.html">What is File</a>
+<a href="c-file-read.html">C read a file</a>
+<a href="c-file-write.html">C write a file</a>
+<a href="c-file-handling.html">C File Handling</a>
+<a href="c-error-handling.html">C Error Handling</a>
+<a href="c-low-level-disk-io.html">C Low Level Disk I/O</a>
+<a href="c-file-functions.html">C Other file functions</a>
+<h3>Memory Allocation</h3>
+<a href="c-dynamic-memory-allocation.html">What is Memory Allocation</a>
+<a href="c-malloc.html">C Malloc()</a>
+<a href="c-calloc.html">C Calloc()</a>
+<a href="c-free-function.html">C Free()</a>
+<a href="c-realloc.html">C Realloc()</a>
+<a href="c-coreleft-function.html">C Coreleft()</a>
+<h3>C Reference</h3>
+<a href="ascii-table.html">All ASCII Code</a>
+<a href="basic-interview-questions-in-c.html">Basic C Questions</a>
+<h3>C Interview</h3>
+<a href="../c-questions/index.html">C Interview Sets</a>
+<a href="c-star-patterns.html">All Star Patterns</a>
+<a href="c-number-patterns.html">All Number Patterns</a>
+<a href="c-alphabet-patterns.html">All Alphabet Patterns</a>
+<a href="c-series-patterns.html">All Series Patterns</a>
+</div></div>
+</div>
+</div>
+<div class="contentsection">
+<div class="row">
+<div class="col-md-10">
+<div class="quotes">
+<blockquote>The ones who are crazy enough to think they can change the world are the ones who do.</blockquote><span>- Steve Jobs</span>
+</div>
+<div class="nextprev">
+<a href="c-control-loop.html" class="prev">PREV</a><a href="c-nested-for-loops.html" class="nxt">NEXT</a>
+</div>
+<h1>C for loop</h1>
+<h2>what is <strong>for loop</strong>?</h2>
+<p>Conceptually, <strong>for loop</strong> is a bit more complex than while loop and do while loop, though syntax is neat and compact way to write certain types of loops. Typically, a programmer need to use a <strong>for loop</strong> when you exactly know how many times you want a block of statement to be executed repeatedly.</p>
+<h2>Syntax <strong>for loop</strong></h2>
+<p>Let us see how neat a syntax of <strong>for loop</strong> is</p>
+<div class="programbox">
+<span class="filename">Syntax</span>
+<pre>for (initializeCounter; testCondition; ++ or -- )
+{
+.
+.
+}
+</pre>
+</div>
+<h2><strong>for loop</strong> FlowChart</h2>
+<img src="../images/c-for-loop.svg" class="img-responsive" alt="C for Loop" width="350px" height="350px">
+<h2><strong>for loop</strong> Realtime</h2>
+<svg xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" viewBox="0 0 630.08003 550.46002"><style>.an1{animation:blink 1.5s ease 5;}.an2{animation:blink1 1.5s ease 5;}.an3{animation:blink2 1.5s ease 5;}.an4{animation:blink3 1.5s ease 5;}.an5{animation:blink4 1.5s ease 5;}.an6{animation:blink5 1.5s ease 5;}@keyframes blink{0%{fill:#3dd487;}100%{fill:#909090;}}@keyframes blink1{0%{stroke:#4dae79;}100%{stroke:#72706d;}}@keyframes blink2{0%{fill:#4dae79;}100%{fill:#646464;}}@keyframes blink3{0%{fill:#3dd487;}100%{fill:#646464;}}@keyframes blink4{0%{stroke:#00ff7d}100%{stroke:#c7c7c7;}}@keyframes blink5{0%{stroke:#41b077;}100%{stroke:#c7c7c7;}}@keyframes blink6{0%{stroke:#3dd487;}100%{stroke:#949494;}}</style><g transform="translate(40.754 -230.7)"><g transform="translate(57.674 290.81)"><g transform="matrix(.73673 0 0 .73673 392.35 -207.42)"><path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#0f7391" d="m-313.92 353.04c-3.5482 0-6.4043 2.8581-6.4043 6.4062v458.45c0 3.5482 2.8561 6.4062 6.4043 6.4062h464.25v-37.898l-.35156-.35157 17.725-17.725v-290.61l-17.725-17.725.2207-.22071h-.23633v-86.205l-20.525-20.525h-443.36z"/><circle r="2.5" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" cx="-183.58" cy="763.77"/><circle cx="-183.58" cy="719.77" r="2.5" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff"/><path d="m-193.04 719.99-13.525 13.527v30.729h45.957v-30.73l-13.525-13.525h-18.906z" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#333"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" height="6.7083" width="20.125" y="395.88" x="-254.54"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" height="6.7083" width="20.125" y="395.88" x="-308.54"/><circle cx="149.43" cy="511.25" r="11.74" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff"/><circle r="11.74" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" cx="149.43" cy="751.25"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="5.3905" height="22.309" width="44.619" y="536.67" x="112.55"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="5.3905" height="22.309" width="44.619" y="559.77" x="112.55"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="5.3905" height="22.309" width="44.619" y="582.87" x="112.55"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="543.82" x="121.64"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="543.82" x="141.64"/><g transform="translate(0 -.50731)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="567.43" x="121.64"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="567.43" x="141.64"/></g><g transform="translate(0 22.593)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="567.43" x="121.64"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="567.43" x="141.64"/></g><circle r="11.74" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" cx="-194.57" cy="374.78"/><circle cx="-214.57" cy="802.56" r="11.74" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" height="6.7083" width="20.125" y="361.88" x="-308.54"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" height="12.578" width="20.125" y="375.88" x="-306.54"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" height="6.7083" width="20.125" y="361.88" x="-254.54"/><path d="m-300.76 359.3v46.959h60.375v-46.959h-17.25v1.4805h-25.875v-1.4805h-17.25z" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ccc"/><circle cx="-270.57" cy="382.78" r="11.74" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#c4413e"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#b3b3b3" height="31.865" width="10.062" y="429.78" x="-322.16"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#b3b3b3" height="82.177" width="124.1" y="439.78" x="-368.16"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#999" height="82.177" width="21.802" y="439.78" x="-368.16"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#8e8e8e" height="5.0313" width="124.1" y="439.78" x="-368.16"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#b3b3b3" height="31.865" width="10.062" y="503.78" x="-322.16"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#bfbfbf" height="5.0313" width="124.1" y="519.78" x="-368.16"/><g transform="matrix(0 -1 1 0 -612.36 248.3)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="5.3905" height="22.309" width="44.619" y="396.67" x="-187.45"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="5.3905" height="22.309" width="44.619" y="419.77" x="-187.45"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="5.3905" height="22.309" width="44.619" y="442.87" x="-187.45"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="403.82" x="-178.36"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="403.82" x="-158.36"/><g transform="translate(-300 -140.51)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="567.43" x="121.64"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="567.43" x="141.64"/></g><g transform="translate(-300 -117.41)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="567.43" x="121.64"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#928b69" ry="1.933" height="8" width="8" y="567.43" x="141.64"/></g></g><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#333" height="40.25" width="261.62" y="661.83" x="-120.75"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#f6f4f0" class="on" height="9.859" width="20.108" y="503.29" x="85.439"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#f6f4f0" height="9.859" width="20.108" y="451.29" x="-106.56"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#f6f4f0" height="9.859" width="20.108" y="491.29" x="-106.56"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#f6f4f0" height="9.859" width="20.108" y="507.29" x="-106.56"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#333" height="40" width="40" y="488.25" x="-180.56"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#2b2c2b" height="58.399" width="91.722" y="718.56" x="-329.91"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="6.4918" width="91.722" y="770.56" x="-329.91"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#4b4b4b" height="6.4918" width="91.722" y="718.56" x="-329.91"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#333" height="64.781" width="18.968" y="715.37" x="-331.62"/><path d="m-312.29 725.09h38.717l13.402 13.402h21.911v19.359h-22.975l-11.913 11.913h-39.568z" style="fill:#232323;fill-rule:evenodd"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#999" height="8.4166" width="14.151" y="658.98" x="-253.4"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#999" height="8.4166" width="19.566" y="676.05" x="-259.42"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#999" height="8.4166" width="19.566" y="693.12" x="-259.42"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#999" height="25.224" width="26.937" y="667.65" x="-289.78"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#333" height="47.655" width="26.305" y="655.83" x="-276.86"/><circle r="20.249" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" cx="-183.58" cy="742.12"/><path d="m-197.19 757.08a20.249 20.249 0 0 0 13.609 5.2871 20.249 20.249 0 0 0 13.611 -5.2871h-27.221z" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto"/><circle cx="-133.58" cy="763.77" r="2.5" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff"/><circle r="2.5" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff" cx="-133.58" cy="719.77"/><path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#333" d="m-143.04 719.99-13.525 13.527v30.729h45.957v-30.73l-13.525-13.525h-18.906z"/><circle cx="-133.58" cy="742.12" r="20.249" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6"/><path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" d="m-147.19 757.08a20.249 20.249 0 0 0 13.609 5.2871 20.249 20.249 0 0 0 13.611 -5.2871h-27.221z"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="0" height="18.72" width="144.23" y="798.65" x="-128.92"/><g transform="translate(0,502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-126.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-123.53"/></g><g transform="translate(-2,502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-106.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-103.53"/></g><g transform="translate(14,502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-86.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-83.533"/></g><g transform="translate(12 502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-66.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-63.533"/></g><g transform="translate(10 502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-46.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-43.533"/></g><g transform="translate(8 502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-26.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-23.533"/></g><g transform="translate(.000013351 502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-.68222"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="2.4667"/></g><g transform="translate(16,502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-106.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-103.53"/></g><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="0" height="18.72" width="106.89" y="798.65" x="35.084"/><g transform="translate(164,502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-126.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-123.53"/></g><g transform="translate(162,502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-106.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-103.53"/></g><g transform="translate(178,502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-86.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-83.533"/></g><g transform="translate(176,502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-66.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-63.533"/></g><g transform="translate(174 502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-46.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-43.533"/></g><g transform="translate(180,502)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-106.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-103.53"/></g><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="0" height="18.72" width="144.23" y="364.65" x="-8.9159"/><g transform="translate(120,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-126.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-123.53"/></g><g transform="translate(118,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-106.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-103.53"/></g><g transform="translate(134,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-86.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-83.533"/></g><g transform="translate(132,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-66.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-63.533"/></g><g transform="translate(130 68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-46.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-43.533"/></g><g transform="translate(128 68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-26.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-23.533"/></g><g transform="translate(120,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-.68222"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="2.4667"/></g><g transform="translate(136,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-106.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-103.53"/></g><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#404040" ry="0" height="18.72" width="161.25" y="364.65" x="-179.93"/><g transform="translate(-34,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-126.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-123.53"/></g><g transform="translate(-36,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-106.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-103.53"/></g><g transform="translate(-20,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-86.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-83.533"/></g><g transform="translate(-22,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-66.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-63.533"/></g><g transform="translate(-24 68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-46.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-43.533"/></g><g transform="translate(-26 68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-26.682"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-23.533"/></g><g transform="translate(-34 68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-.68222"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="2.4667"/></g><g transform="translate(-18,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-106.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-103.53"/></g><g transform="translate(-52,68)"><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#595858" height="14.04" width="12.551" y="298.88" x="-126.68"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto" height="7.0506" width="6.2535" y="302.37" x="-123.53"/></g><text style="letter-spacing:0px;font-size:16.962px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" y="420.61789" x="-295.76025" xml:space="preserve"><tspan y="420.61789" x="-295.76025" style="font-size:15px;font-family:sans-serif">RESET</tspan></text><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" y="450.61789" x="-215.76025"><tspan x="-215.76025" style="font-size:13.75px;line-height:125%;font-family:&apos;OCR A Std&apos;" y="450.61789">ICSP2</tspan></text><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" y="461.57111" x="-119.76025" xml:space="preserve"><tspan y="461.57111" x="-119.76025" style="font-size:13.75px;line-height:125%;font-family:&apos;OCR A Std&apos;">L</tspan></text><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" y="501.57111" x="-128.55685"><tspan x="-128.55685" style="font-size:13.75px;line-height:125%;font-family:&apos;OCR A Std&apos;" y="501.57111">TX</tspan></text><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" y="517.57111" x="-128.55685" xml:space="preserve"><tspan y="517.57111" x="-128.55685" style="font-size:13.75px;line-height:125%;font-family:&apos;OCR A Std&apos;">RX</tspan></text><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" y="513.56427" x="108.23975"><tspan x="108.23975" style="font-size:13.75px;line-height:125%;font-family:&apos;OCR A Std&apos;" y="513.56427">ON</tspan></text><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" y="505.56427" x="-72.354294" xml:space="preserve"><tspan y="505.56427" x="-72.354294" style="font-size:15.625px;font-weight:bold;line-height:125%;font-family:&apos;OCR A Std&apos;">Arduino<tspan style="font-size:65%;baseline-shift:super">TM</tspan></tspan></text><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" y="427.56427" x="-23.760246" xml:space="preserve"><tspan y="427.56427" x="-23.760246" style="font-size:11.25px;line-height:125%;font-family:&apos;OCR A Std&apos;">Digital PWM = ~</tspan></text><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" y="751.65479" x="-33.943649"><tspan x="-33.943649" style="font-size:11.25px;line-height:125%;font-family:&apos;OCR A Std&apos;" y="751.65479">POWER</tspan></text><text style="font-size:15.224px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" y="751.20117" x="68.287895" xml:space="preserve"><tspan y="751.20117" x="68.287895" style="font-size:10.097px;line-height:125%;font-family:&apos;OCR A Std&apos;">ANALOG IN</tspan></text><g transform="translate(.0000011955)"><g transform="matrix(.83598 0 0 .82067 -8.6299 83.039)"><path d="m-20.486 465.77c.15176 3.9968-4.1737 7.7387-6.419 10.829-4.6618 6.4172-13.325 10.027-21.153 7.2838-11.876-3.1899-17.369-18.937-10.045-28.819 6.5573-10.407 23.223-10.998 30.5-1.0801 2.6466 3.318 7.1269 7.5421 7.1166 11.786z" style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fff;stroke-linecap:round;stroke-width:11.471;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto"/><path style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fff;stroke-linecap:round;stroke-width:11.471;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" d="m-19.455 465.77c-.15176 3.9968 4.1737 7.7387 6.419 10.829 4.6618 6.4172 13.325 10.027 21.153 7.2838 11.876-3.1899 17.369-18.937 10.045-28.819-6.5573-10.407-23.223-10.998-30.5-1.0801-2.6466 3.318-7.1269 7.5421-7.1166 11.786z"/></g><text style="letter-spacing:0px;font-size:35px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#ffffff" xml:space="preserve" transform="scale(.98008 1.0203)" y="470.97495" x="-55.736698"><tspan x="-50.736698" y="465.97495">-</tspan></text><text style="font-size:35px;font-family:sans-serif;letter-spacing:0px;line-height:125%;word-spacing:0px;font-weight:bold;fill:#ffffff" transform="scale(.98008 1.0203)" xml:space="preserve" y="462.73886" x="-15.514002"><tspan y="463.73886" x="-13.514002" style="font-size:20.707px;font-weight:bold;line-height:125%;font-family:sans-serif">+</tspan></text></g><path d="m-130.56 433.67h265.88" style="stroke:#fff;stroke-width:2.7147;fill:none"/><path style="stroke:#fff;stroke-width:2.7147;fill:none" d="m-75.337 737.67h82.654"/><path d="m26.802 737.67h107.45" style="stroke:#fff;stroke-width:2.7147;fill:none"/><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" y="477.06619" x="27.738407" xml:space="preserve"><tspan y="477.06619" x="27.738407" style="font-size:31.25px;line-height:125%;font-family:Arial">UNO</tspan></text><rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#fff;stroke-linecap:round;stroke-width:2.7147;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto;stroke-dasharray:2.71469714, 5.42939426" rx="18.87" ry="18.958" height="37.916" width="84.429" y="446.92" x="20.787"/><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="-97.544113" x="-793.11774"><tspan y="-97.544113" x="-793.11774">IOREF</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="-79.544113" x="-793.11774"><tspan x="-793.11774" y="-79.544113">RESET</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="-61.544109" x="-793.11774"><tspan y="-61.544109" x="-793.11774">EVE</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="-43.544106" x="-793.11774"><tspan x="-793.11774" y="-43.544106">5V</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="-25.550352" x="-793.11774"><tspan y="-25.550352" x="-793.11774">GND</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="-7.5503497" x="-793.11774"><tspan x="-793.11774" y="-7.5503497">GND</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="10.449653" x="-793.11774"><tspan y="10.449653" x="-793.11774">VIN</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="48.455891" x="-793.10376"><tspan x="-793.10376" y="48.455891">A0</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="66.455887" x="-793.10376"><tspan y="66.455887" x="-793.10376">A1</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="84.455887" x="-793.10376"><tspan x="-793.10376" y="84.455887">A2</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="102.45589" x="-793.10376"><tspan y="102.45589" x="-793.10376">A3</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="120.45589" x="-793.10376"><tspan x="-793.10376" y="120.45589">A4</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="138.4559" x="-793.10376"><tspan y="138.4559" x="-793.10376">A5</tspan></text><text style="font-size:16.962px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="106.18264" x="-604.50476"><tspan y="106.18264" x="-604.50476" style="font-size:13.75px;line-height:125%;font-family:&apos;OCR A Std&apos;">ICSP</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="-131.54411" x="-425.11774"><tspan x="-425.11774" y="-131.54411">AREF</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" y="-113.54411" x="-416.10895" xml:space="preserve"><tspan y="-113.54411" x="-416.10895">GND</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" y="-95.544113" x="-407.10016" xml:space="preserve"><tspan y="-95.544113" x="-407.10016">12</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="-77.544113" x="-407.10016"><tspan x="-407.10016" y="-77.544113">11</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" y="-59.544102" x="-407.10016" xml:space="preserve"><tspan y="-59.544102" x="-407.10016">10</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="-41.544102" x="-398.09137"><tspan x="-398.09137" y="-41.544102">9</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="58.455891" x="-398.09137"><tspan y="58.455891" x="-398.09137">4</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="-23.544102" x="-398.09137"><tspan x="-398.09137" y="-23.544102">8</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="4.4558892" x="-398.09143"><tspan x="-398.09143" y="4.4558892">7</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="40.455891" x="-398.09137"><tspan y="40.455891" x="-398.09137">5</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="22.455889" x="-398.09137"><tspan y="22.455889" x="-398.09137">6</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="76.455887" x="-398.09137"><tspan x="-398.09137" y="76.455887">3</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="rotate(-90)" xml:space="preserve" y="94.455902" x="-398.09137"><tspan y="94.455902" x="-398.09137">2</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" xml:space="preserve" transform="rotate(-90)" y="112.4559" x="-398.09137"><tspan x="-398.09137" y="112.4559">1</tspan></text><text style="font-size:12.5px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:&apos;OCR A Std&apos;;fill:#ffffff" transform="matrix(0,1,1,0,0,0)" xml:space="preserve" y="130.45589" x="389.09137"><tspan y="130.45589" x="389.09137">0</tspan></text></g><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#1a1a1a" height="50.571" width="66.504" y="121.57" x="65.116"/><g transform="translate(-220)"><path d="m525.23-16.352c-4.2201 0-7.6174 4.1228-7.6174 9.244v21.02c.27926-.0373.56178-.0601.84953-.0601h20.199c.2878 0 .57197.0228.8513.0601v-21.02c0-5.1212-3.3973-9.244-7.6174-9.244h-6.6652z" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#3dd487;" class="an1"/><path d="m538.66 67.969v-43.162l-5.5728-3.1062v-9.5994" style="stroke:#b5b5b5;stroke-width:3;fill:none"/><path d="m525.11 68.162v-54.787" style="stroke:#b5b5b5;stroke-width:3;fill:none"/><ellipse class="an2" style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#4dae79;stroke-linecap:round;stroke-width:3;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" rx="10.588" ry=".26039" cy="13.406" cx="528.56"/><rect class="an3" style=";color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#4dae79" ry="0" height="8.838" width="14.293" y="-5.6389" x="521.63"/><rect class="an4" style=";color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#4dae79" ry="0" height="8.838" width="1.0427" y="-.031729" x="521.55"/><path d="m521.51 12.229v-21.103s.55211-3.5171 4.0488-3.8688" style="opacity:0.667;stroke:#41b077;stroke-width:3;fill:none;animation:blink5 1s ease 5;"/><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#4dae79" ry="0" height="8.838" width="1.0427" y="-.031729" x="534.88"/><rect ry="0" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#3dd487;" class="an6" transform="matrix(.62932 .77715 -.62932 .77715 0 0)" height="12.28" width="1.4494" y="-426.93" x="418.57"/><path d="m533.64-14.356s3.904 2.8643 3.904 4.1662" style="stroke:#75dba7;stroke-width:3;fill:none;" class="an5"/></g><rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" height="50.571" width="12.45" y="121.57" x="119.17"/><path d="m63.969 147.8s-44.778-2.5588-81.88 37.102-47.337 133.06-47.337 133.06-3.8381 113.86-31.984 124.1" style="stroke:#000;stroke-width:7;fill:none"/></g></g></svg>
+<h2>Program <strong>for loop</strong></h2>
+<p>The following example program will clearly explain the concept of <strong>for loop</strong></p>
+<div class="programbox">
+<span class="filename">for.c</span>
+<pre>#include &lt;stdio.h&gt;
+int main()
+{
+int a;
+for(a = 1;a &lt;= 5;a++)
+{
+printf("%d ",a);
+}
+return 0;
+}</pre>
+</div>
+<div class="outputbox">
+<ul>
+<li>1 2 3 4 5</li>
+</ul>
+</div>
+<div class="note">
+<h4>Note:</h4>
+<p class="explain">The variable a is initialized to 1 for the first time when the program execution starts in. The condition a &lt;= 5 is a test condition, which is tested for every iteration. The statements under a loop will be executed repeatedly until the test condition is true.</p>
+</div>
+<h2>Infinite <strong>for loop</strong></h2>
+<p> When the for statement contains no test condition between the <strong>;</strong>(semicolon) then the loop is said to be an infinite for loop.</p>
+<h2>Program Infinite <strong>for loop</strong></h2>
+<p>The following C program will clearly demonstrate <strong>infinite for loop</strong></p>
+<div class="programbox">
+<span class="filename">goto.c</span>
+<pre>#include &lt;stdio.h&gt;
+int main()
+{
+int a = 1;
+for(;;)
+{
+printf("%d ", a++);
+}
+return 0;
+}</pre>
+</div>
+<div class="outputbox">
+<ul>
+<li>1 2 3 4 5 ...........</li>
+</ul>
+</div>
+<div class="note">
+<h4>Note:</h4>
+<p class="explain">for(;;) statement allows execution of a loop continued for infinite times.</p>
+</div>
+<div class="nextprev">
+<a href="c-control-loop.html" class="prev">PREV</a><a href="c-nested-for-loops.html" class="nxt">NEXT</a>
+</div>
+<div class="col-md-12 bot-adv">
+    <script async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+    <!-- Bottom Ad -->
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-1272335038483755"
+        data-ad-slot="1500845782"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div><div class="col-md-12">
+<div class="row">
+<div class="rellinks col-sm-6">
+<h4>Related to for loop</h4>
+<ul>
+<li><a href="c-switch-statement.html">C Switch Statement</a></li>
+<li><a href="c-nested-if.html">C Nested if Statement</a></li>
+<li><a href="c-goto-statement.html">C Goto Statement</a></li>
+</ul>
+</div>
+<div class="testlinks col-sm-6">
+<h4>Take a test</h4>
+<ul>
+<li><a href="../c-questions/if-else-questions-c-1.html">If Else Questions</a></li>
+<li><a href="../c-questions/for-loop-questions-c-1.html">For Loop Questions</a></li>
+<li><a href="../c-questions/while-loop-questions-c-1.html">While Loop Questions</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--report us-->
+<div class="col-md-12 report">
+<div class="col-md-3">
+<img src="../images/reporterror.svg" width="150" class="img-responsive">
+</div>
+<div class="col-md-9">
+<h4>Report Us</h4>
+<p>We may make mistakes(spelling, program bug, typing mistake and etc.), So we have this container to collect mistakes. We highly respect your findings.</p>
+</div>
+<div class="rprtbtn">Report</div>
+<div class="rprtfrm">
+<form class="">
+<label for="err">Error Line</label>
+<textarea id="err" rows="3" class="errbox" placeholder="Copy and paste the error line"></textarea>
+<label for="cor">Corrected Line</label>
+<textarea id="cor" rows="3" class="corbox" placeholder="Write here, If you know the right"></textarea>
+<button type="submit" class="sndbtn">Send</button>
+</form>
+</div>
+</div>
+<!--end report us-->
+</div>
+<div class="statusmsg"></div>
+<div class="col-md-2 radside">
+    <div class="radfrst">
+        <div class="inradfrst">
+            <script async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+            <!-- Right side bottom -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-1272335038483755"
+                data-ad-slot="6561600777"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+    <div class="radscnd">
+        <div class="inradscnd">
+            <script async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+            <!-- Right side bottom -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-1272335038483755"
+                data-ad-slot="6561600777"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+</div>
+<div class="col-md-12 bot-adv">
+    <script async src="../../pagead2.googlesyndication.com/pagead/js/f.txt"></script>
+    <!-- Bottom Ad -->
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-1272335038483755"
+        data-ad-slot="1500845782"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+<!--Footer-->
+<div class="ftrpro col-md-12">
+    <div class="inftrpro">
+        <div class="ftrlis">
+            <h4>Programming</h4>
+            <ul>
+                <li><a href="index.html">C Programming</a></li>
+                <li><a href="../data-structures/index.html">Data structures</a></li>
+            </ul>
+        </div>
+        <div class="ftrlis">
+            <h4>Electrical</h4>
+            <ul>
+                <li><a href="../electrical/ohms-law.html">Ohm's Law</a></li>
+                <li><a href="../electrical/thevenin-theorem.html">Thevenin's Theorem</a></li>
+            </ul>
+        </div>
+        <div class="ftrlis">
+            <h4>Interview</h4>
+            <ul>
+                <li><a href="../c-questions/index.html">C Interview</a></li>
+                <li><a href="../aptitude/index.html">Aptitude</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="soclik">
+        <a href="https://twitter.com/2bracesindia" rel="nofollow" target="_blank" class="socialicons twit"></a>
+        <a href="https://www.facebook.com/2braces" rel="nofollow" target="_blank" class="socialicons fb"></a>
+        <a href="https://plus.google.com/+2bracesIndia" rel="nofollow" target="_blank" class="socialicons gplus"></a>
+        <a href="https://www.linkedin.com/company/2braces" rel="nofollow" target="_blank" class="socialicons edin"></a>
+    </div>
+    <p class="copyright">&#169; Copyright 2019</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="tutcornerbtn"><span class="hamburg"
+        style="background:linear-gradient(90deg, rgb(91, 236, 143) 20%, rgb(255, 126, 126) 50%, rgb(91, 236, 143) 99%);"></span>
+</div>
+<div class="cornermenu disnone">
+    <ul>
+        <li><a href="index.html">C Programming</a></li>
+        <li><a href="../data-structures/index.html">Data Structures</a></li>
+        <li><a href="../c-questions/index.html">C Questions</a></li>
+        <li><a href="../aptitude/index.html">Aptitude</a></li>
+        <li><a href="../electrical/index.html">Electrical</a></li>
+    </ul>
+</div>
+<script src="../js/jquery.js"></script>
+
+</body>
+
+
+<!-- Mirrored from www.2braces.com/c-programming/c-for-loop by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Feb 2020 16:35:15 GMT -->
+</html>

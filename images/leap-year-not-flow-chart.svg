@@ -1,0 +1,51 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="603.65mm" width="374.79mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1328 2138.9016" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <marker id="o" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000;stroke-width:.625;fill:#ff3800" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+  <marker id="n" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000;stroke-width:.625;fill:#ff3800" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+  <marker id="m" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000;stroke-width:.625;fill:#ff3800" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+  <marker id="l" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;fill-opacity:.93333;fill-rule:evenodd;stroke:#000;stroke-width:.625;fill:#58b389" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+  <marker id="k" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000;stroke-width:.625;fill:#ffe700" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+  <marker id="j" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000;stroke-width:.625;fill:#ff3800" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+  <marker id="i" refY="0" refX="0" style="overflow:visible" orient="auto">
+   <path style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000;stroke-width:.625;fill:#4a95f8" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"/>
+  </marker>
+  <symbol id="a">
+   <title>Decision</title>
+   <desc>A decision or switching type operation.</desc>
+   <path style="stroke-width:2" d="m15 75 60-40 60 40-60 40z"/>
+  </symbol>
+ </defs>
+ <rect style="stroke-linejoin:bevel;color-rendering:auto;stroke-opacity:.36593;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#dbb70a;stroke-linecap:square;image-rendering:auto;stroke-width:8;fill:none" height="160" width="480" y="295.05" x="844"/>
+ <rect style="stroke-linejoin:bevel;color-rendering:auto;stroke-opacity:.36471;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#000;stroke-linecap:square;image-rendering:auto;stroke-width:8;fill:none" height="160" width="480" y="904.76" x="844"/>
+ <rect style="stroke-linejoin:bevel;color-rendering:auto;stroke-opacity:.36593;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#dbb70a;stroke-linecap:square;image-rendering:auto;stroke-width:8;fill:none" height="160" width="480" y="1514.4" x="844"/>
+ <rect style="stroke-linejoin:bevel;color-rendering:auto;stroke-opacity:.36471;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke:#000;stroke-linecap:square;image-rendering:auto;stroke-width:8;fill:none" height="160" width="480" y="1974.9" x="4"/>
+ <use style="stroke:#58b389;stroke-width:.10957;fill:none" xlink:href="#a" transform="matrix(3.7258,0,0,5.5887,-42.087,-44.11)" height="100%" width="100%" y="0" x="0"/>
+ <text style="font-size:40px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" y="385.85309" x="86.058487" xml:space="preserve"><tspan y="385.85309" x="100.058487" style="font-size:40px;line-height:125%;font-family:sans-serif">year % 4 == 0</tspan></text>
+ <use style="stroke:#4a95f8;stroke-width:.10957;fill:none" xlink:href="#a" transform="matrix(3.7258,0,0,5.5887,-42.087,565.6)" height="100%" width="100%" y="0" x="0"/>
+ <text style="font-size:40px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" y="995.56305" x="60.589664" xml:space="preserve"><tspan y="995.56305" x="93.589664" style="font-size:40px;line-height:125%;font-family:sans-serif">year % 100 == 0</tspan></text>
+ <use style="stroke:#ff3800;stroke-width:.10957;fill:none" xlink:href="#a" transform="matrix(3.7258 0 0 5.5887 -42.087 1175.3)" height="100%" width="100%" y="0" x="0"/>
+ <text style="font-size:40px;letter-spacing:0px;line-height:125%;word-spacing:0px;font-family:sans-serif;fill:#000000" y="1605.2731" x="60.589664" xml:space="preserve"><tspan y="1605.2731" x="93.589664" style="font-size:40px;line-height:125%;font-family:sans-serif">year % 400 == 0</tspan></text>
+ <path d="m237.31 616v124.45" style="fill:#4a95f8;stroke:#000;stroke-width:4;marker-end:url(#i);fill-rule:evenodd"/>
+ <path d="m237.31 1225.7v124.45" style="fill:#ff3800;stroke:#000;stroke-width:4;marker-end:url(#j);fill-rule:evenodd"/>
+ <path d="m237.31 1835.4v124.45" style="fill:#ffe700;stroke:#000;stroke-width:4;marker-end:url(#k);fill-rule:evenodd"/>
+ <path d="m237.31 0v124.45" style="marker-end:url(#l);fill-opacity:.93333;fill-rule:evenodd;stroke:#000;stroke-width:4;fill:#58b389"/>
+ <text style="font-size:60px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="390.82584" x="870.74377" xml:space="preserve"><tspan y="390.82584" x="870.74377">Not Leap Year</tspan></text>
+ <text style="font-size:60px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="1000.5336" x="933.79059" xml:space="preserve"><tspan y="1000.5336" x="933.79059">Leap Year</tspan></text>
+ <text style="font-size:60px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="1610.2412" x="870.74377" xml:space="preserve"><tspan y="1610.2412" x="870.74377">Not Leap Year</tspan></text>
+ <text style="font-size:60px;letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#000000" y="2070.6829" x="93.790627" xml:space="preserve"><tspan y="2070.6829" x="93.790627">Leap Year</tspan></text>
+ <path d="m515.45 984.79h275.72" style="fill:#ff3800;stroke:#000;stroke-width:4;marker-end:url(#m);fill-rule:evenodd"/>
+ <path d="m515.45 375.08h275.72" style="fill:#ff3800;stroke:#000;stroke-width:4;marker-end:url(#n);fill-rule:evenodd"/>
+ <path d="m515.45 1594.5h275.72" style="fill:#ff3800;stroke:#000;stroke-width:4;marker-end:url(#o);fill-rule:evenodd"/>
+</svg>
